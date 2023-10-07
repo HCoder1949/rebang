@@ -1,0 +1,40 @@
+name: auto_get_hot
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
+      
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.9"
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+        
+    - name: Run .py
+      run: python hot_to_md.py
+
+    - name: Config git
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "github"
+        git remote set-url origin "https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}"
+        git pull --rebase
+
+    - name: Update repo
+      run: |
+          git add .
+          git commit -m "auto update"
+          git push -u origin main

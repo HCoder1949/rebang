@@ -2,7 +2,9 @@ name: auto_get_hot
 
 on:
   schedule:
-    - cron: "0/5 * * * *"
+    # - cron: "0/5 * * * *"
+    # - cron: "59 23 * * *"
+    - cron: "48 21 * * *"
 
 # 解决方案 --Process completed with exit code 128.
 permissions:
@@ -28,7 +30,8 @@ jobs:
         pip install requests
         
     - name: Run .py
-      run: python hot_to_md.py
+      run: python hot_to_csv.py
+      # hot_to_csv.py    hot_to_md.py
 
     - name: Config git
       run: |

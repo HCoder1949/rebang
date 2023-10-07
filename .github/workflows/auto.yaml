@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "0/5 * * * *"
 
+# 解决方案 --Process completed with exit code 128.
+permissions:
+  contents: write
+  
 jobs:
   build:
     runs-on: ubuntu-latest

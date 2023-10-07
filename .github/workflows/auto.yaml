@@ -28,7 +28,7 @@ jobs:
         pip install requests
         
     - name: Run .py
-      run: python hot_to_csv.py
+      run: python hot_to_md.py
 
     - name: Config git
       run: |

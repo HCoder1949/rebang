@@ -2,7 +2,7 @@ name: auto_get_hot
 
 on:
   schedule:
-    - cron: "05 15 * * *"
+    - cron: "40 23 * * *"
 
 # 解决方案 --Process completed with exit code 128.
 permissions:
@@ -16,11 +16,15 @@ jobs:
       
     steps:
     - uses: actions/checkout@v2
+    - uses: szenius/set-timezone&@v1.0  # 设置执行环境的时区
+      with:
+        timezoneLinux: “Asia/Shanghai“
 
     - name: Set up Python 3.9
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v2  # 使用python装配器
       with:
-        python-version: "3.9"
+        python-version: "3.9" # 指定python版本
+        cache: ‘poetry‘ # 设置缓存 新增20231007
 
     - name: Install dependencies
       run: |

@@ -3,8 +3,6 @@ name: auto_get_hot
 on:
   schedule:
     - cron: "0/5 * * * *"
-    # - cron: "59 23 * * *"
-    # - cron: "59 21 * * *"
 
 # 解决方案 --Process completed with exit code 128.
 permissions:

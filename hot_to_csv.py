@@ -11,7 +11,7 @@ def get_api_data(url):
         return None
 
 if __name__ == "__main__":
-    time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+    time = time.strftime("%Y-%m-%d %H_%M_%S", time.localtime())
     year, month, day = time.split()[0].split("-")
     
     api_url = "https://api.oioweb.cn/api/common/HotList"  # API接口地址

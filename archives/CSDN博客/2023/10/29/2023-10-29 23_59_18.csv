@@ -1,0 +1,51 @@
+index,hot,title,href
+1,3.5万,2023年第四届MathorCup大数据挑战赛（B题）|电商零售商家需求预测及库存优化问题|数学建模完整代码+建模过程全解全析,https://blog.csdn.net/qq_25834913/article/details/134082686
+2,3.1万,从瀑布模式到水母模式：ChatGPT如何赋能软件研发全流程,https://blog.csdn.net/H1727548/article/details/134085118
+3,2.8万,【牛牛送书 | 第二期】《ChatGPT 驱动软件开发：AI 在软件研发全流程中的革新与实践》,https://blog.csdn.net/fckbb/article/details/134075562
+4,2.3万,Python深度数据挖掘之电力系统负荷预测,https://blog.csdn.net/weixin_43178406/article/details/134068639
+5,2.2万,React Hooks 实战案例,https://blog.csdn.net/qq_32682301/article/details/134102759
+6,1.8万,【微信小程序开发】学习小程序的网络请求和数据处理,https://blog.csdn.net/m0_63947499/article/details/133804204
+7,1.7万,【内网穿透】搭建我的世界Java版服务器，公网远程联机,https://blog.csdn.net/m0_68662723/article/details/134083398
+8,1.6万,【腾讯云 HAI域探秘】——自行搭建Stable Diffusion模型服务用于生成AI图片 | 自行搭建ChatGL M26BAI模型服务用于AI对话,https://blog.csdn.net/feng8403000/article/details/134084387
+9,1.5万,使用FastAPI部署Ultralytics YOLOv5模型,https://blog.csdn.net/m0_46510245/article/details/134099699
+10,1.4万,解密人工智能：决策树 | 随机森林 | 朴素贝叶斯,https://blog.csdn.net/weixin_63115236/article/details/134068783
+11,1.4万,【腾讯云 TDSQL-C Serverless 产品体验】饮水机式使用云数据库,https://blog.csdn.net/2301_79516858/article/details/134089574
+12,1.3万,【腾讯云 TDSQL-C Serverless 产品体验】聚焦业务价值之在Serverless上的探索和实践,https://blog.csdn.net/weixin_42394043/article/details/134089801
+13,1.3万,DevChat：VSCode中的AI黑马,https://blog.csdn.net/JHXL_/article/details/134063654
+14,1.3万,spring6-提前编译：AOT,https://blog.csdn.net/m0_62946761/article/details/134064459
+15,1.2万,React中useEffect Hook使用纠错,https://blog.csdn.net/TianXuab/article/details/134099312
+16,1.2万,【腾讯云 TDSQL-C Serverless 产品体验】TDSQL-C MySQL Serverless助力企业降本增效直播读后感,https://blog.csdn.net/yang_juny1/article/details/134089706
+17,1.1万,好的FPGA编码风格（2）--多参考设计软件的语言模板（Language Templates）,https://blog.csdn.net/wuzhikaidetb/article/details/134068761
+18,1.1万,Spring Cloud 实战 | 解密负载均衡Ribbon底层原理，包含实战源码,https://blog.csdn.net/superdangbo/article/details/134057630
+19,1.1万,分布式数据库Apache Doris简易体验,https://blog.csdn.net/weixin_41645135/article/details/134092910
+20,1.0万,Vue和React的区别,https://blog.csdn.net/m0_72196169/article/details/134068388
+21,1.0万,【计算机网络】数据链路层——以太网,https://blog.csdn.net/m0_73888323/article/details/134094421
+22,9450,【代码思路】2023mathorcup 大数据数学建模B题 电商零售商家需求预测及库存优化问题,https://blog.csdn.net/yeqianqian_/article/details/134084234
+23,9359,【HarmonyOS】鸿蒙操作系统架构,https://blog.csdn.net/qq_41273999/article/details/134092903
+24,9067,【文末送书】GPT如何赋能软件研发全流程,https://blog.csdn.net/qq_43471489/article/details/134073822
+25,8541,【腾讯云 TDSQL-C Serverless 产品体验】TDSQL-C MySQL Serverless最佳实践,https://blog.csdn.net/wanmeijuhao/article/details/134082742
+26,8481,2023 年 MathorCup 数学建模大数据竞赛（A题）|基于计算机视觉的坑洼道路检测和识别|建模秘籍&文章代码思路大全,https://blog.csdn.net/Mmmath_secret/article/details/134083555
+27,8407,如何高效自学（黑客技术）方法——网络安全,https://blog.csdn.net/stopluox/article/details/134084013
+28,8362,OSG开发笔记（二十九）：OSG加载模型文件、加载3DMax三维型文件Demo,https://blog.csdn.net/qq21497936/article/details/134064988
+29,8004,在 Elasticsearch 中丰富你的 Elasticsearch 文档,https://blog.csdn.net/UbuntuTouch/article/details/134087810
+30,7912,哈工大操作系统实验一--调试分析 Linux 0.00 引导程序,https://blog.csdn.net/weixin_63064634/article/details/134061608
+31,6544,【SPSS】基于RFM+Kmeans聚类的客户分群分析（文末送书）,https://blog.csdn.net/m0_64336780/article/details/134097589
+32,6253,【微信小程序】发布投票与用户投票完整讲解,https://blog.csdn.net/Justw320/article/details/134086888
+33,6110,Azure - 机器学习：使用 Apache Spark 进行交互式数据整理,https://blog.csdn.net/magicyangjay111/article/details/134099553
+34,6028,微信小程序之投票管理,https://blog.csdn.net/weixin_73320743/article/details/134084908
+35,5578,YOLOv8改进之C2f模块融合CVPR2023 SCConv,https://blog.csdn.net/qq_43649937/article/details/134089285
+36,5474,Vue 3响应式对象: ref和reactive,https://blog.csdn.net/m0_72603435/article/details/134096290
+37,5176,基于web server实现工业数据采集,https://blog.csdn.net/qq_52305085/article/details/134087241
+38,5034,使用Linux JumpServer 堡垒机进行远程访问,https://blog.csdn.net/m0_73879806/article/details/134068313
+39,4886,nginx+keepalived实现nginx服务的高可用,https://blog.csdn.net/qq_19309473/article/details/134068184
+40,4498,【ETL工具】Datax-ETL-SqlServerToHDFS,https://blog.csdn.net/qq_35995514/article/details/134079591
+41,4345,不一样的网络协议-------KCP协议,https://blog.csdn.net/txh1873749380/article/details/134063485
+42,4218,2023年秋季学期人工神经网络第二次作业,https://blog.csdn.net/zhuoqingjoking97298/article/details/134088107
+43,3814,Cookie，Session，Token区别,https://blog.csdn.net/2301_80092713/article/details/134083616
+44,3533,【网络】序列化反序列化,https://blog.csdn.net/qq_65207641/article/details/133035797
+45,3450,【计算机网络】TCP协议,https://blog.csdn.net/C0631xjn_/article/details/134091230
+46,3316,【linux】文件系统+软硬连接+动静态库,https://blog.csdn.net/fight_p/article/details/133959150
+47,3119,2023年第四届MathorCup高校数学建模挑战赛——大数据竞赛B题,https://blog.csdn.net/qq_33690821/article/details/134082013
+48,3010,SpringCloud 微服务全栈体系（六）,https://blog.csdn.net/sgsgkxkx/article/details/134081593
+49,2961,公网远程访问macOS本地web服务器,https://blog.csdn.net/ks_wyf/article/details/134079639
+50,2897,Linux权限大揭秘：深入理解系统安全,https://blog.csdn.net/m0_74755811/article/details/134056158

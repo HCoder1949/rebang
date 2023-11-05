@@ -1,0 +1,51 @@
+index,hot,title,href
+1,4.7万,OpenCV实现手势音量控制,https://blog.csdn.net/weixin_51390582/article/details/134218385
+2,3.7万,解密人工智能：线性回归 | 逻辑回归 | SVM,https://blog.csdn.net/weixin_63115236/article/details/134227119
+3,2.1万,【兔子王赠书第6期】Python机器学习实战：基于Scikit-learn与PyTorch的神经网络解决方案,https://blog.csdn.net/m0_68111267/article/details/134210154
+4,1.9万,【微服务】mysql + elasticsearch数据双写设计与实现,https://blog.csdn.net/zhangcongyi420/article/details/134195062
+5,1.9万,Spring Boot 整合SpringSecurity和JWT和Redis实现统一鉴权认证,https://blog.csdn.net/2301_80092713/article/details/134215105
+6,1.9万,实现自动化构建与集成：Jenkins与SVN整合的指南,https://blog.csdn.net/qq_54796785/article/details/133899251
+7,1.6万,【网络奇遇记】那年我与计算机网络的初相识,https://blog.csdn.net/2301_80026901/article/details/134209912
+8,1.5万,我的创作纪念日--AI小怪兽打怪进阶路,https://blog.csdn.net/m0_63774211/article/details/134198685
+9,1.4万,【深入探究人工智能】历史、应用、技术与未来,https://blog.csdn.net/xz2935117143/article/details/134201480
+10,1.3万,OpenCV实战——OpenCV.js介绍,https://blog.csdn.net/LOVEmy134611/article/details/134194832
+11,1.3万,亚马逊云科技大语言模型下的六大创新应用功能,https://blog.csdn.net/lbcyllqj/article/details/134221123
+12,1.3万,Python数据挖掘实用案例——自动售货机销售数据分析与应用,https://blog.csdn.net/m0_68662723/article/details/134228275
+13,1.2万,Redis内存满的最佳解决方案,https://blog.csdn.net/jinxinxin1314/article/details/134194798
+14,9761,Azure 机器学习 - 设置 AutoML 训练时序预测模型,https://blog.csdn.net/magicyangjay111/article/details/134223408
+15,9071,四、数据库系统,https://blog.csdn.net/GTboy100/article/details/134233302
+16,8862,时间序列聚类的直观方法,https://blog.csdn.net/gongdiwudu/article/details/134212467
+17,8473,探索无限可能：APITable免费开源多维表格与可视化数据库远程访问的魅力,https://blog.csdn.net/st200112266/article/details/134223523
+18,8133,【Mysql系列】从零开始学MySQL：Docker部署快速上手,https://blog.csdn.net/qyj19920704/article/details/134210332
+19,8093,树莓派结合Nginx，轻松搭建内网穿透服务实现远程访问内部站点,https://blog.csdn.net/ks_wyf/article/details/134222137
+20,7918,基于Java+Vue+uniapp微信小程序外卖平台系统设计和实现,https://blog.csdn.net/weixin_39709134/article/details/134197509
+21,7689,【德哥说库系列】-Oracle 19C PDB创建大全,https://blog.csdn.net/weixin_41645135/article/details/134212574
+22,7474,【亚马逊云科技产品测评】活动征文｜亚马逊云科技AWS之EC2详细测评,https://blog.csdn.net/2202_75623950/article/details/134223673
+23,6864,【Docker】Docker中 的AUFS、BTRFS、ZFS、存储池概念的详细讲解,https://blog.csdn.net/2201_75366661/article/details/134231792
+24,6740,【开题报告】基于微信小程序的电子产品商城的设计与实现,https://blog.csdn.net/lf21qp/article/details/134228882
+25,5804,Kali Linux：网络与安全专家的终极武器,https://blog.csdn.net/qq_32682301/article/details/134167035
+26,5696,【计算机网络】物理层知识,https://blog.csdn.net/m0_65277261/article/details/134200925
+27,5509,linux 安全系列目录 - seccomp安全模块问题排查,https://blog.csdn.net/weixin_42740431/article/details/134209434
+28,5468,Document Solutions for Word（GcWord）6.2.5 Crack,https://blog.csdn.net/john_dwh/article/details/134227912
+29,5131,[Linux打怪升级之路]-信号的产生,https://blog.csdn.net/qq_61552595/article/details/134201755
+30,4984,【Vue.js】Vue3全局配置Axios并解决跨域请求问题,https://blog.csdn.net/SKMIT/article/details/134226890
+31,4606,基于.NET、Uni-App开发支持多平台的小程序商城系统 - CoreShop,https://blog.csdn.net/qq_37237487/article/details/134232802
+32,4590,【计算机网络笔记】TCP连接管理（图解三次握手和四次挥手）,https://blog.csdn.net/m0_60511809/article/details/134122169
+33,4239,python获取电脑所连接的wifi密码,https://blog.csdn.net/qq_34045989/article/details/134232749
+34,4137,【音视频 | opus】opus编码的Ogg封装文件详解,https://blog.csdn.net/wkd_007/article/details/134206646
+35,4066,YOLOv8改进之更换BiFPN并融合P2小目标检测层,https://blog.csdn.net/qq_43649937/article/details/134201814
+36,3737,一文读懂从 CPU 多级缓存 & 缓存一致性协议（MESI）到 Java 内存模型,https://blog.csdn.net/qq_35578171/article/details/134229610
+37,3543,Electron[2] Electron使用准备,https://blog.csdn.net/wltsysterm/article/details/134227423
+38,3505,计算机网络第4章-IPv4,https://blog.csdn.net/zheshiyangyang/article/details/134229513
+39,3474,无声的世界，精神科用药并结合临床的一些分析及笔记（十）,https://blog.csdn.net/michaelline/article/details/134173918
+40,3378,【Unity之UI编程】如何用UGUI搭建一个登录注册面板,https://blog.csdn.net/m0_64128218/article/details/134223658
+41,3343,Android可绘制资源概览(背景、图形等),https://blog.csdn.net/fumeidonga/article/details/134063768
+42,3325,MySQL---搜索引擎,https://blog.csdn.net/qq_51506982/article/details/134201512
+43,3043,微信内H5页面唤醒App,https://blog.csdn.net/qq_44859233/article/details/134232099
+44,2864,将 UniLinks 与 Flutter 集成（安卓 AppLinks + iOS UniversalLinks）,https://blog.csdn.net/duninet/article/details/134210803
+45,2832,yolov8+动物+姿态识别（训练教程+代码）,https://blog.csdn.net/ALiLiLiYa/article/details/134231545
+46,2830,1.Netty概述,https://blog.csdn.net/lock0531/article/details/134231962
+47,2749,BEV-YOLO 论文学习,https://blog.csdn.net/calvinpaean/article/details/134197804
+48,2534,FFmpeg——使用Canvas录制视频尚存问题的解决方案,https://blog.csdn.net/qq_45902692/article/details/134206682
+49,2309,读程序员的制胜技笔记04_有用的反模式（下）,https://blog.csdn.net/lyingSeven/article/details/134224064
+50,2282,ELK搭建以及使用教程（多pipiline）,https://blog.csdn.net/weixin_38405770/article/details/134229548

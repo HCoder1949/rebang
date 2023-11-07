@@ -1,0 +1,51 @@
+index,hot,title,href
+1,2.7万,OpenCV实现手势音量控制,https://blog.csdn.net/weixin_51390582/article/details/134218385
+2,2.1万,深入详解高性能消息队列中间件 RabbitMQ,https://blog.csdn.net/chenlycly/article/details/134253444
+3,1.9万,解密人工智能：线性回归 | 逻辑回归 | SVM,https://blog.csdn.net/weixin_63115236/article/details/134227119
+4,1.7万,聊聊接口重试机制的几种解决方案,https://blog.csdn.net/jinxinxin1314/article/details/134237081
+5,1.7万,使用群晖Docker搭建HomeAssistant并实现异地公网访问,https://blog.csdn.net/hsjsiwkwm/article/details/134244448
+6,1.6万,【SpringBoot篇】SpringBoot整合Mybatis实战,https://blog.csdn.net/m0_72853403/article/details/134240336
+7,1.6万,Python数据挖掘实用案例——自动售货机销售数据分析与应用,https://blog.csdn.net/m0_68662723/article/details/134228275
+8,1.5万,【微服务】mysql + elasticsearch数据双写设计与实现,https://blog.csdn.net/zhangcongyi420/article/details/134195062
+9,1.4万,Kali Linux：网络与安全专家的终极武器,https://blog.csdn.net/qq_32682301/article/details/134167035
+10,1.4万,【兔子王赠书第6期】Python机器学习实战：基于Scikit-learn与PyTorch的神经网络解决方案,https://blog.csdn.net/m0_68111267/article/details/134210154
+11,1.4万,【Docker】Docker中 的AUFS、BTRFS、ZFS、存储池概念的详细讲解,https://blog.csdn.net/2201_75366661/article/details/134231792
+12,1.3万,【文末送书】Python界面开发与PyQt,https://blog.csdn.net/qq_43471489/article/details/133799729
+13,1.3万,Spring Boot 整合SpringSecurity和JWT和Redis实现统一鉴权认证,https://blog.csdn.net/2301_80092713/article/details/134215105
+14,1.2万,Spring Task 超详解版,https://blog.csdn.net/qq_53317005/article/details/133606081
+15,1.2万,不用流氓软件，如何在户外使用手机听下载到家中电脑里的音乐文件呢？,https://blog.csdn.net/qq_57761637/article/details/134244983
+16,1.1万,【计算机网络】HTTP 协议,https://blog.csdn.net/m0_73888323/article/details/134130632
+17,1.1万,用AI魔法打败AI魔法,https://blog.csdn.net/ZhangRelay/article/details/134243444
+18,1.0万,Spring Boot 整合RabbitMQ,https://blog.csdn.net/s445320/article/details/134228181
+19,9577,Linux DataEase数据可视化分析工具结合cpolar实现远程访问,https://blog.csdn.net/qq_48652579/article/details/134245253
+20,9516,亚马逊云科技大语言模型下的六大创新应用功能,https://blog.csdn.net/lbcyllqj/article/details/134221123
+21,9318,【微信小程序】自定义组件（二）,https://blog.csdn.net/m0_61016904/article/details/134215705
+22,8555,Linux 本地Yearning SQL审核平台远程访问,https://blog.csdn.net/ljq_up/article/details/134245280
+23,8139,数据分析案例-基于服饰行业中消费者行为和购物习惯的可视化分析（文末送书）,https://blog.csdn.net/m0_64336780/article/details/134232976
+24,6468,Azure 机器学习 - 使用Python SDK训练模型,https://blog.csdn.net/magicyangjay111/article/details/134240950
+25,6427,微服务架构之路2，一文讲透微服务核心架构（注册中心、服务通信、服务监控、服务追踪、服务治理）,https://blog.csdn.net/guorui_java/article/details/134229126
+26,6406,【2023】COMAP美赛数模中的大型语言模型LLM和生成式人工智能工具的使用,https://blog.csdn.net/wtyuong/article/details/134251936
+27,6318,实现自动化构建与集成：Jenkins与SVN整合的指南,https://blog.csdn.net/qq_54796785/article/details/133899251
+28,6003,基于SpringBoot+Redis的前后端分离外卖项目-苍穹外卖(一),https://blog.csdn.net/m0_59230408/article/details/132768205
+29,5972,利用机器学习的力量来对抗野火,https://blog.csdn.net/gongdiwudu/article/details/134229710
+30,5827,吴恩达《机器学习》6-4-＞6-7:代价函数、简化代价函数与梯度下降、高级优化、多元分类:一对多,https://blog.csdn.net/qq_46179411/article/details/134252436
+31,5352,机器人制作开源方案 | 管内检测维护机器人,https://blog.csdn.net/Robotway/article/details/134233360
+32,5067,CAN（Controller Area Network）是一种用于在汽车和工业领域中进行通信的串行总线系统(附加案例),https://blog.csdn.net/m0_46376834/article/details/134225731
+33,5052,【计算机网络笔记】传输层——拥塞控制原理与解决方法,https://blog.csdn.net/m0_60511809/article/details/134162460
+34,4914,3D RPG Course | Core 学习日记四：鼠标控制人物移动,https://blog.csdn.net/qq_45554473/article/details/134244844
+35,4651,yolov8+动物+姿态识别（训练教程+代码）,https://blog.csdn.net/ALiLiLiYa/article/details/134231545
+36,4274,python获取电脑所连接的wifi密码,https://blog.csdn.net/qq_34045989/article/details/134232749
+37,4272,web3 dapp React项目引入 antd 对 balance 用户token信息组件进行样式改造,https://blog.csdn.net/weixin_45966674/article/details/134241089
+38,4232,FastAPI 库（Python 的 Web 框架）基本使用指南（一）,https://blog.csdn.net/footless_bird/article/details/134242229
+39,4216,Android可绘制资源概览(背景、图形等),https://blog.csdn.net/fumeidonga/article/details/134063768
+40,4121,二蛋赠书七期：《云原生数据中台：架构、方法论与实践》,https://blog.csdn.net/qq_28314431/article/details/134255003
+41,3813,[蓝桥杯 2022 省 A] 推导部分和,https://blog.csdn.net/huang_ke_hai/article/details/134236517
+42,3811,Go 与数据可视化：使用 Gonum 和 Plot 库探索数据之美,https://blog.csdn.net/yll_358918552/article/details/134236183
+43,3715,vue3的自定义指令,https://blog.csdn.net/weixin_53729216/article/details/134236629
+44,3628,GPT技术的崛起：改变生活与挑战未来,https://blog.csdn.net/cooldream2009/article/details/134211806
+45,3365,【亚马逊云科技产品测评】活动征文｜亚马逊云科技AWS之EC2详细测评,https://blog.csdn.net/2202_75623950/article/details/134223673
+46,3230,IOS自带的OCR识别功能,https://blog.csdn.net/ForeverMyheart/article/details/134241784
+47,3223,第十八节——插槽,https://blog.csdn.net/weixin_57017198/article/details/134063961
+48,3218,ElasticSearch 实现 全文检索 支持（PDF、TXT、Word、HTML等文件）通过 ingest-attachment 插件实现 文档的检索,https://blog.csdn.net/lijie0213/article/details/134205963
+49,3170,MySQL数据库的备份和恢复,https://blog.csdn.net/m0_75209491/article/details/134245060
+50,3096,十种排序算法(2) - 代码和原理,https://blog.csdn.net/qq_46273241/article/details/134195823

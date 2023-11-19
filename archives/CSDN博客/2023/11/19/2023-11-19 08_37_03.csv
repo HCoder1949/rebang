@@ -1,0 +1,51 @@
+index,hot,title,href
+1,3.1万,计算机视觉：驾驶员疲劳检测,https://blog.csdn.net/m0_68662723/article/details/134472055
+2,2.5万,【Spring篇】使用注解进行开发,https://blog.csdn.net/m0_72853403/article/details/134478144
+3,2.3万,⑩② 【MySQL索引】详解MySQL`索引`：结构、分类、性能分析、设计及使用规则。,https://blog.csdn.net/ebb29bbe/article/details/134460373
+4,2.3万,【cpolar】Ubuntu本地快速搭建web小游戏网站，公网用户远程访问,https://blog.csdn.net/qq_73017178/article/details/134474285
+5,2.0万,OpenAI GPT-4 Turbo发布：开创AI新时代,https://blog.csdn.net/a1657054242/article/details/134440437
+6,1.9万,[HTML]Web前端开发技术1，meta，HBuilder等——喵喵画网页,https://blog.csdn.net/ormstq/article/details/134469392
+7,1.6万,一文带你了解QT Model/View框架的设计思想和实现机制,https://blog.csdn.net/chenlycly/article/details/134475833
+8,1.4万,Python | 机器学习之SVM支持向量机,https://blog.csdn.net/m0_57532432/article/details/134326490
+9,1.3万,AI机器学习 | 基于librosa库和使用scikit-learn库中的分类器进行语音识别,https://blog.csdn.net/superdangbo/article/details/134481774
+10,1.2万,【MySQL】索引与事务,https://blog.csdn.net/paperjie/article/details/134360235
+11,1.2万,[ 云计算 | AWS ] AI 编程助手新势力 Amazon CodeWhisperer：优势功能及实用技巧,https://blog.csdn.net/dietime1943/article/details/134453885
+12,1.2万,【Spring进阶系列丨第二篇】Spring中的两大核心技术IoC（控制反转）与DI（依赖注入）,https://blog.csdn.net/m0_63947499/article/details/134255761
+13,1.2万,Linux Traefik工具Dashboard结合内网穿透实现远程访问,https://blog.csdn.net/qq_58286439/article/details/134452514
+14,1.1万,【网络奇幻之旅】那年我与互联网的邂逅,https://blog.csdn.net/2301_80760873/article/details/134439169
+15,9868,【SpringMvc】SpringMvc +MyBatis整理,https://blog.csdn.net/dandelionl_/article/details/134470839
+16,9406,火星探测器背后的人工智能：从原理到实战的强化学习,https://blog.csdn.net/magicyangjay111/article/details/134458632
+17,8638,Linux本地docker一键部署traefik+内网穿透工具实现远程访问Web UI管理界面,https://blog.csdn.net/ks_wyf/article/details/134478159
+18,8170,【云原生-Kurbernetes篇】K8s的存储卷/数据卷+PV与PVC,https://blog.csdn.net/q2524607033/article/details/134452769
+19,7930,SystemVerilog学习 （11）——覆盖率,https://blog.csdn.net/apple_53311083/article/details/134465224
+20,7795,为什么Go是后端开发的未来,https://blog.csdn.net/csjds/article/details/134472120
+21,7555,『 MySQL数据库 』数据库之表的约束,https://blog.csdn.net/2202_75303754/article/details/134482616
+22,7351,"AIGC实战——变分自编码器(Variational Autoencoder, VAE)",https://blog.csdn.net/LOVEmy134611/article/details/133974527
+23,7268,Python数据分析实战① Python实现数据可视化,https://blog.csdn.net/weixin_62985813/article/details/134459788
+24,7268,Kafka的重要组件，谈谈流处理引擎Kafka Stream,https://blog.csdn.net/u011709538/article/details/134269056
+25,7118,如何在Linux上搭建本地Docker Registry并实现远程连接,https://blog.csdn.net/xz2935117143/article/details/134473644
+26,6809,基于深度学习的活体人脸识别检测算法matlab仿真,https://blog.csdn.net/aycd1234/article/details/134472293
+27,6625,SpringBoot使用DevTools实现后端热部署,https://blog.csdn.net/2301_80092713/article/details/134434900
+28,6593,[MySQL] MySQL表的约束,https://blog.csdn.net/weixin_67596609/article/details/134429169
+29,6565,【FPGA】Verilog：升降计数器 | 波纹计数器 | 约翰逊计数器 | 实现 4-bit 升降计数器的 UP/DOWN,https://blog.csdn.net/weixin_50502862/article/details/134319516
+30,6419,C# 实现腾讯云多路直播流的云端混合录制,https://blog.csdn.net/michaelline/article/details/134458337
+31,6389,京东数据挖掘（京东运营数据分析）：2023年宠物行业数据分析报告,https://blog.csdn.net/jingcanmou_data/article/details/134444156
+32,5860,目录自动清洗,https://blog.csdn.net/HHX_01/article/details/134478368
+33,5806,“开源 vs. 闭源：大模型的未来发展趋势预测“——探讨大模型未来的发展方向,https://blog.csdn.net/u014727709/article/details/134450984
+34,5761,基于SpringBoot+Redis的前后端分离外卖项目-苍穹外卖(五),https://blog.csdn.net/m0_59230408/article/details/132814388
+35,5735,2023 年 数维杯（D题）国际大学生数学建模挑战赛 |数学建模完整代码+建模过程全解全析,https://blog.csdn.net/qq_25834913/article/details/134438351
+36,5647,【强化学习】时间循环最优决策：原理与Python实战,https://blog.csdn.net/2202_75623950/article/details/134461728
+37,5525,13.真刀实枪做项目---博客系统(页面设计),https://blog.csdn.net/xinhang10/article/details/134482255
+38,5406,电子病历编辑器源码（Springboot+原生HTML）,https://blog.csdn.net/xingchenCSDN/article/details/134467554
+39,5337,详解如何使用Jenkins一键打包部署SpringBoot项目,https://blog.csdn.net/weixin_43025151/article/details/134433351
+40,5299,Flutter 3.16 发布，快来看有什么更新吧,https://blog.csdn.net/ZuoYueLiang/article/details/134434681
+41,5061,Taro编译警告解决方案：Error: chunk common [mini-css-extract-plugin],https://blog.csdn.net/qq_43546721/article/details/134469209
+42,4909,网络安全（黑客）自学,https://blog.csdn.net/stopluox/article/details/134450021
+43,4518,syslog快速开始,https://blog.csdn.net/inthat/article/details/134413870
+44,4312,【STM32】RTC（实时时钟）,https://blog.csdn.net/m0_63077733/article/details/134447815
+45,4045,硬件开发笔记（十二）：RK3568底板电路电源模块和RTC模块原理图分析,https://blog.csdn.net/qq21497936/article/details/134429973
+46,3922,YOLOv8改进 | 如何在网络结构中添加注意力机制、C2f、卷积、Neck、检测头,https://blog.csdn.net/java1314777/article/details/134432710
+47,3907,网络安全（黑客）—高效自学,https://blog.csdn.net/dexi113/article/details/134469420
+48,3716,51单片机应用从零开始（四）,https://blog.csdn.net/MANONGDKY/article/details/134433460
+49,3547,【Linux】C文件系统详解（二）——什么是fd文件描述符以及理解“一切皆文件“,https://blog.csdn.net/weixin_62712120/article/details/134467071
+50,3157,html在线生成二维码（附源码）,https://blog.csdn.net/weixin_43151418/article/details/134458927

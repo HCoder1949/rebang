@@ -1,0 +1,51 @@
+index,hot,title,href
+1,6.3万,【opencv】计算机视觉：停车场车位实时识别,https://blog.csdn.net/m0_68662723/article/details/134534006
+2,2.6万,【MySQL】mysql中不推荐使用uuid或者雪花id作为主键的原因以及差异化对比,https://blog.csdn.net/jinxinxin1314/article/details/134590351
+3,2.1万,「快学Docker」监控和日志记录容器的健康和性能,https://blog.csdn.net/wml_JavaKill/article/details/134554283
+4,1.9万,Spring Boot单元测试,https://blog.csdn.net/Joker_ZJN/article/details/134542387
+5,1.7万,AI大模型时代 | 基于AIGC的重塑教育,https://blog.csdn.net/Why_does_it_work/article/details/134542468
+6,1.6万,人工智能：让生活更便捷、更智能——探讨人工智能在生活中的作用与挑战,https://blog.csdn.net/u014727709/article/details/134569536
+7,1.6万,【Spring进阶系列丨第四篇】学习Spring中的Bean管理(基于xml配置),https://blog.csdn.net/m0_63947499/article/details/134577164
+8,1.5万,飞书如何接入ChatGPT-打造个人智能问答助手实现无障碍交流,https://blog.csdn.net/weixin_58070962/article/details/134576115
+9,1.3万,Azure Machine Learning - Azure可视化图像分类操作实战,https://blog.csdn.net/magicyangjay111/article/details/134592906
+10,1.3万,[ 云计算 | AWS 实践 ] 基于 Amazon S3 协议搭建个人云存储服务,https://blog.csdn.net/dietime1943/article/details/134566027
+11,1.3万,树莓派上使用Nginx通过内网穿透实现无公网IP访问内网本地站点,https://blog.csdn.net/xz2935117143/article/details/134602190
+12,1.2万,[HTML]Web前端开发技术4（HTML5、CSS3、JavaScript ）图像与多媒体文件hspace，vspace，scrollamount，bgcolor，marquee——喵喵画网页,https://blog.csdn.net/ormstq/article/details/134583332
+13,1.2万,第三方模块远程注入到软件中引发软件异常的若干实战案例分享,https://blog.csdn.net/chenlycly/article/details/134545223
+14,1.2万,【网络奇幻之旅】那年我与区块链技术的邂逅,https://blog.csdn.net/2301_80760873/article/details/134596009
+15,1.1万,【腾讯云云上实验室】用向量数据库——突破搜索极限-让问答应用秒上线,https://blog.csdn.net/feng8403000/article/details/134581664
+16,1.1万,PyTorch深度学习实战——人体姿态估计,https://blog.csdn.net/LOVEmy134611/article/details/132114806
+17,1.1万,【公网远程手机Android服务器】安卓Termux搭建Web服务器,https://blog.csdn.net/qq_73017178/article/details/134586986
+18,1.0万,学习MySQL先有全局观，细说其发展历程及特点,https://blog.csdn.net/u011709538/article/details/134562551
+19,9927,【腾讯云云上实验室】用向量数据库融合AI技术：构建下一代智能客服平台,https://blog.csdn.net/qq_33681891/article/details/134601265
+20,9635,【SpringBoot篇】Spring_Task定时任务框架,https://blog.csdn.net/m0_72853403/article/details/134574825
+21,9503,一个基于Kafka客户端封装的工具，Kafka开发效率神器,https://blog.csdn.net/zhangchuangzhuang/article/details/134542177
+22,8792,MySQL的体系结构与SQL的执行流程,https://blog.csdn.net/qq_28314431/article/details/134599526
+23,8631,Linux本地MinIO存储服务远程调用上传文件,https://blog.csdn.net/hsjsiwkwm/article/details/134575557
+24,8526,边缘计算系统设计与实践,https://blog.csdn.net/qq_44273429/article/details/134545442
+25,8265,SpringBoot集成七牛云OSS详细介绍,https://blog.csdn.net/2301_80092713/article/details/134567614
+26,8253,通过内网穿透本地MariaDB数据库，实现在公网环境下使用navicat图形化工具,https://blog.csdn.net/qq_48652579/article/details/134596171
+27,7673,MyBatis：关联查询,https://blog.csdn.net/qq_56886142/article/details/132452975
+28,7474,【腾讯云云上实验室】探索保护数据之盾背后的安全监控机制,https://blog.csdn.net/qq_53123067/article/details/134469967
+29,7448,SpringBoot——MVC原理,https://blog.csdn.net/zhengzhaoyang122/article/details/134588261
+30,7139,2023亚太杯数学建模C题思路分析 - 我国新能源电动汽车的发展趋势,https://blog.csdn.net/dc_sinor/article/details/134567625
+31,6234,『亚马逊云科技产品测评』活动征文 | uWSGI部署Django,https://blog.csdn.net/qq_24694139/article/details/134593112
+32,6143,【电路笔记】-电源电压,https://blog.csdn.net/wujuxKkoolerter/article/details/134543177
+33,6045,推荐一款适合做智慧旅游的前端模板,https://blog.csdn.net/yelangkingwuzuhu/article/details/134564351
+34,5394,一些好用的前端小插件（转自知乎）,https://blog.csdn.net/weixin_60886885/article/details/134591836
+35,5286,【性能优化】CPU利用率飙高与内存飙高问题,https://blog.csdn.net/FMC_WBL/article/details/134587305
+36,5238,网络安全（黑客）自学,https://blog.csdn.net/stopluox/article/details/134586564
+37,5126,2023年亚太数学建模C题数据分享+详细思路,https://blog.csdn.net/qq_33690821/article/details/134571206
+38,5031,微信小程序完整实现微信支付功能（SpringBoot和小程序）,https://blog.csdn.net/m0_59799878/article/details/134589551
+39,4924,2023亚太赛c题完整思路数据 数学建模亚太,https://blog.csdn.net/yeqianqian_/article/details/134567583
+40,4923,Python淘宝家用电器爬虫数据可视化分析大屏全屏系统 开题报告,https://blog.csdn.net/u013818205/article/details/134574997
+41,4665,【斯坦福计网CS144】Lab5终结笔记,https://blog.csdn.net/m0_57532432/article/details/134464240
+42,4652,python之TCP的网络应用程序开发,https://blog.csdn.net/yang2330648064/article/details/134588423
+43,4623,微服务实战系列之加密RSA,https://blog.csdn.net/splendid_java/article/details/134540044
+44,4403,【计算机网络笔记】数据链路层概述,https://blog.csdn.net/m0_60511809/article/details/134497872
+45,4361,Docker+ Jenkins+Maven+git自动化部署,https://blog.csdn.net/sosozha/article/details/134583285
+46,4277,黑客技术（网络安全）自学1.0,https://blog.csdn.net/y473158Yansu/article/details/134586550
+47,4267,【2023年APMCM亚太杯C题】完整数据与解题思路,https://blog.csdn.net/Magnolia_He/article/details/134576827
+48,4244,vue3-组件传参及计算属性,https://blog.csdn.net/2302_76329106/article/details/134502883
+49,4235,Nginx反向代理实现负载均衡+Keepalive实现高可用,https://blog.csdn.net/qq_68163788/article/details/134517281
+50,4046,2023亚太杯数学建模A题思路 - 采果机器人的图像识别技术,https://blog.csdn.net/m0_71450098/article/details/134572775

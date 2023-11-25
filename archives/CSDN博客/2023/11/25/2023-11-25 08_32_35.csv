@@ -1,0 +1,51 @@
+index,hot,title,href
+1,4.3万,【opencv】计算机视觉：停车场车位实时识别,https://blog.csdn.net/m0_68662723/article/details/134534006
+2,2.3万,【MySQL】mysql中不推荐使用uuid或者雪花id作为主键的原因以及差异化对比,https://blog.csdn.net/jinxinxin1314/article/details/134590351
+3,1.3万,[HTML]Web前端开发技术4（HTML5、CSS3、JavaScript ）图像与多媒体文件hspace，vspace，scrollamount，bgcolor，marquee——喵喵画网页,https://blog.csdn.net/ormstq/article/details/134583332
+4,1.3万,【Spring进阶系列丨第四篇】学习Spring中的Bean管理(基于xml配置),https://blog.csdn.net/m0_63947499/article/details/134577164
+5,1.3万,【公网远程手机Android服务器】安卓Termux搭建Web服务器,https://blog.csdn.net/qq_73017178/article/details/134586986
+6,1.1万,飞书如何接入ChatGPT-打造个人智能问答助手实现无障碍交流,https://blog.csdn.net/weixin_58070962/article/details/134576115
+7,1.1万,Azure Machine Learning - Azure可视化图像分类操作实战,https://blog.csdn.net/magicyangjay111/article/details/134592906
+8,1.1万,树莓派上使用Nginx通过内网穿透实现无公网IP访问内网本地站点,https://blog.csdn.net/xz2935117143/article/details/134602190
+9,8845,【腾讯云云上实验室】用向量数据库融合AI技术：构建下一代智能客服平台,https://blog.csdn.net/qq_33681891/article/details/134601265
+10,8561,人工智能：让生活更便捷、更智能——探讨人工智能在生活中的作用与挑战,https://blog.csdn.net/u014727709/article/details/134569536
+11,8553,[ 云计算 | AWS 实践 ] 基于 Amazon S3 协议搭建个人云存储服务,https://blog.csdn.net/dietime1943/article/details/134566027
+12,7995,通过内网穿透本地MariaDB数据库，实现在公网环境下使用navicat图形化工具,https://blog.csdn.net/qq_48652579/article/details/134596171
+13,7856,MySQL的体系结构与SQL的执行流程,https://blog.csdn.net/qq_28314431/article/details/134599526
+14,7640,【网络奇幻之旅】那年我与区块链技术的邂逅,https://blog.csdn.net/2301_80760873/article/details/134596009
+15,7381,无需公网IP，使用MCSM面板一键搭建我的世界Minecraft服务器联机游戏,https://blog.csdn.net/qq_24694139/article/details/134603811
+16,7289,【网络奇缘】- 计算机网络|性能指标|体系结构,https://blog.csdn.net/Aileenvov/article/details/134562369
+17,7269,【腾讯云云上实验室】用向量数据库——突破搜索极限-让问答应用秒上线,https://blog.csdn.net/feng8403000/article/details/134581664
+18,7250,学习MySQL先有全局观，细说其发展历程及特点,https://blog.csdn.net/u011709538/article/details/134562551
+19,7217,Spring Cloud实战 |分布式系统的流量控制、熔断降级组件Sentinel如何使用,https://blog.csdn.net/superdangbo/article/details/134543637
+20,7182,Redis之高并发超卖问题解决方案,https://blog.csdn.net/qq_43649937/article/details/134596236
+21,7143,【腾讯云云上实验室】探索保护数据之盾背后的安全监控机制,https://blog.csdn.net/qq_53123067/article/details/134469967
+22,7104,机器学习高级实践,https://blog.csdn.net/qq_44273429/article/details/134603560
+23,6895,「快学Docker」监控和日志记录容器的健康和性能,https://blog.csdn.net/wml_JavaKill/article/details/134554283
+24,6895,基于python电商销售数据可视化大屏全屏系统设计与实现+开题报告,https://blog.csdn.net/u013818205/article/details/134544753
+25,6664,网络安全（黑客）自学,https://blog.csdn.net/stopluox/article/details/134586564
+26,6575,第三方模块远程注入到软件中引发软件异常的若干实战案例分享,https://blog.csdn.net/chenlycly/article/details/134545223
+27,6504,2016年8月15日 Go生态洞察：Go 1.7版本发布,https://blog.csdn.net/qq_44866828/article/details/134593895
+28,6117,23. 深度学习 - 多维向量自动求导,https://blog.csdn.net/ivandoo/article/details/134551464
+29,6089,【SpringBoot篇】Spring_Task定时任务框架,https://blog.csdn.net/m0_72853403/article/details/134574825
+30,5964,opencv-Meanshift 和 Camshift 算法,https://blog.csdn.net/weixin_42367888/article/details/134560784
+31,5585,PyTorch深度学习实战——人体姿态估计,https://blog.csdn.net/LOVEmy134611/article/details/132114806
+32,5434,Java实现王者荣耀小游戏,https://blog.csdn.net/Xiaojunzi1203/article/details/134588793
+33,5424,python之TCP的网络应用程序开发,https://blog.csdn.net/yang2330648064/article/details/134588423
+34,5052,黑客技术（网络安全）自学1.0,https://blog.csdn.net/y473158Yansu/article/details/134586550
+35,4770,我在Vscode学OpenCV 几何变换（缩放、翻转、仿射变换、透视、重映射）,https://blog.csdn.net/m0_74154295/article/details/134477858
+36,4603,【大数据Hive】hive 优化策略之job任务优化,https://blog.csdn.net/congge_study/article/details/129346569
+37,4552,【.NET Core】Task应用详解,https://blog.csdn.net/songjianlong/article/details/134605546
+38,4318,【斯坦福计网CS144】Lab5终结笔记,https://blog.csdn.net/m0_57532432/article/details/134464240
+39,4163,Docker+ Jenkins+Maven+git自动化部署,https://blog.csdn.net/sosozha/article/details/134583285
+40,4120,2023年亚太数学建模C题数据分享+详细思路,https://blog.csdn.net/qq_33690821/article/details/134571206
+41,4115,【性能优化】CPU利用率飙高与内存飙高问题,https://blog.csdn.net/FMC_WBL/article/details/134587305
+42,4078,GitHub Copilot——AI开发人员工具,https://blog.csdn.net/m0_58480092/article/details/134564058
+43,3990,微信小程序完整实现微信支付功能（SpringBoot和小程序）,https://blog.csdn.net/m0_59799878/article/details/134589551
+44,3946,2023亚太杯数学建模C题思路分析 - 我国新能源电动汽车的发展趋势,https://blog.csdn.net/dc_sinor/article/details/134567625
+45,3852,Linux本地MinIO存储服务远程调用上传文件,https://blog.csdn.net/hsjsiwkwm/article/details/134575557
+46,3755,远程网络安全访问JumpServer：使用cpolar内网穿透搭建固定公网地址,https://blog.csdn.net/a1657054242/article/details/134577840
+47,3745,【计算机网络笔记】数据链路层概述,https://blog.csdn.net/m0_60511809/article/details/134497872
+48,3613,网络安全（黑客）自学,https://blog.csdn.net/2301_77732591/article/details/134562569
+49,3442,Jenkins+Maven+Gitlab+Tomcat 自动化构建打包、部署,https://blog.csdn.net/Aaron599/article/details/134569346
+50,3387,接口自动化测试实战经验分享，测试用例也能自动生成,https://blog.csdn.net/YLF123456789000/article/details/134553932

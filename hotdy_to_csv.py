@@ -36,7 +36,7 @@ if __name__ == "__main__":
 
                 #hrefs = [item["href"] for item in key['element_list']]#['%s' % key2]]
 
-                path = os.path.join('archives', year, month, day)
+                path = os.path.join('archives', '抖音', year, month, day)
                 os.makedirs(path, exist_ok=True)
 
                 with open(os.path.join(path, '%s.csv' % time), mode="w", newline="", encoding="utf-8") as file:

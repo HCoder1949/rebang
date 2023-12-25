@@ -1,0 +1,51 @@
+index,hot,title,href
+1,3.0万,OpenCV | 告别人工目检：深度学习技术引领工业品缺陷检测新时代,https://blog.csdn.net/qq_32682301/article/details/135157954
+2,2.9万,在Portainer创建Nginx容器并部署Web静态站点实现公网访问,https://blog.csdn.net/hsjsiwkwm/article/details/135150491
+3,2.0万,MyBatis：动态 SQL 标签,https://blog.csdn.net/qq_56886142/article/details/132561457
+4,1.8万,【JAVA】分布式链路追踪技术概论,https://blog.csdn.net/Joker_ZJN/article/details/135175596
+5,1.6万,如何在飞书自建项目中接入ChatGPT打造智能问答助手并远程访问,https://blog.csdn.net/Tiam_cr/article/details/135184114
+6,1.4万,【微服务】springboot整合kafka-stream使用详解,https://blog.csdn.net/zhangcongyi420/article/details/135180590
+7,1.4万,Azure Machine Learning - 如何使用 GPT-4 Turbo with Vision,https://blog.csdn.net/magicyangjay111/article/details/135183833
+8,1.4万,Web前端 ---- 【Vue】vue路由守卫（全局前置路由守卫、全局后置路由守卫、局部路由path守卫、局部路由component守卫）,https://blog.csdn.net/weixin_68854196/article/details/135173267
+9,1.3万,使用PE信息查看工具和Dependency Walker工具排查因为库版本不对导致程序启动报错的问题,https://blog.csdn.net/chenlycly/article/details/135165307
+10,1.3万,SpringSecurity安全框架 ——认证与授权,https://blog.csdn.net/Justw320/article/details/135117451
+11,1.1万,『HPC运维点滴』第01期 - Ubuntu Server 20.04集群网络配置,https://blog.csdn.net/m0_74221433/article/details/135175622
+12,1.1万,AI工程化—— 如何让AI在企业多快好省的落地？,https://blog.csdn.net/m0_68662723/article/details/135167287
+13,1.0万,如何在Spring Boot中优雅地进行参数校验,https://blog.csdn.net/a342874650/article/details/135170153
+14,1.0万,Spring IoC&DI,https://blog.csdn.net/m0_73888323/article/details/134894066
+15,9875,Spring之事务（2）,https://blog.csdn.net/m0_64074924/article/details/135119272
+16,9689,【SpringBoot篇】解决缓存击穿问题① — 基于互斥锁方式,https://blog.csdn.net/m0_72853403/article/details/135145363
+17,9493,5分钟搭建开源运维监控工具Uptime Kuma并实现无公网IP远程访问,https://blog.csdn.net/qq_48652579/article/details/135145397
+18,9328,黑客（网络安全）技术自学——高效学习,https://blog.csdn.net/rjychg/article/details/135155873
+19,8503,设计模式：循序渐进走入工厂模式,https://blog.csdn.net/weixin_62951900/article/details/135161459
+20,8303,AI时代Python量化交易实战：ChatGPT引领新时代,https://blog.csdn.net/u014727709/article/details/135165054
+21,8175,05. Springboot admin集成Actuator（一）,https://blog.csdn.net/p793049488/article/details/135173501
+22,8052,HTML5文档,https://blog.csdn.net/m0_62943934/article/details/135159668
+23,7993,使用 Elasticsearch 检测抄袭 （二）,https://blog.csdn.net/UbuntuTouch/article/details/135154708
+24,7393,【模式识别】探秘分类奥秘：最近邻算法解密与实战,https://blog.csdn.net/m0_57532432/article/details/135031090
+25,7306,matlab实践（十一）：导弹追踪,https://blog.csdn.net/m0_68926749/article/details/135175232
+26,6930,Redis原理,https://blog.csdn.net/VHhhbb/article/details/135167306
+27,6718,C++ Qt开发：Charts折线图绑定事件,https://blog.csdn.net/lyshark_csdn/article/details/135185484
+28,6663,【MySQL】表的基本查询,https://blog.csdn.net/YoungMLet/article/details/135022325
+29,6574,TypeScript实战——ChatGPT前端自适应手机端，PC端,https://blog.csdn.net/Why_does_it_work/article/details/135148489
+30,6145,【AI】人工智能复兴的推进器之机器学习,https://blog.csdn.net/giszz/article/details/135163165
+31,5318,c# OpenCvSharp 检测（斑点检测、边缘检测、轮廓检测）（五）,https://blog.csdn.net/hb_ljj/article/details/135095713
+32,5128,如何在Linux设置JumpServer实现无公网ip远程访问管理界面,https://blog.csdn.net/2201_75743654/article/details/135147263
+33,4995,YOLOv8改进 | 主干篇 | 利用SENetV1改进网络结构 (ILSVRC冠军得主),https://blog.csdn.net/java1314777/article/details/135092385
+34,4865,前端未死，顺势而生,https://blog.csdn.net/Purpleendurer/article/details/135156750
+35,4336,【计算机四级（网络工程师）笔记】操作系统运行机制,https://blog.csdn.net/m0_71369515/article/details/135179671
+36,4121,Spark SQL,https://blog.csdn.net/Morse_Chen/article/details/135173487
+37,4029,持续集成交付CICD：Jira 远程触发 Jenkins 实现更新 GitLab 分支,https://blog.csdn.net/cronaldo91/article/details/135171221
+38,3768,网络安全（黑客）—自学,https://blog.csdn.net/dexi113/article/details/135159966
+39,3689,Python量化投资——金融数据最佳实践: 使用qteasy+tushare搭建本地金融数据仓库并定期批量更新【附源码】,https://blog.csdn.net/Shepherdppz/article/details/124586480
+40,3477,Docker与容器化安全：漏洞扫描和安全策略,https://blog.csdn.net/weixin_42011858/article/details/135164374
+41,3424,flutter 路由配置,https://blog.csdn.net/u010843503/article/details/135154965
+42,3362,电路中VCC、VDD、VEE、VSS分别指什么？,https://blog.csdn.net/FMgxth/article/details/135146431
+43,3206,如何在Windows上搭建WebDAV服务并通过内网穿透实现公网访问,https://blog.csdn.net/qq_57761637/article/details/135164413
+44,3023,深度剖析Ajax实现方式(原生框架、JQuery、Axios，Fetch）,https://blog.csdn.net/ak_bingbing/article/details/135159805
+45,2988,互联网+建筑工地源码，基于微服务+Java+Spring Cloud +Vue+UniApp开发,https://blog.csdn.net/xingchenCSDN/article/details/135170274
+46,2957,网络安全行业术语,https://blog.csdn.net/2301_76786857/article/details/135169269
+47,2880,TCP服务器的演变过程：多进程实现一对多的TCP服务器,https://blog.csdn.net/Long_xu/article/details/135179950
+48,2861,Win系统修改Nginx配置结合内网穿透实现远程访问多个Web站点,https://blog.csdn.net/qq_65596720/article/details/135159935
+49,2752,【OAuth2】：赋予用户控制权的安全通行证--原理篇,https://blog.csdn.net/m0_74315688/article/details/135179885
+50,2580,【大模型】快速体验百度智能云千帆AppBuilder搭建知识库与小助手,https://blog.csdn.net/Qingai521/article/details/135150671

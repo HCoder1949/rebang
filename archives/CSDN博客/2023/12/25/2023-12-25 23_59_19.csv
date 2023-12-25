@@ -1,0 +1,51 @@
+index,hot,title,href
+1,3.5万,【玩转 TableAgent 数据智能分析】基于TableAgent实现IT职位招聘数据分析—以传统机器学习与TableAgent 数据分析方式相对比以凸显TableAgent 特性,https://blog.csdn.net/weixin_52908342/article/details/135184913
+2,2.9万,如何在飞书自建项目中接入ChatGPT打造智能问答助手并远程访问,https://blog.csdn.net/Tiam_cr/article/details/135184114
+3,2.7万,【模式识别】探秘分类奥秘：K-近邻算法解密与实战,https://blog.csdn.net/m0_57532432/article/details/135031099
+4,2.0万,【GoLang】Go语言几种标准库介绍(一),https://blog.csdn.net/jinxinxin1314/article/details/135189848
+5,2.0万,【微服务】springboot整合kafka-stream使用详解,https://blog.csdn.net/zhangcongyi420/article/details/135180590
+6,1.9万,【JAVA】分布式链路追踪技术概论,https://blog.csdn.net/Joker_ZJN/article/details/135175596
+7,1.9万,Web前端 ---- 【Vue】vue路由守卫（全局前置路由守卫、全局后置路由守卫、局部路由path守卫、局部路由component守卫）,https://blog.csdn.net/weixin_68854196/article/details/135173267
+8,1.8万,Spring Boot Security认证：Redis缓存用户信息,https://blog.csdn.net/qq_43546721/article/details/135184557
+9,1.7万,Azure Machine Learning - 如何使用 GPT-4 Turbo with Vision,https://blog.csdn.net/magicyangjay111/article/details/135183833
+10,1.6万,千帆起航：探索百度智能云千帆AppBuilder在AI原生应用开发中的革新之路,https://blog.csdn.net/master_hunter/article/details/135190661
+11,1.4万,【Spring】SpringBoot 配置文件,https://blog.csdn.net/m0_73888323/article/details/135119136
+12,1.4万,使用PE信息查看工具和Dependency Walker工具排查因为库版本不对导致程序启动报错的问题,https://blog.csdn.net/chenlycly/article/details/135165307
+13,1.3万,C# 读取Word表格到DataSet,https://blog.csdn.net/michaelline/article/details/135179525
+14,1.3万,SpringSecurity安全框架 ——认证与授权,https://blog.csdn.net/Justw320/article/details/135117451
+15,1.3万,【SpringBoot篇】解决缓存击穿问题② — 基于逻辑过期方式,https://blog.csdn.net/m0_72853403/article/details/135198198
+16,1.2万,AI工程化—— 如何让AI在企业多快好省的落地？,https://blog.csdn.net/m0_68662723/article/details/135167287
+17,1.1万,设计模式：循序渐进走入工厂模式,https://blog.csdn.net/weixin_62951900/article/details/135161459
+18,1.1万,SpringBoot 3 集成Hive 3,https://blog.csdn.net/zhouzhiwengang/article/details/135171187
+19,1.1万,【网络奇遇记】揭秘计算机网络的性能指标：速率|带宽|吞吐量|时延,https://blog.csdn.net/2301_80026901/article/details/134676966
+20,1.0万,『HPC运维点滴』第01期 - Ubuntu Server 20.04集群网络配置,https://blog.csdn.net/m0_74221433/article/details/135175622
+21,1.0万,前端发展趋势：WebAssembly、PWA 和响应式设计,https://blog.csdn.net/weixin_58070962/article/details/135185009
+22,9755,如何使用内网穿透工具实现Java远程连接本地Elasticsearch搜索分析引擎,https://blog.csdn.net/qq_48652579/article/details/135205828
+23,9550,【MySQL】表的基本查询,https://blog.csdn.net/YoungMLet/article/details/135022325
+24,9280,公网环境使用navicat图形化工具远程连接本地MariaDB数据库,https://blog.csdn.net/2201_75743654/article/details/135203812
+25,9206,Redis原理,https://blog.csdn.net/VHhhbb/article/details/135167306
+26,9066,《数字图像处理-OpenCV/Python》连载：图像的阈值处理,https://blog.csdn.net/youcans/article/details/135164986
+27,9066,Mybatis使用详解,https://blog.csdn.net/zhangzehai2234/article/details/135188471
+28,8530,前端未死，顺势而生,https://blog.csdn.net/Purpleendurer/article/details/135156750
+29,8375,05. Springboot admin集成Actuator（一）,https://blog.csdn.net/p793049488/article/details/135173501
+30,8346,AI时代Python量化交易实战：ChatGPT引领新时代,https://blog.csdn.net/u014727709/article/details/135165054
+31,7912,第1课 配置FFmpeg+OpenCV开发环境,https://blog.csdn.net/XiBuQiuChong/article/details/135177305
+32,7895,数据处理演进：EtLT崛起，ELT正在告别历史舞台,https://blog.csdn.net/qq_26442553/article/details/135057348
+33,7657,JuiceSSH结合内网穿透实现公网远程访问本地Linux虚拟机,https://blog.csdn.net/syf666250/article/details/135200061
+34,7634,如何使用Docker部署Dashy并无公网ip远程访问管理界面,https://blog.csdn.net/m0_75215937/article/details/135200225
+35,7265,ASP.Net实现姓名添加查询(三层架构),https://blog.csdn.net/Mr_wangzu/article/details/135161475
+36,7050,matlab实践（十一）：导弹追踪,https://blog.csdn.net/m0_68926749/article/details/135175232
+37,6736,【计算机四级（网络工程师）笔记】操作系统运行机制,https://blog.csdn.net/m0_71369515/article/details/135179671
+38,6700,Linux部署MeterSphere结合内网穿透实现远程访问服务管理界面,https://blog.csdn.net/qq_72916130/article/details/135204820
+39,5919,探索 HTTP 请求的世界：get 和 post 的奥秘(上),https://blog.csdn.net/weixin_42554191/article/details/135086070
+40,5345,RPC 实战与原理,https://blog.csdn.net/weixin_43847283/article/details/135148302
+41,5090,如何将本地websocket发布至公网并实现远程访问服务端,https://blog.csdn.net/m0_74760716/article/details/135205320
+42,5081,【计算机网络】网络层——IP协议,https://blog.csdn.net/m0_72563041/article/details/135175003
+43,5056,用大白话举例子讲明白云计算,https://blog.csdn.net/weixin_41674401/article/details/135175255
+44,4858,iPhone 15、Plus、Pro 和 Pro Max 的制造成本是多少？,https://blog.csdn.net/2301_81307082/article/details/135184495
+45,4807,【【IIC模块Verilog实现---用IIC协议从FPGA端读取E2PROM】】,https://blog.csdn.net/weixin_50965981/article/details/135186362
+46,4716,YOLOv8改进 | 2023注意力篇 | MSDA多尺度空洞注意力（附多位置添加教程）,https://blog.csdn.net/java1314777/article/details/135053430
+47,4675,k8s是什么,https://blog.csdn.net/weixin_62445943/article/details/135200516
+48,4244,开源持续测试平台Linux MeterSphere本地部署与远程访问,https://blog.csdn.net/2301_77053417/article/details/135201875
+49,4240,Python 爬虫之下载视频（四）,https://blog.csdn.net/weixin_57061292/article/details/135171895
+50,4234,Vue3和Vue2的区别,https://blog.csdn.net/study_way/article/details/135045987

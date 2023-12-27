@@ -1,8 +1,8 @@
 name: auto_get_hot
 
 on:
-  schedule:
-    - cron: "0 */24 * * *"
+#   schedule:
+#     - cron: "0 */24 * * *"
 
   workflow_dispatch:
 

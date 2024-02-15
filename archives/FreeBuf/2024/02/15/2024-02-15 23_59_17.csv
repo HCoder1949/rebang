@@ -1,0 +1,21 @@
+index,hot,title,href
+1,27.4万,攻防演练 | 记一些常用的反制红队CS的思路,https://www.freebuf.com/articles/web/375072.html
+2,1.3万,Legba：一款功能强大的多协议凭证爆破与密码喷射枚举工具,https://www.freebuf.com/sectool/389833.html
+3,1.8万,客户端漏洞篇之跨域资源共享(CORS)专题,https://www.freebuf.com/articles/web/374992.html
+4,41.1万,企业安全之浅谈DevSecOps,https://www.freebuf.com/articles/es/377112.html
+5,3.7万,全网首发！Golang实现的Githack与原理详解,https://www.freebuf.com/articles/web/383608.html
+6,1.4万,深度伪造技术导致信任坍塌：身份去中心化是治标还是治本？,https://www.freebuf.com/articles/neopoints/391569.html
+7,28.7万,某企业安全规划实战篇,https://www.freebuf.com/articles/379866.html
+8,2.6万,如何使用PipeViewer查看Windows命名管道的详细信息,https://www.freebuf.com/sectool/389642.html
+9,2.3万,软件安装包伪装下的Kimsuky（APT-Q-2）窃密行动,https://www.freebuf.com/articles/paper/390968.html
+10,25.2万,等保能力验证2022—MySQL数据库,https://www.freebuf.com/articles/system/379875.html
+11,2.5万,IAST实践落地总结,https://www.freebuf.com/articles/es/391330.html
+12,4.7万,美国制裁了我们几家网络安全公司？网络安全的含金量还在上升......,https://www.freebuf.com/news/391847.html
+13,2.9万,APT-K-47 组织利用新木马工具发起窃密攻击活动,https://www.freebuf.com/articles/paper/391504.html
+14,29.9万,漏洞挖掘 | 一文详解地图API后台配置错误漏洞更新,https://www.freebuf.com/vuls/380521.html
+15,3.6万,如何使用ProcessStomping在可执行程序的字段部分执行Shellcode,https://www.freebuf.com/sectool/389643.html
+16,4.0万,Patch2QL：开源供应链漏洞挖掘和检测的新方向,https://www.freebuf.com/vuls/391090.html
+17,39.2万,记一次某年代久远的某云漏洞到获得cnvd证书,https://www.freebuf.com/vuls/381071.html
+18,4.2万,代码安全审计经验集（下）,https://www.freebuf.com/vuls/391334.html
+19,4.1万,2023年勒索软件攻击态势,https://www.freebuf.com/articles/paper/391401.html
+20,26.4万,将电源侧信道攻击转化为x86远程时序攻击,https://www.freebuf.com/vuls/381130.html

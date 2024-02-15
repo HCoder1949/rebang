@@ -1,0 +1,51 @@
+index,hot,title,href
+1,1.7万,Spring Boot3自定义异常及全局异常捕获,https://blog.csdn.net/qq_62262918/article/details/136110267
+2,1.5万,探索Gorm - Golang流行的数据库ORM框架,https://blog.csdn.net/qq_35716689/article/details/136107328
+3,1.4万,Java企业应用软件系统架构演变史,https://blog.csdn.net/double222222/article/details/136102269
+4,1.3万,揭秘 2024 春晚刘谦魔术——代码还原,https://blog.csdn.net/kologin/article/details/136120758
+5,1.3万,数据分析案例-基于亚马逊智能产品评论的探索性数据分析,https://blog.csdn.net/m0_64336780/article/details/135409993
+6,1.2万,【SpringBoot】Validator组件+自定义约束注解实现手机号码校验和密码格式限制,https://blog.csdn.net/weixin_62951900/article/details/136092737
+7,1.2万,【机器学习】数据清洗之处理异常点,https://blog.csdn.net/m0_74195174/article/details/136080330
+8,1.2万,【51单片机】DS18B20（江科大）,https://blog.csdn.net/2302_80796399/article/details/136104430
+9,1.1万,Pytorch的可视化,https://blog.csdn.net/qq_60498436/article/details/136069280
+10,1.0万,MATLAB | 情人节画个花瓣venn图？,https://blog.csdn.net/slandarer/article/details/136108891
+11,9022,【微服务】skywalking自定义告警规则使用详解,https://blog.csdn.net/zhangcongyi420/article/details/135887125
+12,8848,基于JAVA+Springboot+Thymeleaf前后端分离项目：网上书城图书购物商城系统设计与实现,https://blog.csdn.net/u013818205/article/details/136042299
+13,8048,MogaNet实战：使用 MogaNet实现图像分类任务（二）,https://blog.csdn.net/hhhhhhhhhhwwwwwwwwww/article/details/136105031
+14,7802,数字二值图像处理与形状分析理论分析,https://blog.csdn.net/ccsss22/article/details/136115622
+15,7618,"使用 Chainlit, Langchain 及 Elasticsearch 轻松实现对 PDF 文件的查询",https://blog.csdn.net/UbuntuTouch/article/details/136111385
+16,7615,第十九篇【传奇开心果系列】Python的OpenCV库技术点案例示例：文字识别与OCR,https://blog.csdn.net/jackchuanqi/article/details/136114481
+17,7522,人脸追踪案例及机器学习认识,https://blog.csdn.net/hvbkbb/article/details/136104002
+18,7413,探索设计模式的魅力：捕捉变化的风-用观察者模式提升用户体验,https://blog.csdn.net/danci_/article/details/136109339
+19,7288,基于 Python 深度学习的电影评论情感分析系统，附源码,https://blog.csdn.net/yujun2023/article/details/136109006
+20,6657,深度学习的新进展：探索人工智能的未来,https://blog.csdn.net/a1657054242/article/details/136123091
+21,6273,《数字图像处理-OpenCV/Python》连载：形态学图像处理,https://blog.csdn.net/youcans/article/details/136113194
+22,5791,【Spring原理高级进阶】有Redis为啥不用？深入剖析 Spring Cache：缓存的工作原理、缓存注解的使用方法与最佳实践,https://blog.csdn.net/m0_72803988/article/details/136116458
+23,5686,【HTML】交友软件上照片的遮罩是如何做的,https://blog.csdn.net/qq_44214428/article/details/136112835
+24,5535,[计算机网络]---网络编程套接字,https://blog.csdn.net/qq_61552595/article/details/136111837
+25,5352,【Spring MVC篇】返回响应,https://blog.csdn.net/m0_74352571/article/details/136118888
+26,5029,FPGA转行ISP的探索之一：行业概览,https://blog.csdn.net/danxutj/article/details/136111847
+27,4107,(01)Hive的相关概念——架构、数据存储、读写文件机制,https://blog.csdn.net/SHWAITME/article/details/136111309
+28,3785,Hive on Spark配置,https://blog.csdn.net/qq_44709053/article/details/136073536
+29,3720,SQL世界之命令语句Ⅳ,https://blog.csdn.net/m0_73514785/article/details/136104330
+30,3563,python Flask与微信小程序 统计管理,https://blog.csdn.net/xinzhengLUCK/article/details/136108102
+31,3491,计算机网络之应用层,https://blog.csdn.net/weixin_74144099/article/details/136103929
+32,3287,Blazor OIDC 单点登录授权实例5 - 独立SSR App (net8 webapp ) 端授权,https://blog.csdn.net/alex_zoucn/article/details/136104930
+33,3002,如何在 Angular 中使用变更检测策略,https://blog.csdn.net/rubys007/article/details/136086656
+34,2989,计算机网络——09Web-and-HTTP,https://blog.csdn.net/Aubyn11/article/details/136108303
+35,2741,中科大计网学习记录笔记（十）：P2P 应用,https://blog.csdn.net/weixin_74895237/article/details/136103920
+36,2537,【Linux技术宝典】深入理解Linux基本指令：命令行新手指南,https://blog.csdn.net/2201_75743654/article/details/136119854
+37,2534,web3知识体系汇总,https://blog.csdn.net/crazy123456789/article/details/136108091
+38,2464,2024年Midjourney 付费订阅流程 | Midjourney 各版本介绍，使用虚拟信用卡支付买Midjourney流程指南,https://blog.csdn.net/zhaitong1991/article/details/136104077
+39,2448,SpringCloud之Eureka注册中心和负载均衡,https://blog.csdn.net/m0_63837020/article/details/136115248
+40,2087,基于微信小程序的高校就业招聘系统,https://blog.csdn.net/2301_79727522/article/details/136104485
+41,1948,Python和VBA批量提取Word中的表格,https://blog.csdn.net/henanlion/article/details/136108615
+42,1905,SpringCloud-Feign：负载均衡(基于服务端),https://blog.csdn.net/kdzandlbj/article/details/136106987
+43,1835,使用 C++23 从零实现 RISC-V 模拟器（4）：完善 log 支持并支持更多指令,https://blog.csdn.net/weixin_43924623/article/details/136108067
+44,1777,【CV论文精读】Adaptive Fusion of Multi-Scale YOLO for Pedestrian Detection基于多尺度自适应融合YOLO的行人检测,https://blog.csdn.net/weixin_44184852/article/details/136106084
+45,1759,发掘GPT-4商业创新的潜力,https://blog.csdn.net/xw555666/article/details/136093372
+46,1666,软件工程实践寒假作业,https://blog.csdn.net/striker030715/article/details/136113086
+47,1640,树莓派4B（Raspberry Pi 4B）使用docker搭建单机版nacos [基于docker-compose],https://blog.csdn.net/qq_35215728/article/details/136116772
+48,1608,内网穿透 | 推荐两个免费的内网穿透工具,https://blog.csdn.net/qq_60735796/article/details/136107877
+49,1604,云原生之容器编排-Docker Swarm,https://blog.csdn.net/bingersoft/article/details/136109108
+50,1579,ROS2高效学习第三章 -- 梳理 ros 编译工具，开始 ros2 编程，第一个 hello ros2 样例,https://blog.csdn.net/cy1641395022/article/details/135946387

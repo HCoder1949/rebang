@@ -1,0 +1,51 @@
+index,hot,title,href
+1,3.5万,【SpringBoot系列】Spring Boot 3核心技术与最佳实践,https://blog.csdn.net/jinxinxin1314/article/details/136548925
+2,2.5万,2024年AI辅助研发趋势：科技革新的引擎,https://blog.csdn.net/double222222/article/details/136592509
+3,2.1万,Linux系统Docker部署DbGate并结合内网穿透实现公网管理本地数据库,https://blog.csdn.net/Aileenvov/article/details/136576741
+4,1.7万,【机器学习】包裹式特征选择之基于遗传算法的特征选择,https://blog.csdn.net/m0_74195174/article/details/136502687
+5,1.7万,"基于神经网络的偏微分方程求解器再度取得突破,北大&字节的研究成果入选Nature子刊",https://blog.csdn.net/lmy050813/article/details/136603938
+6,1.5万,Spring Boot工作原理,https://blog.csdn.net/m0_74007708/article/details/136560709
+7,1.3万,【计算机网络】HTTP协议,https://blog.csdn.net/m0_65465009/article/details/136542853
+8,1.3万,文献学习-16-基于MRI引导机器人平台的心导管形状跟踪和反馈控制（用于房颤消融）,https://blog.csdn.net/Metaphysicist/article/details/136596388
+9,1.2万,【微服务】SpringBoot整合Resilience4j使用详解,https://blog.csdn.net/zhangcongyi420/article/details/136591185
+10,1.1万,【分库分表】基于mysql+shardingSphere的分库分表技术,https://blog.csdn.net/Joker_ZJN/article/details/136590974
+11,1.1万,如何在Windows系统使用固定tcp公网地址ssh远程Kali系统,https://blog.csdn.net/Tiam_cr/article/details/136595227
+12,1.0万,SpringCloud-实现基于RabbitMQ的消息队列,https://blog.csdn.net/weixin_41793160/article/details/136575113
+13,9407,【RabbitMQ】RabbitMQ的交换机,https://blog.csdn.net/m0_62645012/article/details/136588644
+14,9373,开启AI绘画新纪元：让创意在指尖绽放,https://blog.csdn.net/qq_32682301/article/details/136552888
+15,9044,数据库系统概论 第一章 绪论,https://blog.csdn.net/2303_77414881/article/details/136595870
+16,9000,【PyTorch】进阶学习：探索BCEWithLogitsLoss的正确使用---二元分类问题中的logits与标签形状问题,https://blog.csdn.net/qq_41813454/article/details/136559742
+17,8593,第四篇【传奇开心果系列】Python的自动化办公库技术点案例示例：深度解读Pandas生物信息学领域应用,https://blog.csdn.net/jackchuanqi/article/details/136508383
+18,8148,数学建模-动态规划&遗传算法(美赛运用),https://blog.csdn.net/weixin_61006262/article/details/136589834
+19,7761,【优质书籍推荐】LLM分类模式驱动和软件性能测试,https://blog.csdn.net/weixin_43178406/article/details/136590264
+20,7397,【Docker】了解Docker Desktop桌面应用程序，TA是如何管理和运行Docker容器（3),https://blog.csdn.net/lmy_520/article/details/136456287
+21,7395,MySQL 篇-快速了解事务、索引,https://blog.csdn.net/Tingfeng__/article/details/136519314
+22,6738,【重新定义matlab强大系列十七】Matlab深入浅出长短期记忆神经网络LSTM,https://blog.csdn.net/ywsydwsbn/article/details/136588557
+23,6494,第十九届全国大学生智能汽车竞赛镜头组 恩智浦MicroPython赛道相关说明,https://blog.csdn.net/zhuoqingjoking97298/article/details/136596193
+24,6145,数学建模理论与实践国防科大版,https://blog.csdn.net/Williamtym/article/details/136589222
+25,5171,flink重温笔记（十三）： flink 高级特性和新特性（2）——ProcessFunction API 和 双流 join,https://blog.csdn.net/m0_60732994/article/details/136592634
+26,4919,使用Tokeniser估算GPT和LLM服务的查询成本,https://blog.csdn.net/m0_46510245/article/details/136577625
+27,4533,利用Amazon Bedrock畅玩Claude 3等多种领先模型，抢占AI高地(体验倒计时4小时),https://blog.csdn.net/fly1574/article/details/136607845
+28,4444,【探索Linux】—— 强大的命令行工具 P.26（网络编程套接字基本概念—— socket编程接口 | socket编程接口相关函数详细介绍 ）,https://blog.csdn.net/m0_75215937/article/details/136467061
+29,4388,Elasticsearch：什么是 DevOps？,https://blog.csdn.net/UbuntuTouch/article/details/136558490
+30,4365,网络安全（黑客）——2024自学,https://blog.csdn.net/S18374/article/details/136589761
+31,4292,基于YOLOv8深度学习的葡萄病害智能诊断与防治系统【python源码+Pyqt5界面+数据集+训练代码】深度学习实战,https://blog.csdn.net/qq_42589613/article/details/136592349
+32,3972,基于React低代码平台开发：直击最新应用构建,https://blog.csdn.net/m0_64074924/article/details/136561443
+33,3844,计算机网络-数据链路层,https://blog.csdn.net/m0_61876562/article/details/136602176
+34,3585,计算机网络（四）,https://blog.csdn.net/qq_47155894/article/details/136459272
+35,3462,外包干了8天，技术退步明显。。。。。,https://blog.csdn.net/qq_73332379/article/details/136548511
+36,3427,Solidity攻击合约：重入攻击与危害分析,https://blog.csdn.net/2202_75568470/article/details/136589379
+37,3392,2024年集创赛FPGA紫光同创赛道男女声，童声变声,https://blog.csdn.net/m0_69065672/article/details/136589453
+38,3159,AIGC启示录：深度解析AIGC技术的现代性与系统性的奇幻旅程,https://blog.csdn.net/Srlua/article/details/136548959
+39,2871,学习和认知的四个阶段，以及学习方法分享,https://blog.csdn.net/star1210644725/article/details/136583632
+40,2787,【ICCV】AIGC时代下的SOTA人脸表征提取器TransFace，FaceChain团队出品,https://blog.csdn.net/sunbaigui/article/details/136556006
+41,2500,Yolov8模型用torch_pruning剪枝,https://blog.csdn.net/m0_67647321/article/details/136559097
+42,2447,前端框架的发展史,https://blog.csdn.net/qq_37031963/article/details/136592364
+43,2294,策略模式+工厂模式实现选择多方式登录，微信登录或qq登录，如何实现登录功能，登录的实现,https://blog.csdn.net/qq_68135906/article/details/136560375
+44,2258,外包干了30天，技术明显退步。。,https://blog.csdn.net/cs888zsy/article/details/136583115
+45,2173,鸿蒙OpenHarmony HDF 驱动开发,https://blog.csdn.net/nawei87/article/details/136587935
+46,2171,http协议简介：http各个版本的区别，http与https的区别，http与websocket的区别,https://blog.csdn.net/qq_45820271/article/details/136582458
+47,2019,XSS-Labs靶场1---11关,https://blog.csdn.net/m0_72676086/article/details/136547381
+48,2013,了解 HTTPS 中间人攻击：保护你的网络安全,https://blog.csdn.net/weixin_42554191/article/details/136590877
+49,1937,【Scrapy】京东商品数据可视化,https://blog.csdn.net/runofsun/article/details/136590309
+50,1924,docker-swarm集群搭建,https://blog.csdn.net/qq_61785413/article/details/136582895

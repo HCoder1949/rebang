@@ -1,0 +1,51 @@
+index,hot,title,href
+1,3.6万,【机器学习】数据探索---python主要的探索函数,https://blog.csdn.net/qq_38614074/article/details/136947087
+2,2.8万,今天起，Windows可以一键召唤GPT-4了,https://blog.csdn.net/Vicky_Victory/article/details/137211705
+3,2.7万,机器学习在智能音箱中的应用探索与实践：让声音更懂你,https://blog.csdn.net/g310773517/article/details/137234317
+4,1.5万,探索设计模式的魅力：AI大模型如何赋能C/S模式，开创服务新纪元,https://blog.csdn.net/danci_/article/details/137255195
+5,1.5万,群晖NAS使用Docker部署大语言模型Llama 2结合内网穿透实现公网访问本地GPT聊天服务,https://blog.csdn.net/a1657054242/article/details/137292314
+6,1.2万,MySQL中drop、truncate和delete的区别,https://blog.csdn.net/qq_58608526/article/details/137263253
+7,1.2万,【热门话题】WebKit架构简介,https://blog.csdn.net/qq_44214428/article/details/137299119
+8,1.1万,深入解析实时数仓Doris：Rollup上卷表与查询,https://blog.csdn.net/qq_26664043/article/details/137211284
+9,1.1万,是谁？写的Java神作一出版就获Jolt图书大奖【抽奖赠书】,https://blog.csdn.net/m0_63947499/article/details/137276607
+10,1.1万,spring boot3登录开发-3(2短信验证登录/注册逻辑实现）,https://blog.csdn.net/qq_62262918/article/details/137251926
+11,1.0万,【好书推荐4】图机器学习,https://blog.csdn.net/wtyuong/article/details/137272902
+12,1.0万,腾讯云函数计算技术：云原生架构下的Serverless与微服务新篇章,https://blog.csdn.net/weixin_42250835/article/details/137245963
+13,9718,第十一篇【传奇开心果系列】Python自动化办公库技术点案例示例：深度解读Python自动化操作PDF文件转Word文档,https://blog.csdn.net/jackchuanqi/article/details/137186780
+14,8204,黑客（网络安全）技术自学——高效学习,https://blog.csdn.net/rjychg/article/details/137288382
+15,7755,Kubernetes（k8s）：部署、使用 metrics-server,https://blog.csdn.net/qq_41840843/article/details/137260468
+16,7492,【Spring】SpringBoot整合ShardingSphere并实现多线程分批插入10000条数据（进行分库分表操作）。,https://blog.csdn.net/qq_61024956/article/details/137333140
+17,7344,【计算机网络】select/poll,https://blog.csdn.net/YoungMLet/article/details/137061230
+18,7173,【FFmpeg】ffmpeg 命令行参数 ⑧ ( 使用 ffmpeg 转换封装格式 | 音视频编解码器参数设置 | 视频 帧率 / 码率 / 分辨率 设置 | 音频 码率 / 采样率 设置 ),https://blog.csdn.net/han1202012/article/details/137217723
+19,7052,【数字IC/FPGA】手撕代码：模3检测器(判断输入序列能否被3整除),https://blog.csdn.net/wuzhikaidetb/article/details/137216922
+20,6941,Docker容器与Serverless的融合：探索《2023腾讯云容器和函数计算技术实践精选集》中的云原生创新案例,https://blog.csdn.net/qq_44866828/article/details/137229410
+21,6803,第117讲：深入MySQL性能优化：从多个角度提升数据库性能,https://blog.csdn.net/weixin_44953658/article/details/137326890
+22,6758,Docker部署Nexus Maven私服并且实现远程访问Nexus界面,https://blog.csdn.net/m0_68662723/article/details/137275527
+23,6697,Linux：冯·诺依曼结构 & OS管理机制,https://blog.csdn.net/fsdfafsdsd/article/details/137184536
+24,6280,深入云原生：解析 Docker 容器、Serverless 计算和微服务架构的实战应用,https://blog.csdn.net/dietime1943/article/details/137094957
+25,6074,网络协议学习——HTTPS,https://blog.csdn.net/qq_41934502/article/details/137270348
+26,5570,网络安全 | 什么是DDoS攻击？,https://blog.csdn.net/Andya_net/article/details/137262818
+27,5012,Regression算法,https://blog.csdn.net/m0_68111267/article/details/137332895
+28,4909,实验四 微信小程序智能手机互联网程序设计（微信程序方向）实验报告,https://blog.csdn.net/m0_64798714/article/details/137286855
+29,4837,扫地机器人（蓝桥杯）,https://blog.csdn.net/m0_73841621/article/details/137251423
+30,4755,如何使用potplayer在公网环境访问内网群晖NAS中储存在webdav中的影视资源,https://blog.csdn.net/Aileenvov/article/details/137249293
+31,4736,MS SQL Server STUFF 函数实战 统计记录行转为列显示,https://blog.csdn.net/michaelline/article/details/137257262
+32,4668,《2023腾讯云容器和函数计算技术实践精选集》--在 K8s 上跑腾讯云 Serverless 函数，打破传统方式造就新变革,https://blog.csdn.net/CC1991_/article/details/137230637
+33,4449,Docker容器、Serverless与微服务：腾讯云云原生架构技术实践案例集解析,https://blog.csdn.net/qq_53847859/article/details/136958351
+34,4229,计算机网络,https://blog.csdn.net/m0_64781922/article/details/137285155
+35,4215,（表征学习论文阅读）FINITE SCALAR QUANTIZATION: VQ-VAE MADE SIMPLE,https://blog.csdn.net/loki2018/article/details/137343194
+36,3958,网络原理 - HTTP / HTTPS(2)——http请求,https://blog.csdn.net/cool_tao6/article/details/137209490
+37,3726,大数据学习第十二天（hadoop概念）,https://blog.csdn.net/weixin_45787368/article/details/137276168
+38,3707,IDEA无法连接虚拟机中的Redis的解决方案，无法连接Jedis，无法ping通虚拟机的解决方案,https://blog.csdn.net/m0_69519887/article/details/137239295
+39,3681,最新AI智能系统ChatGPT网站源码V6.3版本，GPTs、AI绘画、AI换脸、垫图混图+（SparkAi系统搭建部署教程文档）,https://blog.csdn.net/weixin_43227851/article/details/137253437
+40,3489,Redis,https://blog.csdn.net/m0_66052129/article/details/136820877
+41,3301,vue3性能提升主要通过哪几方面？,https://blog.csdn.net/ZhangYu_010228/article/details/137244112
+42,3250,【Redis】Could not connect to Redis at 127.0.0.1:6379: Connection refused not connected报错解决方案,https://blog.csdn.net/joeyoj/article/details/137204500
+43,2891,菜鸟笔记-Python函数-zeros/identity/eye,https://blog.csdn.net/2202_75971130/article/details/137298077
+44,2875,游戏引擎中的物理系统,https://blog.csdn.net/gghhb12/article/details/137292987
+45,2720,【AIGC调研系列】AIGC+Jmeter实现接口自动化测试脚本生成,https://blog.csdn.net/weixin_39648954/article/details/137278049
+46,2653,Linux网络编程一(协议、TCP协议、UDP、socket编程、TCP服务器端及客户端),https://blog.csdn.net/qq_45009309/article/details/137270945
+47,2467,【论文阅读】Transformer 论文逐段精读,https://blog.csdn.net/weixin_44606353/article/details/137251018
+48,2405,深入理解WebSocket：实时双向通信的利器,https://blog.csdn.net/qq_39208536/article/details/137276825
+49,2308,计算机网络—TCP协议详解：特性、应用（1）,https://blog.csdn.net/weixin_64038246/article/details/137248406
+50,2106,js实现websocket断线重连功能,https://blog.csdn.net/Qcg0223/article/details/137287120

@@ -1,0 +1,51 @@
+index,hot,title,href
+1,2.0万,现代农业AI智能化升级之路：机器学习在现代农业领域的现状与未来发展,https://blog.csdn.net/g310773517/article/details/138009826
+2,1.9万,【Spring Cloud】服务容错中间件Sentinel进阶——五大规则,https://blog.csdn.net/Qingai521/article/details/137552440
+3,1.9万,深入OceanBase内部机制：资源隔离实现的方式总结,https://blog.csdn.net/qq_26664043/article/details/138004713
+4,1.8万,探索设计模式的魅力：开启智慧之旅，AI与机器学习驱动的微服务设计模式探索,https://blog.csdn.net/danci_/article/details/137948440
+5,1.5万,SpringCloud-搭建XXL-JOB任务调度平台教程,https://blog.csdn.net/weixin_41793160/article/details/138048939
+6,1.5万,【微服务】spring读取配置文件多种方式深入详解,https://blog.csdn.net/zhangcongyi420/article/details/138036907
+7,1.3万,【Rust】——通过Deref trait将智能指针当作常规引用处理,https://blog.csdn.net/shsjssnn/article/details/136822256
+8,1.2万,【机器学习】特征筛选：提升模型性能的关键步骤,https://blog.csdn.net/qq_38614074/article/details/138078097
+9,1.0万,AI大模型探索之路-实战篇3：基于私有模型GLM-企业级知识库开发实战,https://blog.csdn.net/xiaobing259/article/details/138021649
+10,1.0万,大模型改变了NLP的游戏规则了吗,https://blog.csdn.net/m0_68111267/article/details/137977752
+11,1.0万,云原生的基石：containerd引领未来容器发展趋势,https://blog.csdn.net/qq_32682301/article/details/138002634
+12,1.0万,最新版的GPT-4.5-Turbo有多强,https://blog.csdn.net/xixiaoyaoww/article/details/137976874
+13,9701,【机器学习】各大模型原理简介,https://blog.csdn.net/m0_68662723/article/details/138082359
+14,9569,【K8S系列】深入解析K8S中PV 和PVC,https://blog.csdn.net/weixin_36755535/article/details/138003564
+15,9324,深度解析 Spring 源码：三级缓存机制探究,https://blog.csdn.net/qq_51601665/article/details/138006834
+16,9212,.Net4.0 Web.config 配置实践,https://blog.csdn.net/michaelline/article/details/138065042
+17,8973,【FFmpeg】视频与图片互相转换 ( 视频与 JPG 静态图片互相转换 | 视频与 GIF 动态图片互相转换 ),https://blog.csdn.net/han1202012/article/details/138043134
+18,8934,【prometheus】k8s集群部署AlertManager实现邮件和钉钉告警,https://blog.csdn.net/qq_35995514/article/details/138046738
+19,8928,从头开始构建自己的 GPT 大型语言模型,https://blog.csdn.net/gongdiwudu/article/details/138034471
+20,8921,spring boot3单模块项目工程搭建-上（个人开发模板）,https://blog.csdn.net/qq_62262918/article/details/138050959
+21,8661,AIGC时代动手学自然语言处理的不二之作,https://blog.csdn.net/herosunly/article/details/137980791
+22,8651,芋道SpringBoot配置Maven、创建SpringBoot项目、创建Web接口、读取配置信息,https://blog.csdn.net/s445320/article/details/138043303
+23,8447,7.机器学习-十大算法之一拉索回归（Lasso）算法原理讲解,https://blog.csdn.net/weixin_50804299/article/details/137924219
+24,7846,计算机网络—TCP协议详解：协议构成、深度解析（3）,https://blog.csdn.net/weixin_64038246/article/details/138071755
+25,7804,PostgreSQL大版本如何升级？,https://blog.csdn.net/weixin_41645135/article/details/138055980
+26,7440,文本嵌入新方案：合合信息acge模型荣登C-MTEB榜首,https://blog.csdn.net/FRIGIDWINTER/article/details/137926842
+27,7319,数据分析案例-中国黄金股票市场的EDA与价格预测,https://blog.csdn.net/m0_64336780/article/details/135743347
+28,7214,第一篇【传奇开心果系列】Python的游戏库pygame技术点案例示例：深度解读实战开发飞机大战经典游戏案例,https://blog.csdn.net/jackchuanqi/article/details/138056959
+29,7028,Redis系列5：深入分析Cluster 集群模式,https://blog.csdn.net/Ly768768/article/details/138026858
+30,6860,【NumPy】一文向您详细介绍 np.log10,https://blog.csdn.net/qq_41813454/article/details/138049466
+31,6362,K8s RBAC认证授权深度解析,https://blog.csdn.net/weixin_53269650/article/details/137961468
+32,5980,什么是0-day漏洞，怎么防护0-day漏洞攻击,https://blog.csdn.net/dexunyun/article/details/138031359
+33,5606,【第34天】SQL进阶-SQL高级技巧-Window Funtion（SQL 小虚竹),https://blog.csdn.net/shi_hong_fei_hei/article/details/138015157
+34,5348,【Linux】系统安全及应用,https://blog.csdn.net/weixin_68840588/article/details/138040179
+35,5092,prompt提示工程,https://blog.csdn.net/qq_36372352/article/details/138027055
+36,4986,【优质书籍推荐】Vue.js+Node.js全栈开发实战,https://blog.csdn.net/weixin_43178406/article/details/138012314
+37,4986,经典机器学习算法——决策树,https://blog.csdn.net/zhengzhaoyang122/article/details/138007987
+38,4586,Python 实现视频去抖动技术,https://blog.csdn.net/weixin_52908342/article/details/138033649
+39,4336,Vue【路由】,https://blog.csdn.net/m0_64550837/article/details/135825287
+40,4256,SpringBootWeb请求,https://blog.csdn.net/weixin_51768441/article/details/137987988
+41,4051,【热门话题】探索与心得：深入体验Microsoft Edge浏览器,https://blog.csdn.net/qq_44214428/article/details/137996022
+42,3810,【Spring Security系列】Spring Security整合JWT：构建安全的Web应用,https://blog.csdn.net/qq_53847859/article/details/137940106
+43,3678,冯唐成事心法笔记,https://blog.csdn.net/Liuqz2009/article/details/138076735
+44,3659,解析 IP（IPv4）地址,https://blog.csdn.net/m0_74037729/article/details/138030942
+45,3431,华为ensp中rip和ospf路由重分发 原理及配置命令,https://blog.csdn.net/jxjdhdnd/article/details/138009187
+46,3423,【Linux系统化学习】线程控制,https://blog.csdn.net/qq_55119554/article/details/138015107
+47,3413,【Linux】对system V本地通信的内核级理解,https://blog.csdn.net/m0_74265792/article/details/138014144
+48,3194,【Linux】在centos快速搭建K8S1.18集群,https://blog.csdn.net/2302_76195174/article/details/138040694
+49,3152,见证历史，今天比特币减半丨PrismNET棱镜协议,https://blog.csdn.net/PrismNET/article/details/138012917
+50,3137,【数学建模】优劣解距离法Topsis模型（含MATLAB代码）,https://blog.csdn.net/2401_83283514/article/details/138010536

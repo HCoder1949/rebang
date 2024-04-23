@@ -1,0 +1,51 @@
+index,hot,title,href
+1,3.8万,【机器学习】特征筛选：提升模型性能的关键步骤,https://blog.csdn.net/qq_38614074/article/details/138078097
+2,3.5万,现代农业AI智能化升级之路：机器学习在现代农业领域的现状与未来发展,https://blog.csdn.net/g310773517/article/details/138009826
+3,2.0万,探索设计模式的魅力：开启智慧之旅，AI与机器学习驱动的微服务设计模式探索,https://blog.csdn.net/danci_/article/details/137948440
+4,2.0万,深入OceanBase内部机制：资源隔离实现的方式总结,https://blog.csdn.net/qq_26664043/article/details/138004713
+5,1.8万,【C++】飞机大战项目记录,https://blog.csdn.net/JLX_1/article/details/138013439
+6,1.7万,【圆桌论坛】个人作为嘉宾参与问答环节的总结，Create 2024百度AI开发者大会之AI智能体开发与应用论坛,https://blog.csdn.net/lmy_520/article/details/138015978
+7,1.5万,开启智慧之旅，AI与机器学习驱动的微服务设计模式探索,https://blog.csdn.net/haiwenCSDN/article/details/138048029
+8,1.4万,【机器学习】各大模型原理简介,https://blog.csdn.net/m0_68662723/article/details/138082359
+9,1.2万,Linux 网络操作命令FTP,https://blog.csdn.net/boysoft2002/article/details/138088256
+10,1.2万,智能时代 | 合合信息Embedding模型荣获C-MTEB榜单第一,https://blog.csdn.net/m0_61933976/article/details/137937085
+11,1.2万,7.机器学习-十大算法之一拉索回归（Lasso）算法原理讲解,https://blog.csdn.net/weixin_50804299/article/details/137924219
+12,1.2万,【Spring进阶系列丨最终篇】一文详解Spring中的事务控制,https://blog.csdn.net/m0_63947499/article/details/137752098
+13,1.2万,【微服务】spring读取配置文件多种方式深入详解,https://blog.csdn.net/zhangcongyi420/article/details/138036907
+14,1.2万,大模型改变了NLP的游戏规则了吗,https://blog.csdn.net/m0_68111267/article/details/137977752
+15,1.2万,计算机网络-网络文件共享协议,https://blog.csdn.net/douluo998/article/details/138083903
+16,1.2万,操作系统安全：Windows与Linux的安全标识符，身份鉴别和访问控制,https://blog.csdn.net/wangyuxiang946/article/details/137705290
+17,1.2万,【MySQL】SQL优化,https://blog.csdn.net/m0_72406127/article/details/138087366
+18,1.1万,【Linux】对system V本地通信的内核级理解,https://blog.csdn.net/m0_74265792/article/details/138014144
+19,1.1万,合合信息Embedding模型：引领中文文本向量化技术新高度,https://blog.csdn.net/qq_57421630/article/details/137960421
+20,1.1万,为什么并非所有的企业都该拥抱AIGC？,https://blog.csdn.net/weixin_42250835/article/details/138097175
+21,1.0万,第⑯讲：Ceph集群Pool资源池管理以及PG的数据分布的核心技术要点,https://blog.csdn.net/weixin_44953658/article/details/138107928
+22,9542,AIGC时代动手学自然语言处理的不二之作,https://blog.csdn.net/herosunly/article/details/137980791
+23,9052,【Linux】权限（shell运行原理、概念，Linux权限）,https://blog.csdn.net/qinjh_/article/details/137149038
+24,9019,智慧养老平台|基于SprinBoot+vue的智慧养老平台系统(源码+数据库+文档),https://blog.csdn.net/weixin_45630258/article/details/138065996
+25,8955,spring boot3单模块项目工程搭建-上（个人开发模板）,https://blog.csdn.net/qq_62262918/article/details/138050959
+26,8852,【FFmpeg】视频与图片互相转换 ( 视频与 JPG 静态图片互相转换 | 视频与 GIF 动态图片互相转换 ),https://blog.csdn.net/han1202012/article/details/138043134
+27,7926,Barnes-Hut t-SNE:大规模数据的高效降维算法,https://blog.csdn.net/m0_46510245/article/details/138113744
+28,7914,【优质书籍推荐】Vue.js+Node.js全栈开发实战,https://blog.csdn.net/weixin_43178406/article/details/138012314
+29,7902,SpringCloud-搭建XXL-JOB任务调度平台教程,https://blog.csdn.net/weixin_41793160/article/details/138048939
+30,7743,【Spring Cloud】服务容错中间件Sentinel进阶——五大规则,https://blog.csdn.net/Qingai521/article/details/137552440
+31,6790,.Net4.0 Web.config 配置实践,https://blog.csdn.net/michaelline/article/details/138065042
+32,6732,【Linux高性能服务器编程】——高性能服务器框架,https://blog.csdn.net/weixin_73951752/article/details/138090964
+33,6426,Spark-机器学习（4）回归学习之逻辑回归,https://blog.csdn.net/qq_49513817/article/details/138049507
+34,6314,计算机网络—TCP协议详解：协议构成、深度解析（3）,https://blog.csdn.net/weixin_64038246/article/details/138071755
+35,6300,基于开源CrashRpt与微软开源Detours技术深度改造的异常捕获库分享,https://blog.csdn.net/chenlycly/article/details/138075577
+36,6062,【Spring Boot】掌握Spring Boot：深入解析配置文件的使用与管理,https://blog.csdn.net/smile_sundays/article/details/137992366
+37,5890,基于K-means和FCM算法的合成纹理图像及SAR图像的分割,https://blog.csdn.net/qq_46009046/article/details/136990090
+38,5822,Linux使用Docker部署DashDot访问本地服务器面板,https://blog.csdn.net/Tiam_cr/article/details/138095986
+39,5787,【第34天】SQL进阶-SQL高级技巧-Window Funtion（SQL 小虚竹),https://blog.csdn.net/shi_hong_fei_hei/article/details/138015157
+40,5752,项目大集成,https://blog.csdn.net/MCB134/article/details/137977266
+41,5728,Elasticsearch：崭新的打分机制 - Learning To Rank (LTR),https://blog.csdn.net/UbuntuTouch/article/details/138066503
+42,5484,芋道SpringBoot配置Maven、创建SpringBoot项目、创建Web接口、读取配置信息,https://blog.csdn.net/s445320/article/details/138043303
+43,5262,【数据库系列】NebulaGraph部署与使用,https://blog.csdn.net/qyj19920704/article/details/138096509
+44,5240,从零开始精通RTSP之深入理解RTCP协议,https://blog.csdn.net/hope_wisdom/article/details/138040672
+45,5165,【prometheus】k8s集群部署AlertManager实现邮件和钉钉告警,https://blog.csdn.net/qq_35995514/article/details/138046738
+46,4962,Android 出现4G模块无法上网问题,https://blog.csdn.net/qq_44647100/article/details/138038465
+47,4943,【黑马头条】-day12项目部署和发布-jenkins,https://blog.csdn.net/qq_45400167/article/details/138073498
+48,4528,数学分析复习：洛必达法则、泰勒公式,https://blog.csdn.net/2301_76884115/article/details/138067727
+49,4163,第一篇【传奇开心果系列】Python的游戏库pygame技术点案例示例：深度解读实战开发飞机大战经典游戏案例,https://blog.csdn.net/jackchuanqi/article/details/138056959
+50,3990,Linux系统安全及应用,https://blog.csdn.net/2301_82109773/article/details/138017878

@@ -1,0 +1,51 @@
+index,hot,title,href
+1,4.0万,【机器学习】集成学习---投票法（Voting）,https://blog.csdn.net/qq_38614074/article/details/138176957
+2,2.5万,探索设计模式的魅力：主从模式与AI大模型的结合-开启机器学习新纪元,https://blog.csdn.net/danci_/article/details/138105741
+3,2.4万,我们该如何看待AIGC（人工智能）,https://blog.csdn.net/lh11223326/article/details/138168083
+4,1.3万,深度解析 Spring 源码：揭秘BeanFactory 之谜,https://blog.csdn.net/qq_51601665/article/details/138193995
+5,1.3万,【好书推荐7】《机器学习平台架构实战》,https://blog.csdn.net/wtyuong/article/details/138135927
+6,1.2万,深入探究音视频开源库WebRTC中NetEQ音频抗网络延时与抗丢包的实现机制,https://blog.csdn.net/chenlycly/article/details/138144499
+7,1.2万,概率图模型在机器学习中的应用：贝叶斯网络与马尔可夫随机场,https://blog.csdn.net/g310773517/article/details/138136614
+8,1.1万,第一篇【传奇开心果系列】Python深度学习库技术点案例示例:深度解读深度学习在自动驾驶领域的应用,https://blog.csdn.net/jackchuanqi/article/details/138123456
+9,1.0万,Spring Boot：Web应用开发之增删改查的实现,https://blog.csdn.net/qq_56886142/article/details/137061754
+10,1.0万,基于Amazon Bedrock_构建生成式 AI 应用,https://blog.csdn.net/qq_33681891/article/details/138180755
+11,1.0万,Kubernetes：云原生时代的核心引擎,https://blog.csdn.net/qq_32682301/article/details/138213626
+12,1.0万,2024年春季学期信号与系统课堂测验总结分析,https://blog.csdn.net/zhuoqingjoking97298/article/details/138160638
+13,1.0万,【赠书第22期】AI绘画全面精通,https://blog.csdn.net/qq_20016593/article/details/138164015
+14,9913,【SSM进阶学习系列丨整合篇】Spring+SpringMVC+MyBatis 框架配置详解,https://blog.csdn.net/m0_63947499/article/details/137752354
+15,9802,基于SpringBoot和Leaflet的地震台网信息预警可视化,https://blog.csdn.net/yelangkingwuzuhu/article/details/138196698
+16,9533,MySQL-----多表查询（一）,https://blog.csdn.net/2302_79862386/article/details/138171806
+17,9519,操作系统安全：Linux安全审计，Linux日志详解,https://blog.csdn.net/wangyuxiang946/article/details/137960412
+18,9398,在OceanBase开发者大会上享受数据库领域盛宴,https://blog.csdn.net/CC1991_/article/details/138141925
+19,9306,C++必修：从C到C++的过渡(下）,https://blog.csdn.net/Bettysweetyaaa/article/details/138183963
+20,9196,AIGC实战——基于Transformer实现音乐生成,https://blog.csdn.net/LOVEmy134611/article/details/138142967
+21,8976,spring boot3单模块项目工程搭建-下（个人开发模板）,https://blog.csdn.net/qq_62262918/article/details/138174111
+22,8906,【FFmpeg】音视频录制 ① ( 查询系统中 ffmpeg 可录制的音视频输入设备 | 使用 ffmpeg 命令录制音视频数据 | 录制视频数据命令 |录制音频数据| 同时录制音频和视频数据命令 ),https://blog.csdn.net/han1202012/article/details/138066869
+23,8835,探索文本向量化的新高峰：合合信息acge_text_embedding 模型,https://blog.csdn.net/m0_73367097/article/details/138130800
+24,8506,【Linux】使用Jenkins + svn + springboot自动构建jar包并自动打包在服务器上运行,https://blog.csdn.net/liu_chen_yang/article/details/134415668
+25,8015,【C++干货基地】深度理解C++中的高效内存管理方式 new & delete,https://blog.csdn.net/qq_57761637/article/details/138174670
+26,7773,【Docker】Docker Network(网络),https://blog.csdn.net/m0_67595314/article/details/136114521
+27,7478,卓越体验的秘密武器：评测ToDesk云电脑、青椒云、天翼云的稳定性和流畅度,https://blog.csdn.net/qq_44866828/article/details/138159170
+28,7068,【优质书籍推荐】Node.js+MongoDB+Vue.js全栈开发实战,https://blog.csdn.net/weixin_43178406/article/details/138213355
+29,7056,【树莓派】yolov5 Lite，目标检测，行人检测入侵报警,https://blog.csdn.net/x1131230123/article/details/138201461
+30,7045,YOLOv3没有比这详细的了吧,https://blog.csdn.net/festaw/article/details/138188257
+31,6961,【Unity 实用工具篇】 | UIEffect 实现一系列UGUI特效，描边及阴影特效,https://blog.csdn.net/zhangay1998/article/details/133012483
+32,6877,【prometheus】监控MySQL并实现可视化,https://blog.csdn.net/qq_35995514/article/details/138174969
+33,6679,【热门话题】PostCSS：现代前端开发中的CSS增强工具,https://blog.csdn.net/qq_44214428/article/details/138217479
+34,6672,【大模型】大模型时代的语音合成：音频的离散化表示,https://blog.csdn.net/2301_77509762/article/details/138134698
+35,6057,【计算机网络】第一章——计算机概述（上篇）,https://blog.csdn.net/m0_74352571/article/details/138145764
+36,5926,蓝桥杯：日期问题（我的绝望题）,https://blog.csdn.net/djdjiejsn/article/details/138142795
+37,5770,AI大模型探索之路-训练篇3：大语言模型全景解读,https://blog.csdn.net/xiaobing259/article/details/138161057
+38,5198,通俗易懂，十分钟让你了解并上手 Docker,https://blog.csdn.net/u011709538/article/details/138128077
+39,4838,合合信息：acge_text_embedding 文本向量化模型登顶 C-MTEB 中文榜单,https://blog.csdn.net/qq_44273429/article/details/138077122
+40,4127,【基于netty+zookeeper的rpc远程调用框架】首篇——缘起,https://blog.csdn.net/m0_68089732/article/details/138172170
+41,3982,AIGC，全能摧毁,https://blog.csdn.net/xingyu_qie/article/details/138205647
+42,3458,文本向量化模型新突破——acge_text_embedding勇夺C-MTEB榜首,https://blog.csdn.net/air__Heaven/article/details/138015602
+43,3242,LlamaFactory源码解析 PPO,https://blog.csdn.net/sinat_37574187/article/details/138131916
+44,3191,【Linux系统化学习】死锁 | 线程同步,https://blog.csdn.net/qq_55119554/article/details/138120861
+45,3067,云原生Kubernetes: K8S 1.29版本 部署Nexus,https://blog.csdn.net/cronaldo91/article/details/138196213
+46,3021,学好setup语法糖，快速上手Vue3,https://blog.csdn.net/weixin_71732962/article/details/138217638
+47,2991,基于YOLOv8+Pyqt5火焰烟雾检测系统,https://blog.csdn.net/m0_69402477/article/details/138140507
+48,2942,深入Doris实时数仓：导入本地数据,https://blog.csdn.net/qq_26664043/article/details/137979739
+49,2686,电影交流|基于SprinBoot+vue的电影交流平台小程序系统(源码+数据库+文档),https://blog.csdn.net/weixin_45630258/article/details/138218504
+50,2656,Yolov5 export.py实现onnx模型的导出,https://blog.csdn.net/m0_74137224/article/details/138158069

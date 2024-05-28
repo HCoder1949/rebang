@@ -1,0 +1,51 @@
+index,hot,title,href
+1,2.6万,苹果iOS18将引入ChatGPT；美国AI禁令再升级；微软首发Phi-3多模态模型 | AI头条,https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/139252050
+2,2.3万,【机器学习】利用机器学习优化陆军战术决策与战场态势感知,https://blog.csdn.net/Easonmax/article/details/139225359
+3,1.9万,【机器学习】深入探索机器学习：线性回归算法的原理与应用,https://blog.csdn.net/EterNity_TiMe_/article/details/139262691
+4,1.7万,AI大模型探索之路-实战篇9：探究Agent智能数据分析平台的架构与功能,https://blog.csdn.net/xiaobing259/article/details/139205615
+5,1.7万,AI大模型在测试中的深度应用与实践案例,https://blog.csdn.net/rjdeng/article/details/139246321
+6,1.5万,【机器学习】Python中的决策树算法探索,https://blog.csdn.net/qq_44214428/article/details/139237359
+7,1.3万,【机器学习】探究DQN通过训练来解决AI序列决策问题,https://blog.csdn.net/xiaoxie8023/article/details/139193360
+8,1.3万,【机器学习结合AI绘画工具】——开启艺术创作的新纪元,https://blog.csdn.net/2303_77720864/article/details/139161930
+9,1.1万,腾讯云 Web 超级播放器开发实战,https://blog.csdn.net/michaelline/article/details/139253919
+10,1.0万,spring boot3整合邮件服务实现邮件发送功能,https://blog.csdn.net/qq_62262918/article/details/139244604
+11,1.0万,【Sql Server】随机查询一条表记录，并重重温回顾下自定义函数的封装和使用,https://blog.csdn.net/lmy_520/article/details/139258521
+12,1.0万,Web安全：文件上传漏洞详解，文件上传漏洞原理、绕过方式和防御方案。,https://blog.csdn.net/wangyuxiang946/article/details/129465042
+13,9758,使用numpy手写一个神经网络,https://blog.csdn.net/weixin_43589323/article/details/139246510
+14,9083,语音深度鉴伪识别项目实战：基于深度学习的语音深度鉴伪识别算法模型(一)音频数据编码与预处理,https://blog.csdn.net/master_hunter/article/details/139242246
+15,8249,超越实体机？深度评测揭示ToDesk云电脑、无影云、青椒云真实性能,https://blog.csdn.net/weixin_50843918/article/details/139266509
+16,8199,不怕YOLOv10高歌猛进，我有YOLOv8稳扎稳打,https://blog.csdn.net/weixin_43694096/article/details/139266687
+17,7933,数据挖掘实战-基于余弦相似度的印度美食推荐系统,https://blog.csdn.net/m0_64336780/article/details/137450506
+18,7904,深度解析 Spring 源码：探秘 CGLIB 代理的奥秘,https://blog.csdn.net/qq_51601665/article/details/139240358
+19,7830,HTML大雪纷飞,https://blog.csdn.net/m0_68111267/article/details/139136829
+20,7564,Python爬虫实战：利用代理IP获取电商数据,https://blog.csdn.net/yuan2019035055/article/details/139221930
+21,7106,【wiki知识库】02.wiki知识库SpringBoot后端的准备,https://blog.csdn.net/qq_61024956/article/details/139224794
+22,6453,10.SpringBoot 统一处理功能,https://blog.csdn.net/xinhang10/article/details/139249741
+23,5801,我的创作纪念日——我与CSDN一起走过的128天,https://blog.csdn.net/2301_80220607/article/details/139236782
+24,5520,使用 Elasticsearch 作为 Azure OpenAI On Your Data 的向量数据库,https://blog.csdn.net/UbuntuTouch/article/details/139234265
+25,5270,数码论坛|基于SprinBoot+vue的数码论坛系统(源码+数据库+文档),https://blog.csdn.net/weixin_45630258/article/details/139262637
+26,4995,李飞飞亲自撰文：大模型不存在主观感觉能力，多少亿参数都不行,https://blog.csdn.net/leyang0910/article/details/139185169
+27,4964,【计算机网络】第三章——回退N帧协议,https://blog.csdn.net/m0_74352571/article/details/139191538
+28,4766,使用Python操作Jenkins,https://blog.csdn.net/xiangxi1204/article/details/139236143
+29,4643,项目范围管理,https://blog.csdn.net/ak2111/article/details/139226159
+30,4641,文心智能体之情感领航员：你的智能情感导师,https://blog.csdn.net/qq_35427589/article/details/139236665
+31,4479,【赠书第24期】Java项目开发实战（微视频版）,https://blog.csdn.net/qq_20016593/article/details/139186287
+32,4397,闲话 .NET（7）：.NET Core 能淘汰 .NET FrameWork 吗？,https://blog.csdn.net/yangshuquan/article/details/139249941
+33,4038,【网络协议】应用层协议HTTPS,https://blog.csdn.net/2202_75795446/article/details/139234763
+34,3700,HTTPS 的加密流程,https://blog.csdn.net/weixin_49817511/article/details/139247532
+35,3688,云原生Kubernetes: 云主机部署K8S 1.30版本 单Master架构,https://blog.csdn.net/cronaldo91/article/details/139235168
+36,3577,【Fiddler抓包工具】第五节.安卓、IOS抓包+fildder插件,https://blog.csdn.net/qq_64861334/article/details/139240924
+37,3504,Web组态可视化编辑器 快速绘制组态图,https://blog.csdn.net/BY1317880437/article/details/139245053
+38,3504,计算机网络——TCP / IP 网络模型,https://blog.csdn.net/2302_79789602/article/details/139236481
+39,3346,基于微信小程序+ JAVA后端实现的【医院挂号预约系统】 设计与实现 （内附设计LW + PPT+ 源码+ 演示视频 下载）,https://blog.csdn.net/Zuourple/article/details/139236475
+40,3314,数学建模--LaTeX的基本使用,https://blog.csdn.net/binhyun/article/details/139246898
+41,3229,计算机组成原理易混淆知识点总结(持续更新),https://blog.csdn.net/weixin_69884785/article/details/139237180
+42,3033,学习信号和槽（1）,https://blog.csdn.net/plj521/article/details/138686970
+43,2944,计算机网络学习,https://blog.csdn.net/qq_61109509/article/details/139212444
+44,2937,5月26（信息差）,https://blog.csdn.net/eqwaak0/article/details/139212332
+45,2786,网络其他重要协议（DNS、ICMP、NAT）,https://blog.csdn.net/weixin_74310945/article/details/139220122
+46,2475,计算机网络——物理层,https://blog.csdn.net/2303_77543831/article/details/139196350
+47,2449,YOLOv10：全面的效率-准确性驱动模型设计,https://blog.csdn.net/qq_41739364/article/details/139237740
+48,2147,鸿蒙开发接口UI界面：【@ohos.mediaquery (媒体查询)】,https://blog.csdn.net/2301_76813281/article/details/139248333
+49,2076,Prometheus Operator创建告警规则并接入钉钉报警,https://blog.csdn.net/weixin_44946147/article/details/139251316
+50,1909,Android：使用Kotlin搭建MVI架构模式,https://blog.csdn.net/ChinaDragon10/article/details/139248511

@@ -1,0 +1,51 @@
+index,hot,title,href
+1,2.4万,【机器学习】Qwen1.5-14B-Chat大模型训练与推理实战,https://blog.csdn.net/weixin_48007632/article/details/139422184
+2,2.2万,Spring高手之路19——Spring AOP注解指南,https://blog.csdn.net/qq_34115899/article/details/136203216
+3,1.7万,【机器学习】基于OpenCV和TensorFlow的MobileNetV2模型的物种识别与个体相似度分析,https://blog.csdn.net/weixin_41793160/article/details/139396627
+4,1.6万,【机器学习】机器学习在深度学习领域中的作用：半监督学习的视角,https://blog.csdn.net/2301_77509762/article/details/139429139
+5,1.5万,C# 解决 Excel 自动适应列宽的问题,https://blog.csdn.net/michaelline/article/details/139417806
+6,1.3万,【机器学习】机器学习与大模型在人工智能领域的融合应用与性能优化新探索,https://blog.csdn.net/Easonmax/article/details/139390222
+7,1.3万,揭秘大数据时代的数据库存储引擎：关系型、NoSQL与NewSQL如何选择？,https://blog.csdn.net/qq_32682301/article/details/139422801
+8,1.2万,【C++软件调试技术】什么是pdb文件？如何使用pdb文件？哪些工具需要使用pdb文件？,https://blog.csdn.net/chenlycly/article/details/139440290
+9,1.2万,数据挖掘实战-基于长短期记忆网络（LSTM）的黄金价格预测模型 | 97% 准确度,https://blog.csdn.net/m0_64336780/article/details/137491053
+10,1.1万,PyTorch深度学习实战（44）——基于 DETR 实现目标检测,https://blog.csdn.net/LOVEmy134611/article/details/139428926
+11,1.0万,【机器学习】朴素贝叶斯算法及其应用探索,https://blog.csdn.net/qq_44214428/article/details/139428772
+12,1.0万,GPT-4o：人工智能新纪元的突破与展望,https://blog.csdn.net/qyj19920704/article/details/139394850
+13,1.0万,机器学习AI大模型的开源与闭源：哪个更好？,https://blog.csdn.net/a1657054242/article/details/139429016
+14,1.0万,【云原生】Docker Compose 使用详解,https://blog.csdn.net/zhangcongyi420/article/details/139370168
+15,9678,HR青睐的数据库热门考题——事务,https://blog.csdn.net/mgzdwm/article/details/139374468
+16,9145,Redis 持久化: RDB和AOF,https://blog.csdn.net/aliyunyyds/article/details/139401903
+17,9001,Android电量优化，让你的手机续航更持久,https://blog.csdn.net/a_lwh____/article/details/139427730
+18,8854,【MyBatis】MyBatis操作数据库（二）：动态SQL、#{}与${}的区别,https://blog.csdn.net/smile_sundays/article/details/139397654
+19,8688,【云原生】kubernetes中secret原理详解与应用实战,https://blog.csdn.net/littlefun591/article/details/139412226
+20,8340,Golang TCP网络编程,https://blog.csdn.net/chenlong_cxy/article/details/137794458
+21,8173,【深入学习Redis丨第二篇】Redis集群部署详解,https://blog.csdn.net/m0_63947499/article/details/139287652
+22,8044,Java开发：Spring Boot 实战教程,https://blog.csdn.net/android157/article/details/139355902
+23,7418,第24讲：Ceph集群RGW对象存储高可用集群部署与测试,https://blog.csdn.net/weixin_44953658/article/details/139402573
+24,7351,SpringBoot接口防抖(防重复提交),https://blog.csdn.net/qq_34901859/article/details/139425030
+25,7256,Vue3项目炫酷实战，检测密码强度值,https://blog.csdn.net/xingyu_qie/article/details/139406699
+26,7112,Web安全：软件开发的安全问题与解决方案,https://blog.csdn.net/wangyuxiang946/article/details/138398595
+27,6987,Qt开发技术：Q3D图表开发笔记（四）：Q3DSurface三维曲面图颜色样式详解、Demo以及代码详解,https://blog.csdn.net/qq21497936/article/details/139424086
+28,6836,MySQL之查询性能优化(二),https://blog.csdn.net/Cover_sky/article/details/139425544
+29,6653,【wiki知识库】04.SpringBoot后端实现电子书的增删改查以及前端界面的展示,https://blog.csdn.net/qq_61024956/article/details/139395392
+30,6410,前端科举八股文-VUE篇,https://blog.csdn.net/qq_38280242/article/details/138823536
+31,6181,【软件工程】第六章,https://blog.csdn.net/qq_62597581/article/details/139383429
+32,5595,Linux的网络配置,https://blog.csdn.net/Hai990218/article/details/139417166
+33,5592,如何用 Electron 打包chatgpt-plus.top并生成mac客户端,https://blog.csdn.net/xianyu120/article/details/139408943
+34,5540,【Unity实战篇 】 | Unity实现UGUI颜色渐变，支持透明渐变,https://blog.csdn.net/zhangay1998/article/details/139429636
+35,5365,Docker的网络管理,https://blog.csdn.net/misakivv/article/details/139399863
+36,4979,DexCap——斯坦福李飞飞团队泡茶机器人：更好数据收集系统的原理解析、源码剖析,https://blog.csdn.net/v_JULY_v/article/details/139410045
+37,4831,Linux 网络配置 01,https://blog.csdn.net/ibertine_P/article/details/139418967
+38,4801,Love-Yi情侣网站3.0存在SQL注入漏洞,https://blog.csdn.net/weixin_72543266/article/details/139398956
+39,4790,【MySQL】表的约束,https://blog.csdn.net/fight_p/article/details/139004389
+40,4697,网络网络层之(6)ICMPv4协议,https://blog.csdn.net/Once_day/article/details/139426408
+41,4570,第一篇 逻辑门（与门、或门、非门、异或门）,https://blog.csdn.net/weixin_47841246/article/details/139419943
+42,4464,探索k8s集群的配置资源（secret和configmap）,https://blog.csdn.net/2301_81307988/article/details/139414667
+43,4332,数据库与低代码开发：技术革新与应用实践,https://blog.csdn.net/dsgdauigfs/article/details/139416463
+44,4068,第一周：计算机网络概述（上）,https://blog.csdn.net/Vincent_Zhang233/article/details/139407868
+45,4054,驱动开发之设备树语法,https://blog.csdn.net/m0_46392035/article/details/139360761
+46,3803,ubuntu系统 kubeadm方式搭建k8s集群,https://blog.csdn.net/2302_78152953/article/details/139174579
+47,3699,第99天：权限提升-数据库提权&口令获取&MYSQL&MSSQL&Oracle&MSF,https://blog.csdn.net/weixin_71529930/article/details/139207686
+48,3426,【UE5 刺客信条动态地面复刻】实现无界地面01：动态生成,https://blog.csdn.net/qq_41835314/article/details/139362486
+49,3243,【上海大学计算机组成原理实验报告】六、内存系统实验,https://blog.csdn.net/HackerKevon/article/details/139380732
+50,3187,C++ 20新特性之结构化绑定,https://blog.csdn.net/hope_wisdom/article/details/139428396

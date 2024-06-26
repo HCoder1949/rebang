@@ -1,0 +1,51 @@
+index,hot,title,href
+1,3.0万,【前端】Vue项目和微信小程序生成二维码和条形码,https://blog.csdn.net/2301_78542842/article/details/139971006
+2,2.6万,2024三掌柜赠书活动第二十五期：Rust 游戏开发实战,https://blog.csdn.net/CC1991_/article/details/139916115
+3,2.5万,【机器学习】ChatTTS：开源文本转语音（text-to-speech）大模型天花板,https://blog.csdn.net/weixin_48007632/article/details/139929395
+4,2.3万,elasticsearch 聚合 : 指标聚合、桶聚合、管道聚合解析使用总结,https://blog.csdn.net/qq_26664043/article/details/139906290
+5,2.0万,【微服务】RPC的实现原理,https://blog.csdn.net/jinxinxin1314/article/details/139939444
+6,1.8万,【深度学习】菜品目标检测软件系统,https://blog.csdn.net/oBoLuoChuiXue12/article/details/139933398
+7,1.7万,还不到6个月，GPTs黄了,https://blog.csdn.net/Gabriel100yi/article/details/139966846
+8,1.4万,【机器学习】自然语言处理（NLP）领域革命性突破的模型——Transformer,https://blog.csdn.net/2301_79796701/article/details/139939731
+9,1.3万,【GPT-5 一年半后发布？对此你有何期待？】GPT-5：AI技术的新里程碑与我们的未来,https://blog.csdn.net/2302_78391795/article/details/139973309
+10,1.2万,【C++进阶学习】第四弹——多态——迈向C++更深处的关键一步,https://blog.csdn.net/2301_80220607/article/details/139968988
+11,1.2万,微服务+云原生：打造高效、灵活的分布式系统,https://blog.csdn.net/weixin_53269650/article/details/139922774
+12,1.1万,精选：15款顶尖Python知识图谱（关系网络）绘制工具，数据分析的强力助手,https://blog.csdn.net/m0_46510245/article/details/139984770
+13,1.1万,探索ONLYOFFICE桌面编辑器8.1：更强大的办公软件（新功能全新详解）,https://blog.csdn.net/LT15171009269/article/details/139963848
+14,1.0万,数据处理神器Elasticsearch_Pipeline：原理、配置与实战指南,https://blog.csdn.net/a1657054242/article/details/139987285
+15,1.0万,【PyTorch单点知识】神经元网络模型剪枝prune模块介绍（上，非结构化剪枝）,https://blog.csdn.net/m0_49963403/article/details/139896440
+16,9666,【机器学习】自然语言处理的新前沿：GPT-4与Beyond,https://blog.csdn.net/qq_61024956/article/details/139906261
+17,9576,基于SpringBoot和PostGIS的某国基地可视化实战,https://blog.csdn.net/yelangkingwuzuhu/article/details/139967455
+18,8926,第30讲：Ceph集群RBD块存储通过CSI客户端与K8S StorageClass集成,https://blog.csdn.net/weixin_44953658/article/details/139912990
+19,8646,病毒防护：恶意代码检测技术，病毒分类、传播方式，恶意代码的清除与防护,https://blog.csdn.net/wangyuxiang946/article/details/138130592
+20,8365,华为仓颉编程语言观感,https://blog.csdn.net/HelloMagina/article/details/139963936
+21,8207,【机器学习】机器学习重要方法——深度学习：理论、算法与实践,https://blog.csdn.net/Easonmax/article/details/139469859
+22,8015,「全新升级，性能更强大——ONLYOFFICE 桌面编辑器 8.1 深度评测」,https://blog.csdn.net/qq_51601665/article/details/139955810
+23,7139,畅谈GPT-5,https://blog.csdn.net/2302_79376097/article/details/139986116
+24,6850,解锁高效办公:ONLYOFFICE版本8.1新功能揭秘与个人使用体验,https://blog.csdn.net/2201_75539691/article/details/139922773
+25,6638,Spring Boot整合Druid：轻松实现SQL监控和数据库密码加密,https://blog.csdn.net/weixin_73588491/article/details/139947478
+26,6517,【Linux】Wmware Esxi磁盘扩容,https://blog.csdn.net/qq_35995514/article/details/139983762
+27,6163,【新版本来袭】ONLYOFFICE桌面编辑器8.1 —— 重塑办公效率与体验,https://blog.csdn.net/qq_32682301/article/details/139948528
+28,6148,C/C++黑客帝国同款字母雨（完整代码）,https://blog.csdn.net/m0_68111267/article/details/139923742
+29,6120,计算机必背单词——操作系统,https://blog.csdn.net/hebtu666/article/details/139704877
+30,6000,Vue组件生命周期深度剖析：从创建到销毁的八大钩子实战指南,https://blog.csdn.net/m0_48173416/article/details/139975222
+31,5443,ONLYOFFICE8.1版本桌面编辑器测评,https://blog.csdn.net/u014727709/article/details/139982927
+32,5255,数据集的未来：如何利用亮数据浏览器提升数据采集效率,https://blog.csdn.net/guorui_java/article/details/139881440
+33,5187,【SPSS】基于RFM+Kmeans的电商客户价值聚类分析,https://blog.csdn.net/m0_64336780/article/details/138446539
+34,5097,2024运维人该何去何从？,https://blog.csdn.net/qq_52494169/article/details/139974606
+35,4795,课程设计——基于FPGA的共享单车计费器设计（含源码）,https://blog.csdn.net/BROKEN__Y/article/details/139922904
+36,4792,MySQL实训--原神数据库,https://blog.csdn.net/weixin_46729014/article/details/139990864
+37,4716,基于SpringBoot+大数据爬虫+hive的旅游景点数据分析平台设计和实现(源码+LW+部署讲解),https://blog.csdn.net/weixin_39709134/article/details/139984807
+38,4677,MySQL用户管理和高级SQL语句,https://blog.csdn.net/zheshijiuyue/article/details/139935096
+39,4663,猫头虎分享：K8S优雅关机怎么实现？配置一下server.shutdown.graceful?,https://blog.csdn.net/qq_44866828/article/details/139948994
+40,4635,Elasticsearch：使用 semantic_text 简化语义搜索,https://blog.csdn.net/UbuntuTouch/article/details/139957669
+41,4435,"vite+vue3+ts项目搭建流程 (pnpm, eslint, prettier, stylint, husky,commitlint )",https://blog.csdn.net/yavlgloss/article/details/139972200
+42,4361,【云计算】阿里云、腾讯云、华为云平台数据库对比,https://blog.csdn.net/qq_37822090/article/details/139960052
+43,4169,东南亚本地化游戏,https://blog.csdn.net/2401_82856454/article/details/139961452
+44,4148,（9）农作物喷雾器,https://blog.csdn.net/qq_20016593/article/details/139912515
+45,4065,GPT-5时代的曙光：AI技术引领未来工作与生活的新篇章,https://blog.csdn.net/2303_80856850/article/details/139972551
+46,3961,【工具测评】ONLYOFFICE——你的下一款桌面编辑器,https://blog.csdn.net/weixin_63115236/article/details/139951679
+47,3672,RK3568开发笔记（三）：瑞芯微RK3588芯片介绍，入手开发板的核心板介绍,https://blog.csdn.net/qq21497936/article/details/139905873
+48,3572,【CentOS 7】深入指南：使用LVM和扩展文件系统增加root分区存储容量,https://blog.csdn.net/joeyoj/article/details/139883819
+49,3438,SpringMVC获取请求参数,https://blog.csdn.net/aliyunyyds/article/details/139975290
+50,3365,正则表达式与文本处理器,https://blog.csdn.net/qq_74956938/article/details/139962526

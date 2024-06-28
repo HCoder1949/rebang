@@ -1,0 +1,51 @@
+index,hot,title,href
+1,3.4万,elasticsearch 聚合 : 指标聚合、桶聚合、管道聚合解析使用总结,https://blog.csdn.net/qq_26664043/article/details/139906290
+2,3.1万,AI从业者怎么做Science？清华大学AIR周浩：从文本生成到蛋白质设计的跨界探索,https://blog.csdn.net/HyperAI/article/details/140009904
+3,2.9万,AI在创造还是毁掉音乐？,https://blog.csdn.net/weixin_42306958/article/details/140005703
+4,2.8万,【机器学习】机器学习重要方法——迁移学习：理论、方法与实践,https://blog.csdn.net/Easonmax/article/details/139470015
+5,2.0万,【C++进阶学习】第四弹——多态——迈向C++更深处的关键一步,https://blog.csdn.net/2301_80220607/article/details/139968988
+6,1.5万,【机器学习】Whisper：开源语音转文本（speech-to-text）大模型实战,https://blog.csdn.net/weixin_48007632/article/details/140046145
+7,1.5万,深度解析：机器学习如何助力GPT-5实现语言理解的飞跃,https://blog.csdn.net/2301_77509762/article/details/139997963
+8,1.5万,【AI 大模型】大模型应用架构 ( 业务架构 - AI Embedded、AI Copilot、AI Agent | 技术架构 - 提示词、代理 + 函数调用、RAG、Fine-tuning ),https://blog.csdn.net/han1202012/article/details/140043933
+9,1.5万,"【机器学习】高斯混合模型（Gaussian Mixture Models, GMM）深度解析",https://blog.csdn.net/qq_44214428/article/details/140001995
+10,1.5万,计算机必背单词——网络和安全,https://blog.csdn.net/hebtu666/article/details/139704966
+11,1.4万,第十九届全国大学生智能汽车竞赛线上比赛细则,https://blog.csdn.net/zhuoqingjoking97298/article/details/140005823
+12,1.2万,【SpringBoot】SpringBoot使用mail实现登录邮箱验证,https://blog.csdn.net/qq_61024956/article/details/140011294
+13,9537,深入探索Java开发世界：Redis~类型分析大揭秘,https://blog.csdn.net/qq_51601665/article/details/140045691
+14,9242,Oracle新特性速递：未来数据库技术的无限可能,https://blog.csdn.net/qq_32682301/article/details/140039708
+15,8859,我给我的学校写了个校园墙小程序,https://blog.csdn.net/2302_79791164/article/details/140017644
+16,8707,【前端】Vue项目和微信小程序生成二维码和条形码,https://blog.csdn.net/2301_78542842/article/details/139971006
+17,8661,Windows环境本地部署开源在线演示文稿应用PPTist并实现远程访问,https://blog.csdn.net/qyj19920704/article/details/140018395
+18,8570,GPT-5时代的曙光：AI技术引领未来工作与生活的新篇章,https://blog.csdn.net/2303_80856850/article/details/139972551
+19,8435,Elasticsearch 与 OpenSearch：解开向量搜索性能差距,https://blog.csdn.net/UbuntuTouch/article/details/140009659
+20,8167,基于SpringBoot+大数据爬虫+hive的旅游景点数据分析平台设计和实现(源码+LW+部署讲解),https://blog.csdn.net/weixin_39709134/article/details/139984807
+21,7615,MySQL 高级SQL语句,https://blog.csdn.net/lxplxplike/article/details/139819745
+22,7485,第31讲：K8S StorageClass使用rbd-provisioner驱动与Ceph RBD块存储集成,https://blog.csdn.net/weixin_44953658/article/details/140004473
+23,6735,网易游戏如何基于 Apache Doris 构建全新湖仓一体架构,https://blog.csdn.net/SelectDB_Fly/article/details/140045350
+24,5975,计算机网络：如何隐藏真实的IP和MAC地址？,https://blog.csdn.net/yangyin1998/article/details/140014560
+25,5844,VUE大屏的开发过程（纯前端）,https://blog.csdn.net/aZHANGJIANZHENa/article/details/139926277
+26,5520,springcloud第4季 分布式事务seata作用服务搭建1,https://blog.csdn.net/u011066470/article/details/140013610
+27,5460,生命在于学习——Python人工智能原理（2.5.1）,https://blog.csdn.net/qq_15131581/article/details/140003841
+28,5309,【Linux小命令】一文讲清ldd命令及使用场景,https://blog.csdn.net/weixin_43786143/article/details/140021714
+29,5308,微软Edge浏览器全解析,https://blog.csdn.net/weixin_48579910/article/details/140009476
+30,5295,办公开源利器：ONLYOFFICE,https://blog.csdn.net/qq_44907926/article/details/140001142
+31,5161,【云计算】阿里云、腾讯云、华为云RocketMQ、Kafka、RabbitMq消息队列对比,https://blog.csdn.net/qq_37822090/article/details/140013051
+32,5148,标签接口开发（富含完整CRUD开发流程）,https://blog.csdn.net/m0_64637029/article/details/139999957
+33,4888,Python实现数据库与Excel文件之间的数据导入与导出,https://blog.csdn.net/Eiceblue/article/details/140020087
+34,4759,【数据采集】亮数据浏览器、亮网络解锁器实战指南,https://blog.csdn.net/Qingai521/article/details/140033562
+35,4674,Python爬虫实战之爬取京东商品数据,https://blog.csdn.net/zhou6343178/article/details/140023294
+36,4619,不止是只有维度建模，数据仓库还有Data Vault建模,https://blog.csdn.net/u012955829/article/details/140026097
+37,4578,SpringMVC 请求参数接收,https://blog.csdn.net/2301_76161469/article/details/139964395
+38,4348,linux的安全技术和防火墙,https://blog.csdn.net/Alone8046/article/details/139976054
+39,4200,SpringBoot脚手架MySpringBootAPI(PgSQL+Druid+MyBatisPlus+Lombok),https://blog.csdn.net/moshowgame/article/details/140026962
+40,3958,笔记 - shell脚本,https://blog.csdn.net/STM32TSZ/article/details/140024335
+41,3865,【Linux】Linux下使用套接字进行网络编程,https://blog.csdn.net/Coldreams/article/details/140024879
+42,3831,CSS的媒体查询：响应式布局的利器,https://blog.csdn.net/fox9916/article/details/140020434
+43,3698,【网络安全】 一文带你了解什么是【点击劫持】,https://blog.csdn.net/xingyu_qie/article/details/140015014
+44,3675,网络安全（黑客）自学,https://blog.csdn.net/kailiaq_1/article/details/139981145
+45,3591,HTML5与HTML：不仅仅是标签的革新,https://blog.csdn.net/weixin_68127493/article/details/140013506
+46,3515,如何避免爬取网站时IP被封？,https://blog.csdn.net/ygsqj/article/details/140024079
+47,3342,Velero将aws集群迁移到更高版本,https://blog.csdn.net/a15849147618/article/details/140048469
+48,3160,3D立体卡片动效（附源码）,https://blog.csdn.net/qq_41115965/article/details/140034704
+49,3071,深入剖析 Android 网络开源库 Retrofit 的源码详解,https://blog.csdn.net/u010347226/article/details/139829558
+50,3039,Linux网络编程：套接字编程,https://blog.csdn.net/weixin_73234157/article/details/139325103

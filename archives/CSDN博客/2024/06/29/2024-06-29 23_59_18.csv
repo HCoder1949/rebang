@@ -1,0 +1,51 @@
+index,hot,title,href
+1,5.4万,【机器学习】Whisper：开源语音转文本（speech-to-text）大模型实战,https://blog.csdn.net/weixin_48007632/article/details/140046145
+2,3.6万,elasticsearch去重：collapse、cardinality、terms+top_hits实现总结,https://blog.csdn.net/qq_26664043/article/details/139904112
+3,2.7万,【项目日记（二）】搜索引擎-索引制作,https://blog.csdn.net/weixin_69049913/article/details/140018554
+4,2.7万,BLACKBOX.AI：解锁编程学习新纪元，加速开发的AI得力助手,https://blog.csdn.net/2201_75539691/article/details/140051801
+5,2.2万,【机器学习】机器学习重要方法——迁移学习：理论、方法与实践,https://blog.csdn.net/Easonmax/article/details/139470015
+6,1.9万,阿里云服务器数据库迁云: 数据从传统到云端的安全之旅（WordPress个人博客实战教学）,https://blog.csdn.net/qq_57761637/article/details/139940280
+7,1.8万,告别模糊时代，扫描全能王带来清晰世界,https://blog.csdn.net/weixin_51390582/article/details/139470895
+8,1.6万,【机器学习】基于层次的聚类方法：理论与实践,https://blog.csdn.net/qq_44214428/article/details/140002038
+9,1.4万,C++——探索智能指针的设计原理,https://blog.csdn.net/strive_mianyang/article/details/140025424
+10,1.3万,【AI 大模型】大模型应用架构 ( 业务架构 - AI Embedded、AI Copilot、AI Agent | 技术架构 - 提示词、代理 + 函数调用、RAG、Fine-tuning ),https://blog.csdn.net/han1202012/article/details/140043933
+11,1.3万,【SpringBoot】SpringBoot使用mail实现登录邮箱验证,https://blog.csdn.net/qq_61024956/article/details/140011294
+12,1.2万,【MySQL】用户管理,https://blog.csdn.net/fight_p/article/details/139508138
+13,1.1万,扫描全能王智能高清滤镜2.0全新来袭，更会思考、更会处理,https://blog.csdn.net/weixin_50843918/article/details/140060255
+14,1.0万,计算机必背单词——数据库性能相关,https://blog.csdn.net/hebtu666/article/details/139705068
+15,1.0万,使用QGIS进行研究区域制图实战,https://blog.csdn.net/yelangkingwuzuhu/article/details/140025433
+16,9953,卷积神经网络,https://blog.csdn.net/2302_76516899/article/details/140053828
+17,9685,【Matlab】-- 飞蛾扑火优化算法,https://blog.csdn.net/wangshuqian1314/article/details/140054242
+18,9370,【机器学习】大模型训练的深入探讨——Fine-tuning技术阐述与Dify平台介绍,https://blog.csdn.net/2301_79796701/article/details/140066351
+19,9288,计算机网络知识整理笔记,https://blog.csdn.net/weixin_44187963/article/details/140046322
+20,8787,Google 深夜突袭，Gemma 2 狂卷 Llama 3,https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/140032632
+21,8774,探索 Electron：将 Web 技术带入桌面应用,https://blog.csdn.net/qq_53123067/article/details/139871924
+22,8450,基于星火大模型的群聊对话分角色要素提取挑战赛-Lora微调与prompt构造,https://blog.csdn.net/qq_44511981/article/details/140043813
+23,7101,完全离线的本地问答模型LocalGPT如何实现无公网IP远程连接提问,https://blog.csdn.net/2301_79558858/article/details/140060812
+24,7006,基于SpringBoot+Vue+Spark+大数据的在线广告推荐系统设计和实现(源码+LW+部署讲解),https://blog.csdn.net/weixin_39709134/article/details/140060178
+25,6759,第十九届全国大学生智能车各分赛区所需要的比赛系统器材,https://blog.csdn.net/zhuoqingjoking97298/article/details/140043222
+26,6694,Oracle新特性速递：未来数据库技术的无限可能,https://blog.csdn.net/qq_32682301/article/details/140039708
+27,6340,深入探索Java开发世界：Redis~类型分析大揭秘,https://blog.csdn.net/qq_51601665/article/details/140045691
+28,6295,python查找支撑数 青少年编程电子学会python编程等级考试三级真题解析2022年3月,https://blog.csdn.net/frank2102/article/details/140033738
+29,6228,计算机网络 —— 路由协议：RIP、OSPF、BGP、MPLS,https://blog.csdn.net/apr15/article/details/139900408
+30,6211,Transformer 能代替图神经网络吗?,https://blog.csdn.net/m0_46510245/article/details/140059614
+31,5895,MySQL 主从复制集群高可用,https://blog.csdn.net/Vince15dvd/article/details/140017937
+32,5566,Windows环境本地部署开源在线演示文稿应用PPTist并实现远程访问,https://blog.csdn.net/qyj19920704/article/details/140018395
+33,5257,Spring Boot中的异常处理策略,https://blog.csdn.net/qq836869520/article/details/140008546
+34,4800,探索区块链：颠覆性技术的崛起,https://blog.csdn.net/2301_79181030/article/details/140054035
+35,4798,Spring Boot中 CommandLineRunner 与 ApplicationRunner作用、区别,https://blog.csdn.net/weixin_44029753/article/details/140055059
+36,4737,Ownips 静态IP代理：跨境电商的最佳伙伴,https://blog.csdn.net/xqe777/article/details/140051575
+37,4508,如何知道docker谁占用的显卡的显存？,https://blog.csdn.net/x1131230123/article/details/140048874
+38,4241,SQL SELECT语句的基本用法,https://blog.csdn.net/weixin_44627014/article/details/140053767
+39,4116,工业路由器与家用路由器的区别,https://blog.csdn.net/NetCloudWorld/article/details/140033329
+40,3864,办公开源利器：ONLYOFFICE,https://blog.csdn.net/qq_44907926/article/details/140001142
+41,3797,一个去掉PDF背景水印的思路,https://blog.csdn.net/waitdeng/article/details/140003003
+42,3761,HarmonyOS(40) 悬浮框实现,https://blog.csdn.net/chunqiuwei/article/details/140012720
+43,3716,如何在LabVIEW中使用FPGA模块,https://blog.csdn.net/bjcyck/article/details/140032566
+44,3651,linux 系统引导过程,https://blog.csdn.net/xw2441176267/article/details/140033415
+45,3634,【安全开发】内网扫描器,https://blog.csdn.net/qq_39583774/article/details/140053216
+46,3494,前端vue使用onlyoffice控件实现word在线编辑、预览（仅列出前端部分需要做的工作，不包含后端部分）,https://blog.csdn.net/qq_42611074/article/details/140048077
+47,3445,免交互,https://blog.csdn.net/QChestnut/article/details/140042053
+48,3236,Python数据分析案例47——笔记本电脑价格影响因素分析,https://blog.csdn.net/weixin_46277779/article/details/140060836
+49,3209,我给我的学校写了个校园墙小程序,https://blog.csdn.net/2302_79791164/article/details/140017644
+50,3188,VUE大屏的开发过程（纯前端）,https://blog.csdn.net/aZHANGJIANZHENa/article/details/139926277

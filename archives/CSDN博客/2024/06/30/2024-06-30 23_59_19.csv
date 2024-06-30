@@ -1,0 +1,51 @@
+index,hot,title,href
+1,3.6万,BLACKBOX.AI：解锁编程学习新纪元，加速开发的AI得力助手,https://blog.csdn.net/2201_75539691/article/details/140051801
+2,2.7万,【机器学习】Whisper：开源语音转文本（speech-to-text）大模型实战,https://blog.csdn.net/weixin_48007632/article/details/140046145
+3,2.5万,elasticsearch去重：collapse、cardinality、terms+top_hits实现总结,https://blog.csdn.net/qq_26664043/article/details/139904112
+4,2.3万,【深度学习】扫描全能王的AI驱动创新与智能高清滤镜技术解析,https://blog.csdn.net/s445320/article/details/140080340
+5,2.2万,【Rust】——所有的模式语法,https://blog.csdn.net/shsjssnn/article/details/136856051
+6,2.1万,【机器学习】在【Pycharm】中的应用：【线性回归模型】进行【房价预测】,https://blog.csdn.net/2303_77720864/article/details/140055251
+7,2.1万,【AI 大模型】大模型应用架构 ( 业务架构 - AI Embedded、AI Copilot、AI Agent | 技术架构 - 提示词、代理 + 函数调用、RAG、Fine-tuning ),https://blog.csdn.net/han1202012/article/details/140043933
+8,2.1万,【机器学习】机器学习的重要技术——生成对抗网络：理论、算法与实践,https://blog.csdn.net/Easonmax/article/details/139470408
+9,1.8万,【云原生】Prometheus 使用详解,https://blog.csdn.net/zhangcongyi420/article/details/140061151
+10,1.8万,计算机网络知识整理笔记,https://blog.csdn.net/weixin_44187963/article/details/140046322
+11,1.7万,机器学习引领教育革命：智能教育的新时代,https://blog.csdn.net/EterNity_TiMe_/article/details/140001932
+12,1.7万,深入解析高斯过程：数学理论、重要概念和直观可视化全解,https://blog.csdn.net/m0_46510245/article/details/140078516
+13,1.3万,python项目实战——人生重开模拟器,https://blog.csdn.net/2303_82176667/article/details/140035597
+14,1.3万,C++——探索智能指针的设计原理,https://blog.csdn.net/strive_mianyang/article/details/140025424
+15,1.2万,【机器学习案列分析】逻辑回归预测银行客户是否会开设定期存款账户,https://blog.csdn.net/qq_38614074/article/details/136841656
+16,1.1万,【项目日记（二）】搜索引擎-索引制作,https://blog.csdn.net/weixin_69049913/article/details/140018554
+17,1.0万,阿里云服务器数据库迁云: 数据从传统到云端的安全之旅（WordPress个人博客实战教学）,https://blog.csdn.net/qq_57761637/article/details/139940280
+18,9996,如何知道docker谁占用的显卡的显存？,https://blog.csdn.net/x1131230123/article/details/140048874
+19,9630,探索 Electron：将 Web 技术带入桌面应用,https://blog.csdn.net/qq_53123067/article/details/139871924
+20,9213,基于星火大模型的群聊对话分角色要素提取挑战赛-Lora微调与prompt构造,https://blog.csdn.net/qq_44511981/article/details/140043813
+21,8275,深入探索Java开发世界：Redis~类型分析大揭秘,https://blog.csdn.net/qq_51601665/article/details/140045691
+22,7820,计算机Java项目｜基于SpringBoot的学院班级回忆录,https://blog.csdn.net/whirlwind526/article/details/140060438
+23,7381,Python数据分析-股票分析和可视化（深证指数）,https://blog.csdn.net/m0_62638421/article/details/139985320
+24,7366,使用QGIS进行研究区域制图实战,https://blog.csdn.net/yelangkingwuzuhu/article/details/140025433
+25,6890,基于SpringBoot+Vue+Spark+大数据的在线广告推荐系统设计和实现(源码+LW+部署讲解),https://blog.csdn.net/weixin_39709134/article/details/140060178
+26,6866,【网络】计算机网络-基本知识,https://blog.csdn.net/weixin_37833693/article/details/140061690
+27,6501,【愚公系列】（HDC.Cloud）2024 华为开发者大会游记,https://blog.csdn.net/aa2528877987/article/details/140069914
+28,6483,SpringMVC 域对象共享数据,https://blog.csdn.net/aliyunyyds/article/details/140067799
+29,6057,Oracle新特性速递：未来数据库技术的无限可能,https://blog.csdn.net/qq_32682301/article/details/140039708
+30,5268,第十九届全国大学生智能车各分赛区所需要的比赛系统器材,https://blog.csdn.net/zhuoqingjoking97298/article/details/140043222
+31,5187,扫描全能王智能高清滤镜2.0全新来袭，更会思考、更会处理,https://blog.csdn.net/weixin_50843918/article/details/140060255
+32,4940,深入解析三大跨平台开发框架：Flutter、React Native 和 uniapp,https://blog.csdn.net/weixin_37600397/article/details/140050205
+33,4331,完全离线的本地问答模型LocalGPT如何实现无公网IP远程连接提问,https://blog.csdn.net/2301_79558858/article/details/140060812
+34,4315,【Spring Boot】认识 JPA 的接口,https://blog.csdn.net/be_racle/article/details/140078199
+35,4303,湖科大《软件工程》考点总结2024,https://blog.csdn.net/m0_75240394/article/details/139962981
+36,4120,Spring Boot 启动流程源码分析（2）,https://blog.csdn.net/weixin_42118323/article/details/139958553
+37,4087,【SpringBoot】SpringBoot核心启动流程源码解析,https://blog.csdn.net/jia970426/article/details/140068334
+38,4032,Ownips 静态IP代理：跨境电商的最佳伙伴,https://blog.csdn.net/xqe777/article/details/140051575
+39,3862,计算机网络 —— 路由协议：RIP、OSPF、BGP、MPLS,https://blog.csdn.net/apr15/article/details/139900408
+40,3832,Vue.js 和 Node.js 全栈项目的运行与部署指南,https://blog.csdn.net/m0_74277350/article/details/140069569
+41,3812,Linux-select同时监听读写-ulimit-select的原理-select的调用流程-select设置超时；,https://blog.csdn.net/weixin_63494444/article/details/140061101
+42,3612,微服务实战系列之云原生,https://blog.csdn.net/splendid_java/article/details/139770705
+43,3515,在本地windows中利用wsl2部署docker应用,https://blog.csdn.net/m0_62177801/article/details/140082679
+44,3459,鸿蒙系统——强大的分布式系统,https://blog.csdn.net/m0_68038853/article/details/140059040
+45,3439,Nginx和CDN运用,https://blog.csdn.net/Decp_/article/details/140069180
+46,3308,使用WebSocket实现从后端向前端推送信息,https://blog.csdn.net/triumph55/article/details/140076529
+47,3262,基于Spring Boot与Vue的智能房产匹配平台+文档,https://blog.csdn.net/qq_31293575/article/details/140026245
+48,3150,【计算机网络】HTTP——基于HTTP的功能追加协议（个人笔记）,https://blog.csdn.net/weixin_62679382/article/details/140069260
+49,2977,docker-mysql主从复制,https://blog.csdn.net/weixin_46466657/article/details/140064721
+50,2809,【无标题】c# WEBAPI 读写表到Redis,https://blog.csdn.net/xiaowengang/article/details/140058870

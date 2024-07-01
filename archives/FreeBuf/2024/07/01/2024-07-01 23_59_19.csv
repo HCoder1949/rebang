@@ -1,0 +1,21 @@
+index,hot,title,href
+1,18.0万,攻防演练中的IPv6（上）针对IPv6的扫描与攻击,https://www.freebuf.com/defense/378522.html
+2,1.2万,Kimsuky 组织利用 TRANSLATEXT Chrome 扩展程序窃取敏感数据信息,https://www.freebuf.com/news/404872.html
+3,2.0万,影响大量路由器，Juniper Networks曝最严重的“身份验证”漏洞,https://www.freebuf.com/news/404900.html
+4,1.6万,CrimsonEDR：一款恶意软件模式识别与EDR策略评估工具,https://www.freebuf.com/sectool/404792.html
+5,1.9万,深度好文 | 从零开始构建大模型安全测试基准,https://www.freebuf.com/articles/es/404287.html
+6,1.6万,威胁探索 | APT在野利用MSC文件的初始访问和逃避方法,https://www.freebuf.com/articles/system/404458.html
+7,2.7万,GitLab 曝一严重漏洞，威胁软件开发管道,https://www.freebuf.com/news/404873.html
+8,2.3万,谷歌拟允许独立 Web应用访问敏感的USB设备,https://www.freebuf.com/news/404867.html
+9,3.8万,FreeBuf早报 | 5G 连接存在漏洞；美国拟投资3.6亿元研发医疗设备漏洞管理方案,https://www.freebuf.com/news/404717.html
+10,2.6万,新勒索软件 Shinra 与 Limpopo 浮出水面,https://www.freebuf.com/articles/network/404049.html
+11,3.8万,CSAF：一款结构化的网络安全意识框架,https://www.freebuf.com/sectool/404443.html
+12,30.1万,SRC挖掘实战 | JS中能利用的那些信息,https://www.freebuf.com/articles/web/394873.html
+13,4.2万,代码安全审计经验分享,https://www.freebuf.com/vuls/404240.html
+14,34.8万,代码审计 | 你一定会审的java系统,https://www.freebuf.com/articles/web/393271.html
+15,4.5万,pgAdmin后台命令执行漏洞（CVE-2023-5002）,https://www.freebuf.com/vuls/404237.html
+16,4.8万,一周网安优质PDF资源推荐丨FreeBuf知识大陆,https://www.freebuf.com/news/404778.html
+17,3.7万,供应链投毒预警 | utilitytool系列Py包开展XenoRAT远控木马投毒,https://www.freebuf.com/news/404197.html
+18,87.3万,舍友服务器被入侵的一次复盘演练记录,https://www.freebuf.com/articles/web/376495.html
+19,14.6万,攻防演练 | 如何做好一名优秀的蓝队（外网篇）,https://www.freebuf.com/articles/web/404494.html
+20,5.2万,URL Status Checker：一款基于纯Python的URL状态检测工具,https://www.freebuf.com/sectool/404397.html

@@ -1,0 +1,51 @@
+index,hot,title,href
+1,4.0万,【人工智能】Transformers之Pipeline（概述）：30w+大模型极简应用,https://blog.csdn.net/weixin_48007632/article/details/140319929
+2,4.0万,【微服务】Spring Cloud中如何使用Eureka,https://blog.csdn.net/jinxinxin1314/article/details/140310061
+3,2.4万,揭秘”大模型加速器”如何助力大模型应用,https://blog.csdn.net/yuan2019035055/article/details/140341857
+4,2.4万,数字化时代的供应链管理综合解决方案,https://blog.csdn.net/weixin_42794881/article/details/140342451
+5,2.3万,AI：助力开发者翱翔，而非抢夺其舞台,https://blog.csdn.net/2302_79806056/article/details/140290487
+6,2.0万,elasticsearch SQL：在Elasticsearch中启用和使用SQL功能,https://blog.csdn.net/qq_26664043/article/details/140250316
+7,1.2万,生成式人工智能：助攻开发者还是取代开发者？,https://blog.csdn.net/weixin_36755535/article/details/140303217
+8,1.2万,2023年辽宁省数学建模大赛A题思路代码,https://blog.csdn.net/qq_52590045/article/details/140288650
+9,1.1万,利用【Python】【线性规划】优化工厂生产：实现智能资源配置与利润最大化的现代解决方案,https://blog.csdn.net/2303_77720864/article/details/140337134
+10,1.1万,SpringBoot实战：轻松实现接口数据脱敏,https://blog.csdn.net/weixin_73588491/article/details/140304117
+11,1.1万,数据分析案例-2024 年全电动汽车数据集可视化分析,https://blog.csdn.net/m0_64336780/article/details/138419950
+12,1.1万,LLM代理应用实战：构建Plotly数据可视化代理,https://blog.csdn.net/m0_46510245/article/details/140345339
+13,1.1万,自动驾驶技术的原理,https://blog.csdn.net/zhumin726/article/details/140286771
+14,1.1万,位运算在数据库中的运用实践-以MySQL和PG为例,https://blog.csdn.net/yelangkingwuzuhu/article/details/140306538
+15,1.0万,探展2024世界人工智能大会之合合信息扫描黑科技～,https://blog.csdn.net/weixin_42250835/article/details/140281879
+16,1.0万,【DevOps】在云原生时代的角色与重要性探索,https://blog.csdn.net/weixin_53269650/article/details/140278338
+17,1.0万,开源软件项目的发展趋势与个人参与经验分享,https://blog.csdn.net/qyj19920704/article/details/140318827
+18,9158,基于FPGA的数字信号处理（15）--定点数的舍入模式（6）向0取整fix,https://blog.csdn.net/wuzhikaidetb/article/details/140286844
+19,8962,大数据下的用户研究：深度洞察与精准决策的引擎,https://blog.csdn.net/qq_32682301/article/details/140287090
+20,8476,风险评估：Tomcat的安全配置，Tomcat安全基线检查加固,https://blog.csdn.net/wangyuxiang946/article/details/139862788
+21,8312,GaussDB关键技术原理：高性能（五）,https://blog.csdn.net/GaussDB/article/details/139928325
+22,8276,linux_进程概念——理解冯诺依曼体系结构,https://blog.csdn.net/strive_mianyang/article/details/140332533
+23,8240,基于YOLOv8深度学习的CT扫描图像肾结石智能检测系统【python源码+Pyqt5界面+数据集+训练代码】深度学习实战、目标检测,https://blog.csdn.net/qq_42589613/article/details/140312309
+24,7994,ubuntu将solidworks模型导入到ros(gazebo/rviz),https://blog.csdn.net/qq_45703639/article/details/140352868
+25,7851,【Sql Server】sql server 2019设置远程访问，外网服务器需要设置好安全组入方向规则,https://blog.csdn.net/lmy_520/article/details/140292053
+26,7452,ENSP实现防火墙区域策略与用户管理,https://blog.csdn.net/qq_69294474/article/details/140332676
+27,6989,【计算机网络03】不花钱怎么搭建一个网络实验室,https://blog.csdn.net/qq_41708993/article/details/139652783
+28,6751,高考后的IT专业启航：暑期预习指南与学习路线图,https://blog.csdn.net/u014727709/article/details/140278093
+29,6060,【C++深度探索】全面解析多态性机制(一),https://blog.csdn.net/Renswc/article/details/140295196
+30,6058,Elasticsearch：使用 Filebeat 从 Node.js Web 应用程序提取日志,https://blog.csdn.net/UbuntuTouch/article/details/140313786
+31,5848,C++的介绍与认识,https://blog.csdn.net/2302_79376097/article/details/140299938
+32,5779,【微服务】第31节：Redis的哨兵模式,https://blog.csdn.net/m0_46013789/article/details/140321454
+33,5555,Spark SQL,https://blog.csdn.net/m0_74120525/article/details/140335034
+34,5229,【uni-app+Vue3】 API请求封装：让接口调用更便捷,https://blog.csdn.net/2301_78542842/article/details/140261946
+35,5036,案例分享：Qt modbusTcp调试工具(读写Byte、Int、DInt、Real、DReal)（当前v1.0.0）,https://blog.csdn.net/qq21497936/article/details/140313789
+36,5011,【VUE实战项目】使用typescript重构项目,https://blog.csdn.net/Joker_ZJN/article/details/140336697
+37,4794,SpringBoot项目架构实战之“网关zuul搭建“,https://blog.csdn.net/qq_19952029/article/details/124285479
+38,4781,如何保证Redis缓存和数据库的数据一致性,https://blog.csdn.net/Jernnifer_mao/article/details/140322846
+39,4719,【Spring Boot】Spring原理：Bean的作用域和生命周期,https://blog.csdn.net/smile_sundays/article/details/140303944
+40,4718,【数学建模】2005建模A题:长江水质综合评价与预测,https://blog.csdn.net/shaozheng0503/article/details/140286255
+41,4712,合合信息大模型加速器亮相WAIC大会：文档解析与文本识别新突破,https://blog.csdn.net/qq_44866828/article/details/140286238
+42,4565,自学黑客（网络安全）,https://blog.csdn.net/xv7676/article/details/140297249
+43,4434,哈喽GPT-4o，程序员如何通过GPT-4o提高办公效率,https://blog.csdn.net/guorui_java/article/details/140313736
+44,4103,MybatisPlus 使用教程,https://blog.csdn.net/Mwt258/article/details/140337742
+45,4034,京东.Vision首登苹果Vision Pro 背后的技术探索,https://blog.csdn.net/zheli1969917/article/details/140350941
+46,3553,MapReduce底层原理详解：大案例解析（第32天）,https://blog.csdn.net/syhiiu/article/details/140337070
+47,3436,智能微服务调度：Eureka中的区域感知性配置指南,https://blog.csdn.net/2401_85439108/article/details/140302504
+48,3434,【微信小程序开发实战项目】——个人中心页面的制作,https://blog.csdn.net/2301_77628600/article/details/140299757
+49,3158,NI 5G大规模MIMO测试台：将理论变为现实,https://blog.csdn.net/qq_36666115/article/details/140335356
+50,2702,对controller层进行深入学习,https://blog.csdn.net/m0_62600503/article/details/140333767

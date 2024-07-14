@@ -1,0 +1,21 @@
+index,hot,title,href
+1,69.8万,企业安全之SDL体系初步探索,https://www.freebuf.com/articles/es/373784.html
+2,1.1万,go-secdump：一款Windows注册表安全测试工具,https://www.freebuf.com/sectool/405573.html
+3,1.0万,ebpf在开发板使用及绕过root检测,https://www.freebuf.com/articles/endpoint/404959.html
+4,39.7万,攻防演练 | 一次对某市级单位演习的总结学习,https://www.freebuf.com/defense/374008.html
+5,1.3万,浅谈进程隐藏技术,https://www.freebuf.com/articles/network/405372.html
+6,1.4万,一周网安优质PDF资源推荐丨FreeBuf知识大陆,https://www.freebuf.com/news/405869.html
+7,3.1万,“游蛇”黑产团伙利用恶意文档进行钓鱼攻击活动分析,https://www.freebuf.com/articles/network/404937.html
+8,46.8万,攻防演练 | HW实战中钓鱼全流程梳理,https://www.freebuf.com/defense/374161.html
+9,2.3万,如何使用Subhunter测试你的子域名是否容易被接管,https://www.freebuf.com/sectool/405566.html
+10,3.6万,“银狐”团伙再度出击：利用易语言远控木马实施钓鱼攻击,https://www.freebuf.com/news/405712.html
+11,19.3万,攻防演练 | HVV红队复盘——总结（向上汇报）,https://www.freebuf.com/defense/375594.html
+12,1.7万,SharkTeam：2024年上半年度Web3安全报告,https://www.freebuf.com/articles/web/405439.html
+13,3.1万,FreeBuf 周报 | 微软强制中国员工使用iPhone验证身份；DDoS 攻击再破记录,https://www.freebuf.com/news/405857.html
+14,4.2万,海莲花组织以社保话题为诱饵进行 APT 攻击,https://www.freebuf.com/articles/network/405589.html
+15,5.1万,企业安全 | 企业内一次钓鱼演练准备过程,https://www.freebuf.com/articles/es/405657.html
+16,3.8万,LDAPWordlistHarvester：基于LDAP数据的字典生成工具,https://www.freebuf.com/sectool/405543.html
+17,4.9万,如何打造企业安全运营服务体系（服务和管理层面）,https://www.freebuf.com/news/405840.html
+18,4.5万,网络舆论战打响，俄罗斯虚假信息设施遍布欧洲,https://www.freebuf.com/news/405818.html
+19,2.8万,应急响应 | MacOS取证速查：一文搞定响应取证所有需求,https://www.freebuf.com/articles/web/405123.html
+20,5.7万,在线PDF工具暴露了数万份用户上传的文件,https://www.freebuf.com/news/405809.html

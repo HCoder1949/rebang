@@ -1,0 +1,51 @@
+index,hot,title,href
+1,2.6万,【人工智能】Transformers之Pipeline（三）：文本转音频（text-to-audio/text-to-speech）,https://blog.csdn.net/weixin_48007632/article/details/140475532
+2,2.6万,【机器学习】使用Python的dlib库实现人脸识别技术,https://blog.csdn.net/m0_52827996/article/details/140559322
+3,2.3万,多任务高斯过程数学原理和Pytorch实现示例,https://blog.csdn.net/m0_46510245/article/details/140567404
+4,2.1万,机器学习高手成长指南，附攻略与路线图,https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/140536605
+5,1.9万,lua脚本在redis的实战案例,https://blog.csdn.net/qq_26664043/article/details/140249972
+6,1.8万,黑客自学手册（网络安全）,https://blog.csdn.net/dexi1113/article/details/140527311
+7,1.8万,C/C++蓝屏整人代码,https://blog.csdn.net/fzy20110826/article/details/140540750
+8,1.5万,【机器学习】机器学习与语音识别的融合应用与性能优化新探索,https://blog.csdn.net/qq_61024956/article/details/140545482
+9,1.5万,umi路由模块化设计：构建可扩展的前端应用,https://blog.csdn.net/qq_53123067/article/details/140515956
+10,1.4万,展望未来：利用【Python】结合【机器学习】强化数据处理能力,https://blog.csdn.net/2301_79181030/article/details/140576794
+11,1.3万,基于微信小程序+SpringBoot+数据可视化的校园快餐配送小程序设计和实现(源码+论文+部署讲解等),https://blog.csdn.net/weixin_39709134/article/details/140565317
+12,1.3万,如何学习Spark：糙快猛的大数据之旅,https://blog.csdn.net/u012955829/article/details/140508455
+13,1.2万,【机器学习】Cross Validation: 强化模型泛化能力的利器,https://blog.csdn.net/qq_44214428/article/details/140416812
+14,9278,基于 CNN(二维卷积Conv2D)+LSTM 实现股票多变量时间序列预测(PyTorch版),https://blog.csdn.net/m0_63287589/article/details/140551110
+15,9246,基于天地图使用Leaflet.js进行WebGIS开发实战,https://blog.csdn.net/yelangkingwuzuhu/article/details/140505950
+16,9173,C# 关于 PaddleOCRSharp OCR识别的疲劳测试,https://blog.csdn.net/michaelline/article/details/140483387
+17,9160,【数据库系列】Parquet 文件介绍,https://blog.csdn.net/qyj19920704/article/details/140561670
+18,9147,【数学建模】——多领域资源优化中的创新应用-六大经典问题解答,https://blog.csdn.net/2303_77720864/article/details/140504309
+19,9019,（35）远程识别(又称无人机识别)（一）,https://blog.csdn.net/qq_20016593/article/details/140547617
+20,8928,做一只勤劳的小蜜蜂,https://blog.csdn.net/ygb_1024/article/details/140540467
+21,8755,哈喽GPT-4o，程序员如何通过GPT-4o保护自己的合法权益,https://blog.csdn.net/guorui_java/article/details/140538820
+22,8315,微信小程序开发（百货商战）实战项目的分类的创建,https://blog.csdn.net/2301_77628600/article/details/140441072
+23,8001,【云原生】Kubernetes微服务Istio：介绍、原理、应用及实战案例,https://blog.csdn.net/littlefun591/article/details/140497890
+24,7859,[Spring] Spring IoC与DI注入,https://blog.csdn.net/2301_80050796/article/details/140531072
+25,7269,AFAC2024-基于保险条款的问答 比赛日记 llamafactory qwen npu 910B1,https://blog.csdn.net/weixin_41046245/article/details/140546849
+26,7121,RESTful API设计指南：构建高效、可扩展和易用的API,https://blog.csdn.net/weixin_73588491/article/details/140574183
+27,6992,【微服务】第36节：微服务的分布式事务,https://blog.csdn.net/m0_46013789/article/details/140503722
+28,6923,Elasticsearch：评估搜索相关性 - 第 1 部分,https://blog.csdn.net/UbuntuTouch/article/details/140512144
+29,6917,【Linux】解锁操作系统潜能，高效进程管理的实战技巧,https://blog.csdn.net/m0_74808907/article/details/140543183
+30,6290,网络安全-网络安全及其防护措施12,https://blog.csdn.net/LS_Ai/article/details/140545095
+31,5161,人、智能、机器人……,https://blog.csdn.net/ZhangRelay/article/details/140543080
+32,5130,Flink-Checkpoint机制详解：(第41天),https://blog.csdn.net/syhiiu/article/details/140541982
+33,4942,将iPad 作为Windows电脑副屏的几种方法（二）,https://blog.csdn.net/weixin_43960383/article/details/136104442
+34,4799,Vue从零到实战,https://blog.csdn.net/m0_74948742/article/details/140533137
+35,4757,硬件开发笔记（二十七）：AD21导入DC座子原理图库、封装库，然后单独下载其3D模型融合为3D封装,https://blog.csdn.net/qq21497936/article/details/140541464
+36,4538,[MySQL][复核查询][多表查询][自连接][自查询]详细讲解,https://blog.csdn.net/qq_37281656/article/details/140488423
+37,4399,【Linux】Linux进程揭秘：从理论到实践的深度探索之旅,https://blog.csdn.net/w050423/article/details/139278741
+38,4338,基于 Gunicorn、Flask 和 Docker 的 Web 应用开发,https://blog.csdn.net/2401_85639015/article/details/140549021
+39,4251,概率论中的卷积公式,https://blog.csdn.net/2302_80644606/article/details/140564864
+40,3828,[Linux安全运维] OpenVPN部署,https://blog.csdn.net/Da1NtY/article/details/140540892
+41,3732,小试牛刀-区块链WalletConnect协议数据解密,https://blog.csdn.net/2202_75618418/article/details/140547301
+42,3675,【Elasticsearch】Elasticsearch集群管理在分布式环境中的应用,https://blog.csdn.net/a1657054242/article/details/140511812
+43,3216,【Django+Vue3 线上教育平台项目实战】购物车与订单模块的精简实现与数据安全策略,https://blog.csdn.net/m0_48173416/article/details/140414881
+44,3136,【Windows】操作系统之任务管理器（第一篇）,https://blog.csdn.net/abclui/article/details/140527283
+45,3098,主从复制 哨兵服务 数据类型 持久化,https://blog.csdn.net/2401_84376072/article/details/140540753
+46,3072,价格战再起：OpenAI 发布更便宜、更智能的 GPT-4o Mini 模型｜TodayAI,https://blog.csdn.net/ponderai/article/details/140545947
+47,2896,院内影像一体化平台PACS源码，C#语言的PACS/RIS系统，二级医院应用案例,https://blog.csdn.net/zmm201453/article/details/140553885
+48,2893,SolarWinds再爆安全事件，11大关键漏洞引发关注；Python核心库被黑客盯上；AT&T遭入侵，几乎所有无线客户数据被窃取；黑客利用开源工具大肆攻击| 安全周报0719,https://blog.csdn.net/weixin_55163056/article/details/140554934
+49,2679,【iOS】内存五大分区,https://blog.csdn.net/XY_Mckevince/article/details/140531023
+50,2497,[SA8155] 探索QNX中如何管理安卓AB分区,https://blog.csdn.net/u012139744/article/details/140531558

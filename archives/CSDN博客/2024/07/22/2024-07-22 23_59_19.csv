@@ -1,0 +1,51 @@
+index,hot,title,href
+1,2.6万,SpringBoot中fastjson扩展: 自定义序列化和反序列化方法实战,https://blog.csdn.net/qq_26664043/article/details/140254758
+2,2.4万,微软史诗级的蓝屏,https://blog.csdn.net/huyuchengus/article/details/140577909
+3,2.4万,Agent类型解析：AIGC在不同领域的应用与影响,https://blog.csdn.net/SDFsoul/article/details/140594004
+4,2.1万,python—爬虫爬取电影页面实例,https://blog.csdn.net/2301_77698138/article/details/140575685
+5,2.1万,利用【MATLAB】和【Python】进行【图与网络模型】的高级应用与分析】,https://blog.csdn.net/2303_77720864/article/details/140594882
+6,1.9万,利用PyTorch进行模型量化,https://blog.csdn.net/jkoij23/article/details/140577767
+7,1.4万,（35）远程识别(又称无人机识别)（一）,https://blog.csdn.net/qq_20016593/article/details/140547617
+8,1.3万,【机器学习】智能驱动未来：机器学习在能源效率提升与环境管理中的创新应用,https://blog.csdn.net/EterNity_TiMe_/article/details/140580478
+9,1.3万,【云原生】Prometheus 服务自动发现使用详解,https://blog.csdn.net/zhangcongyi420/article/details/140566959
+10,1.3万,【云原生】Kubernetes中的DaemonSet介绍、原理、用法及实战应用案例分析,https://blog.csdn.net/littlefun591/article/details/140599587
+11,1.3万,VQ-VAE：矢量量化变分自编码器，离散化特征学习模型,https://blog.csdn.net/m0_46510245/article/details/140601646
+12,1.2万,【人工智能】AI音乐创作兴起与AI伦理的新视角,https://blog.csdn.net/2201_75539691/article/details/140455910
+13,1.2万,内网安全：各类密码的抓取,https://blog.csdn.net/2301_80116443/article/details/140590875
+14,1.1万,基于微信小程序+SpringBoot+数据可视化的校园快餐配送小程序设计和实现(源码+论文+部署讲解等),https://blog.csdn.net/weixin_39709134/article/details/140565317
+15,1.1万,基于FPGA的数字信号处理（18）--半加器和全加器,https://blog.csdn.net/wuzhikaidetb/article/details/140601529
+16,1.1万,【机器学习】超参数选择：解锁机器学习模型潜力的关键,https://blog.csdn.net/qq_44214428/article/details/140417047
+17,1.1万,【AI大模型】生成式AI的未来——CHAT还是AGENT？,https://blog.csdn.net/Skrrapper/article/details/140607447
+18,9270,基于SpringBoot的矩形范围面时空分析-以震中附近历史地震为例,https://blog.csdn.net/yelangkingwuzuhu/article/details/140594756
+19,9116,【人工智能】Transformers之Pipeline（四）：零样本音频分类（zero-shot-audio-classification）,https://blog.csdn.net/weixin_48007632/article/details/140618181
+20,8830,锐捷WLAN对接认证服务器实现准入控制实验（CLI）,https://blog.csdn.net/qq_45744971/article/details/140192867
+21,8684,【人工智能】Python实现文本转换为语音：使用gTTS库实现,https://blog.csdn.net/m0_52827996/article/details/140591208
+22,8640,PyTorch深度学习实战——使用深度Q学习进行Pong游戏,https://blog.csdn.net/LOVEmy134611/article/details/140600089
+23,8597,深度学习简介（框架）,https://blog.csdn.net/2301_77539454/article/details/140588962
+24,8377,Jackson详解,https://blog.csdn.net/qq_35512802/article/details/140511651
+25,8084,【OAuth2系列】集成微信小程序登录到 Spring Security OAuth 2.0,https://blog.csdn.net/c18213590220/article/details/140413343
+26,7710,【数据库系列】OLTP、OLAP 与 HTAP：数据库系统的三种架构,https://blog.csdn.net/qyj19920704/article/details/140562157
+27,7566,JAVA用框架SpringAI实现人工智能,https://blog.csdn.net/qq_25987725/article/details/140544331
+28,6979,【GaussDB关键技术原理|高可用】DCF&双集群容灾,https://blog.csdn.net/GaussDB/article/details/140342942
+29,6834,MySQL：库表操作,https://blog.csdn.net/fsdfafsdsd/article/details/140281310
+30,6726,深入理解Java 8的流式API：简化代码，提升效率,https://blog.csdn.net/qq_51601665/article/details/140611272
+31,6652,【Django+Vue3 线上教育平台项目实战】Celery赋能：优化订单超时处理与自动化定时任务调度,https://blog.csdn.net/m0_48173416/article/details/140442088
+32,6565,探索 Electron：如何利用Electron和Vite打造高效桌面应用,https://blog.csdn.net/qq_53123067/article/details/140063864
+33,6271,RESTful API设计指南：构建高效、可扩展和易用的API,https://blog.csdn.net/weixin_73588491/article/details/140574183
+34,5785,防火墙--内容安全,https://blog.csdn.net/banliyaoguai/article/details/140508480
+35,5593,Windows上可视化ubuntu程序图形界面,https://blog.csdn.net/qq_49561752/article/details/140594334
+36,5551,Flink架构底层原理详解：案例解析（43天）,https://blog.csdn.net/syhiiu/article/details/140587838
+37,5548,AI模型大比拼：Claude 3系列 vs GPT-4系列最新模型综合评测,https://blog.csdn.net/xianyu120/article/details/140575310
+38,5518,论文阅读：Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting,https://blog.csdn.net/weixin_43378396/article/details/140576686
+39,5503,气垫组举报信应辩书 | 第十九届全国大学生智能汽车竞赛华南赛区,https://blog.csdn.net/zhuoqingjoking97298/article/details/140585052
+40,5368,[MySQL][深入理解隔离性][下][Read View]详细讲解,https://blog.csdn.net/qq_37281656/article/details/140583705
+41,5362,【Gin】精准应用：Gin框架中工厂模式的现代软件开发策略与实施技巧(上),https://blog.csdn.net/joeyoj/article/details/140198256
+42,4552,Unity 批处理详讲（含URP）,https://blog.csdn.net/shijunwei0326/article/details/140588396
+43,4482,kafka服务介绍,https://blog.csdn.net/m0_56363537/article/details/140554644
+44,4476,基于springboot+vue+uniapp的流浪动物救助小程序,https://blog.csdn.net/shmp54/article/details/140578347
+45,3813,SpringCloud--负载均衡,https://blog.csdn.net/m0_74097410/article/details/140580269
+46,3748,微服务实战系列之玩转Docker（五）,https://blog.csdn.net/splendid_java/article/details/140582340
+47,3522,51单片机(STC8H8K64U/STC8051U34K64)_RA8889驱动TFT大屏_I2C_HW参考代码（v1.3) 硬件I2C方式,https://blog.csdn.net/weixin_43307086/article/details/140590861
+48,3508,CppMicroServices学习总结,https://blog.csdn.net/qq_36826593/article/details/140587480
+49,3482,Vue从零到实战,https://blog.csdn.net/m0_74948742/article/details/140533137
+50,3250,【Linux】进程信号的详细介绍,https://blog.csdn.net/weixin_42976474/article/details/140589023

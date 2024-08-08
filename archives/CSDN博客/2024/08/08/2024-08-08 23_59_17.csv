@@ -1,0 +1,51 @@
+index,hot,title,href
+1,3.4万,【深度学习】基于YOLOV5模型的图像识别-目标检测的性能指标详解与计算方法,https://blog.csdn.net/weixin_41793160/article/details/140893087
+2,3.0万,基于C#调用文心一言大模型制作桌面软件(可改装接口),https://blog.csdn.net/weixin_42794881/article/details/140945535
+3,2.2万,自学黑客（网络安全）,https://blog.csdn.net/2301_77160226/article/details/140936456
+4,1.9万,【机器学习】BP神经网络中的链式法则,https://blog.csdn.net/qq_44214428/article/details/140888841
+5,1.8万,【C++高阶】深入理解C++异常处理机制：从try到catch的全面解析,https://blog.csdn.net/EterNity_TiMe_/article/details/140913266
+6,1.5万,Vue3从零开始——掌握setup、ref和reactive函数的奥秘,https://blog.csdn.net/weixin_73588491/article/details/140995840
+7,1.4万,人工智能时代，程序员当如何保持核心竞争力？,https://blog.csdn.net/2302_79376097/article/details/140937631
+8,1.0万,【wiki知识库】08.添加用户登录功能--后端SpringBoot部分,https://blog.csdn.net/qq_61024956/article/details/141027838
+9,1.0万,探索腾讯云AI代码助手：智能编程的新时代,https://blog.csdn.net/m0_75058342/article/details/140802026
+10,9624,【人工智能】Transformers之Pipeline（八）：文生图/图生图（text-to-image/image-to-image）,https://blog.csdn.net/weixin_48007632/article/details/140967405
+11,8228,GPT-5：未来已来，你准备好了吗？,https://blog.csdn.net/m0_67187271/article/details/140991432
+12,8069,【人工智能】AI时代程序员----是缔造AI程序员，还是AI缔造程序员？,https://blog.csdn.net/Skrrapper/article/details/141031590
+13,7266,Zookeeper的监听机制及原理解析,https://blog.csdn.net/u011709538/article/details/140720653
+14,7179,Spring Boot实战：拦截器,https://blog.csdn.net/LHY537200/article/details/140947681
+15,7083,已解决AttributeError: module ‘emoji‘ has no attribute ‘get_emoji_regexp‘,https://blog.csdn.net/m0_64336780/article/details/139189760
+16,7075,从科幻到现实：AIGC助力打造个性化数字人,https://blog.csdn.net/qq_32682301/article/details/140925920
+17,7065,DockerCompose中使用自定义网络的方式实现部署SpringBoot+Mysql+Redis,https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/140996089
+18,7062,DPDI Online在线kettle调度工具,https://blog.csdn.net/weixin_43398232/article/details/140951962
+19,7033,统计学：条件概率模型,https://blog.csdn.net/gongdiwudu/article/details/140951081
+20,6357,基于微信小程序+数据可视化+SpringBoot+Vue的电子设备租借平台设计和实现(源码+论文+部署讲解等),https://blog.csdn.net/weixin_39709134/article/details/140960256
+21,5874,Linux--网络层IP,https://blog.csdn.net/m0_74068921/article/details/140951336
+22,5728,stem32江科大自学笔记,https://blog.csdn.net/pythom_aaa/article/details/140961409
+23,5685,k8s 四种Service类型(ClusterIP、NodePort、LoadBalancer、ExternalName)详解,https://blog.csdn.net/weixin_53269650/article/details/140924623
+24,5620,Flutter 3.24 发布啦，快来看看有什么更新,https://blog.csdn.net/ZuoYueLiang/article/details/140971239
+25,5452,《程序猿入职必会（10） · SpringBoot3 整合 MyBatis-Plus》,https://blog.csdn.net/syb513812/article/details/140991523
+26,5085,基于GA-PSO-SVM算法的混沌背景下微弱信号检测matlab仿真,https://blog.csdn.net/aycd1234/article/details/141024857
+27,4796,html5各行各业官网模板源码下载（3）,https://blog.csdn.net/weixin_43151418/article/details/140960927
+28,4779,【网络】协议与网络版计算器,https://blog.csdn.net/2301_77112634/article/details/141018107
+29,4588,【网络安全】https协议的加密方案避免中间人攻击（MITM攻击）导致的数据泄露风险,https://blog.csdn.net/2301_79796701/article/details/140937377
+30,4416,Qt/C++最新地图组件发布/历时半年重构/同时支持各种地图内核/包括百度高德腾讯天地图,https://blog.csdn.net/feiyangqingyun/article/details/140964441
+31,4318,代码规范 —— 数据库规范,https://blog.csdn.net/zhengzhaoyang122/article/details/141003636
+32,4239,waf绕过：网络安全狗绕过,https://blog.csdn.net/m0_71332744/article/details/140990745
+33,4190,MySQL —— 约束,https://blog.csdn.net/liwuqianhzc/article/details/140993383
+34,4184,PDF预览：利用vue3-pdf-app实现前端PDF在线展示,https://blog.csdn.net/RenGJ010617/article/details/140978430
+35,3909,Ansible自动化运维中剧本角色(roles)来完成apache服务操作,https://blog.csdn.net/jxjdhdnd/article/details/141017084
+36,3818,【Linux】make/Makefile——项目自动化构建工具,https://blog.csdn.net/weixin_50776420/article/details/141003888
+37,3269,Flink-DataWorks第三部分：数据集成（第59天）,https://blog.csdn.net/syhiiu/article/details/140971571
+38,3223,在AIGC时代，程序员如何保持并提升核心竞争力,https://blog.csdn.net/xingyu_qie/article/details/140996180
+39,3216,数学建模--智能算法之免疫算法,https://blog.csdn.net/2302_80644606/article/details/140967613
+40,2846,FPGA开发——IP核的介绍,https://blog.csdn.net/weixin_63553972/article/details/140998671
+41,2658,【Android Studio】原生应用部署第三方插件（探针）,https://blog.csdn.net/xzzteach/article/details/140997772
+42,2551,鸿蒙（API 12 Beta2版）媒体开发【音频播放流管理】,https://blog.csdn.net/m0_70748845/article/details/141000207
+43,2422,《抓娃娃》电影百度云完整下载3.86GB迅雷BT磁力资源MP4,https://blog.csdn.net/erckosq/article/details/140959831
+44,2366,HarmonyOS 习题（二）,https://blog.csdn.net/qq_29385297/article/details/140944922
+45,2356,Jmeter性能压测4000并发,https://blog.csdn.net/weixin_41121249/article/details/140937280
+46,2215,网络安全抓包&封包&WEB,https://blog.csdn.net/m0_73245690/article/details/140672467
+47,2163,用python创建极坐标平面,https://blog.csdn.net/qq_45449625/article/details/140991821
+48,2039,锂电池充电板电路设计,https://blog.csdn.net/weixin_52531699/article/details/140396738
+49,1985,【老张的程序人生】我命由我不由天：我的计算机教师中级岗之旅,https://blog.csdn.net/Liuyaoyun/article/details/140951709
+50,1946,自学-网络安全,https://blog.csdn.net/m0_70066267/article/details/140971479

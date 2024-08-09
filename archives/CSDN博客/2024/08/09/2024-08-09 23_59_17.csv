@@ -1,0 +1,51 @@
+index,hot,title,href
+1,4.3万,【深度学习】基于YOLOV5模型的图像识别-目标检测的性能指标详解与计算方法,https://blog.csdn.net/weixin_41793160/article/details/140893087
+2,2.3万,【C++进阶学习】第十二弹——C++ 异常处理：深入解析与实践应用,https://blog.csdn.net/2301_80220607/article/details/141035690
+3,2.1万,探索腾讯云AI代码助手：智能编程的新时代,https://blog.csdn.net/m0_75058342/article/details/140802026
+4,1.9万,SpringBoot中读取配置的七种方法总结,https://blog.csdn.net/qq_26664043/article/details/140905345
+5,1.8万,Ilya七年前说深度学习已进入瓶颈期；英特尔曾拒绝OpenAI股权；GPT-4o新版本上线 | AI头条...,https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/141041265
+6,1.6万,【人工智能】AI浪潮下，程序员如何保持核心竞争力？,https://blog.csdn.net/2201_75539691/article/details/141035276
+7,1.6万,使用CLIP模型进行零样本图像分类的分步指南,https://blog.csdn.net/m0_46510245/article/details/141058415
+8,1.6万,GPT-5：未来已来，你准备好了吗？,https://blog.csdn.net/m0_67187271/article/details/140991432
+9,1.5万,Vue3从零开始——掌握setup、ref和reactive函数的奥秘,https://blog.csdn.net/weixin_73588491/article/details/140995840
+10,1.4万,【Linux】make/Makefile——项目自动化构建工具,https://blog.csdn.net/weixin_50776420/article/details/141003888
+11,1.3万,【人工智能】Transformers之Pipeline（八）：文生图/图生图（text-to-image/image-to-image）,https://blog.csdn.net/weixin_48007632/article/details/140967405
+12,1.3万,【手机、相机防抖大揭秘】数字防抖、鸡头防抖、光学防抖、AI防抖等(附源码+长期更新),https://blog.csdn.net/qq_46098574/article/details/141035706
+13,1.2万,【wiki知识库】08.添加用户登录功能--后端SpringBoot部分,https://blog.csdn.net/qq_61024956/article/details/141027838
+14,1.2万,【SQL Server】在 SSMS 中 使用 生成 SQL 脚本 方式 实现 数据库 备份 / 还原 ( 数据备份操作 - 生成 SQL 脚本 | 数据还原操作 - 执行 SQL 脚本 ),https://blog.csdn.net/han1202012/article/details/141019877
+15,1.0万,Flink-DataWorks第四部分：数据同步（第60天）,https://blog.csdn.net/syhiiu/article/details/140971980
+16,9618,Redis-哨兵监控(sentinel),https://blog.csdn.net/weixin_62485485/article/details/141019863
+17,9021,[Qt][信号与槽][下]详细讲解,https://blog.csdn.net/qq_37281656/article/details/141021881
+18,8728,[Spring] Spring AOP,https://blog.csdn.net/2301_80050796/article/details/141001852
+19,8663,网络安全知识讲解,https://blog.csdn.net/m0_46566693/article/details/141024395
+20,8512,如何实现Redis和Mysql中数据双写一致性,https://blog.csdn.net/mr_yaodadong/article/details/141018880
+21,7727,【计算机网络---OSI七层模型】,https://blog.csdn.net/Pumpkin_O/article/details/141023524
+22,6916,MySQL 体系架构,https://blog.csdn.net/zhangHP_123/article/details/141036417
+23,6846,k8s 四种Service类型(ClusterIP、NodePort、LoadBalancer、ExternalName)详解,https://blog.csdn.net/weixin_53269650/article/details/140924623
+24,6711,Linux使用docker搭建Redis 哨兵模式,https://blog.csdn.net/qq_29768197/article/details/140931179
+25,6487,如何用sql在1分钟从1T数据中精准定位查询？Hive离线数仓 Spark分析,https://blog.csdn.net/qq_61414097/article/details/140999898
+26,6010,【海贼王航海日志：前端技术探索】CSS你了解多少？(二),https://blog.csdn.net/weixin_74809706/article/details/141030415
+27,5978,【Unity组件详细介绍】【一：Light（光照）组件】（图 + 文）,https://blog.csdn.net/2302_81179558/article/details/141032954
+28,5930,【密码学】网络攻击类型：窃听攻击、假冒攻击、欺骗攻击和重放攻击,https://blog.csdn.net/qq_39780701/article/details/140992474
+29,5644,用python创建极坐标平面,https://blog.csdn.net/qq_45449625/article/details/140991821
+30,5524,【数据集】Yolo人体关键点数据集处理,https://blog.csdn.net/qq_44426403/article/details/140955288
+31,5309,Spring的代理模式,https://blog.csdn.net/weixin_71072718/article/details/141020752
+32,5177,DockerCompose中使用自定义网络的方式实现部署SpringBoot+Mysql+Redis,https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/140996089
+33,5037,电脑屏幕录制工具分享5款，附上详细电脑录屏教程（2024全新）,https://blog.csdn.net/weixin_52535230/article/details/141032412
+34,5037,Flutter 3.24 发布啦，快来看看有什么更新,https://blog.csdn.net/ZuoYueLiang/article/details/140971239
+35,4167,Python大数据分析——SVM模型（支持向量机）,https://blog.csdn.net/Eric005/article/details/141000932
+36,3423,windows和office微软官方免费激活教程,https://blog.csdn.net/oushaojun2/article/details/141017183
+37,3136,基于springboot+vue+uniapp的英语学习交流平台小程序,https://blog.csdn.net/shmp54/article/details/141035069
+38,2944,【总结】TCP/IP四层模型的理解,https://blog.csdn.net/m0_52980547/article/details/141026557
+39,2934,【Linux网络】Linux网络初探：开启网络世界的大门,https://blog.csdn.net/m0_74755811/article/details/140999917
+40,2905,识别和分析图像中的不良焊点,https://blog.csdn.net/zhangyy57/article/details/141041377
+41,2845,通义灵码-阿里云推出的AI智能编码助手,https://blog.csdn.net/ss300400a/article/details/141024875
+42,2828,Vue3项目创建及相关配置,https://blog.csdn.net/qq_63161848/article/details/140975687
+43,2592,【QT】Qt 音视频,https://blog.csdn.net/YoungMLet/article/details/140363334
+44,2521,端到端 AWS 定量分析：使用 AWS 和 AWSCLI 自动运行脚本,https://blog.csdn.net/2401_85233349/article/details/141035898
+45,2398,数学建模--智能算法之免疫算法,https://blog.csdn.net/2302_80644606/article/details/140967613
+46,2057,【AI大模型】LangChain框架：示例选择器与输出解析器携手，编织NLP高效精准之网,https://blog.csdn.net/m0_48173416/article/details/140905056
+47,2050,深度学习之注意力机制,https://blog.csdn.net/qq_42538588/article/details/141023421
+48,2035,图神经网络实战（18）——消息传播神经网络,https://blog.csdn.net/LOVEmy134611/article/details/141050820
+49,1990,深度学习四大框架之争(Tensorflow、Pytorch、Keras和Paddle),https://blog.csdn.net/FENGQIYUNRAN/article/details/141030819
+50,1953,【机器学习】BP神经网络正向计算,https://blog.csdn.net/qq_44214428/article/details/140888375

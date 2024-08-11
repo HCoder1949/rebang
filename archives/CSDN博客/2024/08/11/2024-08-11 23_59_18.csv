@@ -1,0 +1,51 @@
+index,hot,title,href
+1,2.7万,深入探索：【人工智能】、【机器学习】与【深度学习】的全景视觉之旅,https://blog.csdn.net/2303_77720864/article/details/141090693
+2,2.1万,【人工智能】AI浪潮下，程序员如何保持核心竞争力？,https://blog.csdn.net/2201_75539691/article/details/141035276
+3,2.1万,【C++进阶学习】第十二弹——C++ 异常处理：深入解析与实践应用,https://blog.csdn.net/2301_80220607/article/details/141035690
+4,1.5万,[Qt][信号与槽][下]详细讲解,https://blog.csdn.net/qq_37281656/article/details/141021881
+5,1.1万,【机器学习】 Sigmoid函数：机器学习中的关键激活函数,https://blog.csdn.net/qq_44214428/article/details/140898151
+6,1.0万,【机器学习】机器学习在电商领域：个性化推荐系统优化与销售转化提升,https://blog.csdn.net/EterNity_TiMe_/article/details/141097783
+7,1.0万,QT 简易音乐播放器,https://blog.csdn.net/m0_65143871/article/details/141030713
+8,1.0万,人工智能时代，程序员如何保持核心竞争力？,https://blog.csdn.net/beautifulmemory/article/details/141093302
+9,9984,微调LLama 3.1——七月论文审稿GPT第5.5版：拿早期paper-review数据集微调LLama 3.1,https://blog.csdn.net/v_JULY_v/article/details/141065546
+10,9696,基于GeoTools使用JavaFx进行矢量数据可视化实战,https://blog.csdn.net/yelangkingwuzuhu/article/details/141070270
+11,8328,Kali Linux——网络安全的瑞士军刀,https://blog.csdn.net/2301_77160226/article/details/141070847
+12,8110,【云服务器系列】基于华为云OBS实现Picgo和Typora的完美融合,https://blog.csdn.net/qyj19920704/article/details/141093524
+13,7028,图神经网络实战（18）——消息传播神经网络,https://blog.csdn.net/LOVEmy134611/article/details/141050820
+14,6990,嵌入式人工智能（OpenCV-基于树莓派的人脸识别与入侵检测）,https://blog.csdn.net/u010152658/article/details/141034107
+15,6039,「MyBatis」数据库相关操作1,https://blog.csdn.net/Ice_Sugar_7/article/details/140844317
+16,5947,【SQL Server】在 SSMS 中 使用 生成 SQL 脚本 方式 实现 数据库 备份 / 还原 ( 数据备份操作 - 生成 SQL 脚本 | 数据还原操作 - 执行 SQL 脚本 ),https://blog.csdn.net/han1202012/article/details/141019877
+17,5774,如何在linux系统上部署nginx,https://blog.csdn.net/2301_77279557/article/details/141070249
+18,5224,【wiki知识库】09.欢迎页面添加（统计浏览量）Vue修改,https://blog.csdn.net/qq_61024956/article/details/141095235
+19,5123,Spring -- 事务,https://blog.csdn.net/m0_60963435/article/details/141060404
+20,4777,YOLO好像也没那么难？,https://blog.csdn.net/m0_73938966/article/details/141065769
+21,4327,haproxy实现负载均衡详解 之 (高级功能配置),https://blog.csdn.net/weixin_63970667/article/details/141097817
+22,4190,高级web安全技术（第一篇）,https://blog.csdn.net/weixin_57898612/article/details/141091150
+23,4074,微软 Edge 浏览器全解析,https://blog.csdn.net/m0_63815035/article/details/141072465
+24,3599,计算机网络ISO七层网络模型及TCP,https://blog.csdn.net/qq_48434912/article/details/141094000
+25,3562,linux文件——深度学习文件fd、文件系统调用,https://blog.csdn.net/strive_mianyang/article/details/141064382
+26,3370,基于微信小程序的小区业主服务系统(源码+论文+部署讲解等),https://blog.csdn.net/m0_64148096/article/details/141093708
+27,3144,Linux 错误码,https://blog.csdn.net/Teminator_/article/details/141063926
+28,2975,基于ssm+vue+uniapp的微信外卖小程序,https://blog.csdn.net/shmp54/article/details/141086265
+29,2962,Python爬虫:下载4K壁纸,https://blog.csdn.net/2301_79728896/article/details/141090651
+30,2830,vue3组件之间通讯,https://blog.csdn.net/m0_58889179/article/details/141026112
+31,2798,【K8S】K8S架构及相关组件,https://blog.csdn.net/m0_60353039/article/details/141059445
+32,2724,Android实时通信：WebSocket与WebRTC的应用与优化,https://blog.csdn.net/mba16c35/article/details/141096714
+33,2480,[论文阅读]Mobility-Aware Cooperative Caching in VEC Based on CAFR,https://blog.csdn.net/qq_61897765/article/details/141068899
+34,2334,四种应用层协议——MQTT、CoAP、WebSockets和HTTP——在工业物联网监控系统中的性能比较,https://blog.csdn.net/bit_mike/article/details/141092191
+35,2216,Docker③_VMware虚拟机和Docker的备份与恢复,https://blog.csdn.net/GRrtx/article/details/140924811
+36,2094,Maven——概念、IDEA集成、Maven坐标、依赖配置、依赖传递、排除依赖、依赖范围、生命周期,https://blog.csdn.net/qq_45902692/article/details/141091552
+37,2068,深度解析 MetaArena 游戏引擎，如何让 GameFi 应用更具生命力？,https://blog.csdn.net/weixin_53694853/article/details/141096658
+38,1913,前端项目中的Server-sent Events(SSE)项目实践及其与websocket的区别,https://blog.csdn.net/qq_42696432/article/details/141067267
+39,1789,学习方法[1]：如何摆脱无知？(致尚未放弃学习的人),https://blog.csdn.net/weixin_48321392/article/details/141090917
+40,1775,python数据处理和数据清洗,https://blog.csdn.net/binhyun/article/details/141089432
+41,1653,七夕警示：探索社工库与网络搜索下的个人隐私泄露与保护策略,https://blog.csdn.net/Liuyaoyun/article/details/141040315
+42,1637,快速入手mybits（xml配置文件版本）,https://blog.csdn.net/m0_75148088/article/details/141058583
+43,1626,ARM相关知识概括,https://blog.csdn.net/xace007/article/details/141058983
+44,1582,GitLab-CI/CD指南,https://blog.csdn.net/puss0/article/details/141094687
+45,1525,DLMS/COSEM中的信息安全：安全密钥（中）续2,https://blog.csdn.net/huaqianzkh/article/details/141096424
+46,1507,通过jmeter对websocket后台做压测,https://blog.csdn.net/m0_37298252/article/details/141054344
+47,1471,云计算的三大服务模式：IaaS、PaaS、SaaS的深入解析,https://blog.csdn.net/w651428055/article/details/141052249
+48,1449,RCE多种绕过技巧+贷齐乐漏洞复现,https://blog.csdn.net/Nirvana92/article/details/141097567
+49,1432,微服务-分布式事务-seata,https://blog.csdn.net/qq_59099003/article/details/141093184
+50,1164,【Python】PyWebIO 初体验：用 Python 写网页,https://blog.csdn.net/2201_75791084/article/details/141067906

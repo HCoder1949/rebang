@@ -1,0 +1,51 @@
+index,hot,title,href
+1,3.9万,【AIGC】ChatGPT是如何思考的：探索CoT思维链技术的奥秘,https://blog.csdn.net/2201_75539691/article/details/142720622
+2,3.0万,机器学习——自监督学习与无监督学习,https://blog.csdn.net/2301_80374809/article/details/142748326
+3,2.7万,碰撞检测 | 图解视线生成Bresenham算法(附ROS C++/Python/Matlab实现),https://blog.csdn.net/FRIGIDWINTER/article/details/142747792
+4,2.5万,【AI大模型】深入Transformer架构：编码器部分的实现与解析（下）,https://blog.csdn.net/2301_76820214/article/details/142706635
+5,2.4万,MySQL 篇-深入了解视图、SQL 优化（主键优化、order by 优化、group by 优化、update 优化等）,https://blog.csdn.net/Tingfeng__/article/details/142743404
+6,2.0万,认知战认知作战：认知战与安全挑战中方企业在海外的应对策略分析,https://blog.csdn.net/kejiju2023/article/details/142736750
+7,1.9万,【一起学Rust | 框架篇 | Tauri2.0框架】高级概念之安全特性的权限与能力,https://blog.csdn.net/weixin_47754149/article/details/142613265
+8,1.7万,flutter鸿蒙版本mvvm架构思想原理,https://blog.csdn.net/lbcyllqj/article/details/142734009
+9,1.7万,【大数据】Flink CDC 实时同步mysql数据,https://blog.csdn.net/zhangcongyi420/article/details/142730700
+10,1.5万,【Python】Python知识总结浅析,https://blog.csdn.net/wnm23/article/details/142729359
+11,1.3万,电子信息类专业技术学习及比赛路线总结（大一到大三）,https://blog.csdn.net/TNT_JQR/article/details/142732554
+12,1.3万,【机器学习-无监督学习】概率图模型,https://blog.csdn.net/Morse_Chen/article/details/142722681
+13,1.3万,Github优质项目推荐 - 第五期,https://blog.csdn.net/qq_43657722/article/details/142735541
+14,1.3万,遗传算法与深度学习实战（16）——神经网络超参数优化,https://blog.csdn.net/LOVEmy134611/article/details/142750215
+15,1.3万,【机器学习】网络安全——异常检测与入侵防御系统,https://blog.csdn.net/2202_76097976/article/details/142714691
+16,1.3万,SpringBoot 配置文件,https://blog.csdn.net/2301_80035594/article/details/142725589
+17,1.2万,MS SQL Server 实战 统计与汇总重复记录,https://blog.csdn.net/michaelline/article/details/142753493
+18,1.2万,解锁空间距离计算的多种方式-含前端、空间数据库、后端,https://blog.csdn.net/yelangkingwuzuhu/article/details/142723024
+19,1.0万,linux信号 | 信号的补充知识,https://blog.csdn.net/strive_mianyang/article/details/142735978
+20,9876,FredNormer: 非平稳时间序列预测的频域正则化方法,https://blog.csdn.net/m0_46510245/article/details/142735710
+21,9725,机器学习中的并行与分布式深度学习：C/C++实现详解,https://blog.csdn.net/2406_83947720/article/details/142748654
+22,8593,数据分析案例-机器学习工程师薪资数据可视化分析,https://blog.csdn.net/m0_64336780/article/details/138705547
+23,8371,【RL Latest Tech】安全强化学习（Safe RL）：理论、方法与应用,https://blog.csdn.net/qq_51399582/article/details/142715157
+24,7941,【在Linux世界中追寻伟大的One Piece】进程信号,https://blog.csdn.net/weixin_74809706/article/details/142719633
+25,6752,GaussDB高智能--数据库智能化发展史&自治运维技术,https://blog.csdn.net/GaussDB/article/details/142649465
+26,6323,OpenHarmony（鸿蒙南向开发）——标准系统方案之瑞芯微RK3568移植案例(上),https://blog.csdn.net/u012165769/article/details/142741207
+27,6168,YOLOv5复现（论文复现）,https://blog.csdn.net/weixin_62765017/article/details/142725017
+28,5496,Sharding 分页原理分析,https://blog.csdn.net/zhengzhaoyang122/article/details/142621660
+29,5415,Vue 插槽全攻略：重塑组件灵活性,https://blog.csdn.net/weixin_43288600/article/details/142720627
+30,4994,【计算机网络】详谈TCP协议确认应答机制&捎带应答机制&超市重传机制&连接管理机制&流量管理机制&滑动窗口&拥塞控制&延迟应答,https://blog.csdn.net/m0_74265792/article/details/142651798
+31,4876,【MySQL必知会】事务,https://blog.csdn.net/jupangMZ/article/details/142745519
+32,4793,Docker 基本管理,https://blog.csdn.net/2201_75549363/article/details/142739601
+33,3839,【Mybatis篇】Mybatis的注解开发,https://blog.csdn.net/m0_74202856/article/details/142729982
+34,3147,与C++类和对象的宿命（下）,https://blog.csdn.net/2301_80863610/article/details/142742144
+35,3114,vue2路由和vue3路由区别及原理,https://blog.csdn.net/qq_25416827/article/details/142746748
+36,2879,基于SpringBoot民宿预订系统小程序【附源码】,https://blog.csdn.net/2402_84112588/article/details/142748811
+37,2712,API 数据接口：使用操作流程与安全指南,https://blog.csdn.net/Noah_ZX/article/details/142741594
+38,2655,深入探索Vue3组合式API,https://blog.csdn.net/weixin_74009702/article/details/142726867
+39,2553,"华为Nova12活力版nova 11,FIN-AL60/FOA-AL00手机忘记密码到底怎么解锁无法激活设备已锁定平台工具软件固件使用解决方案",https://blog.csdn.net/menlouxia123/article/details/142742410
+40,2539,计算机网络：物理层 —— 信道复用技术,https://blog.csdn.net/Zachyy/article/details/142760622
+41,2505,华为 HCIP-Datacom H12-821 题库 (33),https://blog.csdn.net/2301_77362941/article/details/142751176
+42,2343,HCIP--以太网交换安全（二）,https://blog.csdn.net/2401_83878929/article/details/142719322
+43,2314,SQL语法学习,https://blog.csdn.net/qq_43556680/article/details/142736004
+44,2279,李飞飞：我不知道什么是AGI,https://blog.csdn.net/AIBigModel/article/details/142744657
+45,2268,通信工程学习：什么是AIOT智能物联网,https://blog.csdn.net/limengshi138392/article/details/142734693
+46,2258,计算机网络——p2p,https://blog.csdn.net/qq_42183367/article/details/142737043
+47,2054,什么是方差,https://blog.csdn.net/u013172930/article/details/142748438
+48,1889,【网络篇】计算机网络——运输层详述（笔记）,https://blog.csdn.net/CXDNW/article/details/142720472
+49,1817,【qt】QQ仿真项目2,https://blog.csdn.net/qq_74047911/article/details/142616821
+50,1788,【前端】-音乐播放器（源代码和结构讲解，大家可以将自己喜欢的歌曲添加到数据当中，js实现页面动态显示音乐）,https://blog.csdn.net/2301_81253185/article/details/142731617

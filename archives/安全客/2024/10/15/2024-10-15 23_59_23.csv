@@ -1,0 +1,21 @@
+index,hot,title,href
+1,4378,Kubernetes RBAC 最佳安全实践,https://www.anquanke.com/post/id/300925
+2,1.0万,Plane 项目管理工具修补关键 SSRF 漏洞 - CVE-2024-47830 (CVSS 9.3),https://www.anquanke.com/post/id/300906
+3,9699,Apache Roller 在最新更新中修补了 CSRF 漏洞 CVE-2024-46911,https://www.anquanke.com/post/id/300902
+4,7646,Splunk 修补关键漏洞，包括远程代码执行漏洞,https://www.anquanke.com/post/id/300899
+5,8188,GitHub企业服务器修复关键安全漏洞-CVE-2024-9487,https://www.anquanke.com/post/id/300896
+6,8332,比特币核心漏洞（CVE-2024-35202）导致远程节点崩溃,https://www.anquanke.com/post/id/300894
+7,7852,50，000美元赏金：研究人员揭露严重的Zendesk电子邮件欺骗缺陷（CVE-2024-49193）,https://www.anquanke.com/post/id/300891
+8,7316,CISSP和CompRIA Security+成为最受欢迎的安全证书,https://www.anquanke.com/post/id/300887
+9,7407,流行的Java安全框架“pac 4j”易受RCE攻击（CVE-2023-25581）,https://www.anquanke.com/post/id/300883
+10,7828,富达投资今年遭遇第二次数据泄露,https://www.anquanke.com/post/id/300880
+11,7479,谷歌在Android上启用Linux终端，在虚拟机中运行Debian,https://www.anquanke.com/post/id/300877
+12,7394,Gmail诈骗警报：黑客恶搞谷歌窃取凭据,https://www.anquanke.com/post/id/300873
+13,7487,GitGuardian Visual Studio Code 扩展帮助开发人员保护其敏感信息,https://www.anquanke.com/post/id/300870
+14,7668,分析最新的APWG网络钓鱼活动趋势报告：主要发现和见解,https://www.anquanke.com/post/id/300865
+15,8893,利用 Veeam 的关键漏洞传播 Akira 和 Fog 勒索软件,https://www.anquanke.com/post/id/300858
+16,2.5万,一种名为 perfctl 的 Linux 恶意软件在过去 3 - 4 年瞄准配置错误的 Linux 服务器,https://www.anquanke.com/post/id/300851
+17,2.6万,GoldenJackal APT 组织入侵欧洲的空气屏蔽系统,https://www.anquanke.com/post/id/300849
+18,2.5万,CVE-2024-47223 (CVSS 9.4)： Mitel MiCollab中的SQLi漏洞给企业带来严重风险,https://www.anquanke.com/post/id/300846
+19,2.2万,微软在未来的Windows服务器版本中放弃老化的VPN协议PPTP和L2TP,https://www.anquanke.com/post/id/300842
+20,2.4万,数以千计的 Fortinet 设备仍暴露于 RCE CVE-2024-23113 漏洞,https://www.anquanke.com/post/id/300839
